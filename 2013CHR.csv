@@ -1,0 +1,3193 @@
+FIPS,State,County,OutcomesZ-Score,OutcomesRank,FactorsZ-Score,FactorsRank
+01001,Alabama,Autauga,-0.60,15,-0.50,9
+01003,Alabama,Baldwin,-1.35,2,-0.80,4
+01005,Alabama,Barbour,-0.03,33,0.39,57
+01007,Alabama,Bibb,0.64,53,0.29,52
+01009,Alabama,Blount,-0.83,10,-0.40,13
+01011,Alabama,Bullock,0.36,47,0.78,62
+01013,Alabama,Butler,-0.14,28,0.55,58
+01015,Alabama,Calhoun,0.23,43,0.02,36
+01017,Alabama,Chambers,0.44,49,0.32,54
+01019,Alabama,Cherokee,-0.33,23,0.08,39
+01021,Alabama,Chilton,-0.03,34,0.04,38
+01023,Alabama,Choctaw,1.04,62,0.01,35
+01025,Alabama,Clarke,-0.50,18,0.30,53
+01027,Alabama,Clay,0.04,38,0.08,40
+01029,Alabama,Cleburne,-0.12,29,-0.34,16
+01031,Alabama,Coffee,-0.98,6,-0.63,6
+01033,Alabama,Colbert,0.19,42,-0.22,20
+01035,Alabama,Conecuh,0.82,58,0.60,60
+01037,Alabama,Coosa,0.24,44,0.32,55
+01039,Alabama,Covington,-0.33,22,0.21,46
+01041,Alabama,Crenshaw,-0.50,19,-0.17,25
+01043,Alabama,Cullman,-0.55,17,-0.44,12
+01045,Alabama,Dale,-0.59,16,-0.38,15
+01047,Alabama,Dallas,0.86,60,0.91,64
+01049,Alabama,DeKalb,-0.42,20,-0.14,26
+01051,Alabama,Elmore,-0.91,7,-0.62,8
+01053,Alabama,Escambia,0.27,46,0.21,47
+01055,Alabama,Etowah,0.24,45,-0.08,29
+01057,Alabama,Fayette,0.95,61,-0.18,22
+01059,Alabama,Franklin,-0.19,26,-0.08,28
+01061,Alabama,Geneva,-0.64,13,0.15,42
+01063,Alabama,Greene,0.67,55,1.22,67
+01065,Alabama,Hale,1.24,65,0.79,63
+01067,Alabama,Henry,-0.72,12,-0.24,19
+01069,Alabama,Houston,-0.83,9,-0.46,11
+01071,Alabama,Jackson,0.38,48,-0.17,24
+01073,Alabama,Jefferson,-0.15,27,-0.48,10
+01075,Alabama,Lamar,-0.03,35,-0.04,32
+01077,Alabama,Lauderdale,-0.62,14,-0.78,5
+01079,Alabama,Lawrence,-0.05,31,0.11,41
+01081,Alabama,Lee,-1.34,3,-0.83,3
+01083,Alabama,Limestone,-1.20,5,-0.63,7
+01085,Alabama,Lowndes,2.05,67,1.02,65
+01087,Alabama,Macon,0.75,57,0.23,49
+01089,Alabama,Madison,-1.21,4,-0.98,2
+01091,Alabama,Marengo,0.01,37,0.22,48
+01093,Alabama,Marion,-0.04,32,-0.06,31
+01095,Alabama,Marshall,-0.29,24,0.00,34
+01097,Alabama,Mobile,0.10,39,-0.03,33
+01099,Alabama,Monroe,0.65,54,0.58,59
+01101,Alabama,Montgomery,-0.39,21,-0.30,17
+01103,Alabama,Morgan,-0.85,8,-0.27,18
+01105,Alabama,Perry,1.24,64,0.67,61
+01107,Alabama,Pickens,0.56,51,-0.12,27
+01109,Alabama,Pike,-0.02,36,-0.18,23
+01111,Alabama,Randolph,0.14,40,0.15,43
+01113,Alabama,Russell,0.60,52,0.18,44
+01117,Alabama,Shelby,-1.85,1,-1.52,1
+01115,Alabama,St. Clair,-0.73,11,-0.21,21
+01119,Alabama,Sumter,0.48,50,0.33,56
+01121,Alabama,Talladega,0.84,59,0.19,45
+01123,Alabama,Tallapoosa,0.18,41,0.26,51
+01125,Alabama,Tuscaloosa,-0.28,25,-0.40,14
+01127,Alabama,Walker,1.64,66,-0.08,30
+01129,Alabama,Washington,-0.11,30,0.03,37
+01131,Alabama,Wilcox,1.14,63,1.09,66
+01133,Alabama,Winston,0.70,56,0.25,50
+02013,Alaska,Aleutians East,,NR,,NR
+02016,Alaska,Aleutians West,-0.23,10,-0.32,10
+02020,Alaska,Anchorage,-0.25,9,-0.73,2
+02050,Alaska,Bethel,0.54,19,0.67,19
+02060,Alaska,Bristol Bay,,NR,,NR
+02068,Alaska,Denali,,NR,,NR
+02070,Alaska,Dillingham,-0.54,5,0.49,17
+02090,Alaska,Fairbanks North Star,-0.58,4,-0.63,4
+02100,Alaska,Haines,-0.12,15,-0.43,8
+02110,Alaska,Juneau,-0.77,1,-0.93,1
+02122,Alaska,Kenai Peninsula,-0.38,8,-0.44,7
+02130,Alaska,Ketchikan Gateway,-0.17,12,-0.30,12
+02150,Alaska,Kodiak Island,-0.61,2,-0.45,6
+02164,Alaska,Lake and Peninsula,-0.39,7,0.30,15
+02170,Alaska,Matanuska-Susitna,-0.18,11,-0.36,9
+02180,Alaska,Nome,1.30,22,0.86,20
+02185,Alaska,North Slope,0.38,18,0.40,16
+02188,Alaska,Northwest Arctic,0.78,21,0.89,22
+02201,Alaska,Prince of Wales-Outer Ketchikan,-0.06,16,0.59,18
+02220,Alaska,Sitka,-0.53,6,-0.66,3
+02232,Alaska,Skagway-Hoonah-Angoon,-0.16,13,0.15,14
+02240,Alaska,Southeast Fairbanks,-0.59,3,-0.15,13
+02261,Alaska,Valdez-Cordova,-0.13,14,-0.49,5
+02270,Alaska,Wade Hampton,1.86,23,0.96,23
+02280,Alaska,Wrangell-Petersburg,0.20,17,-0.32,11
+02282,Alaska,Yakutat,,NR,,NR
+02290,Alaska,Yukon-Koyukuk,0.60,20,0.88,21
+04001,Arizona,Apache,1.11,14,0.99,15
+04003,Arizona,Cochise,0.11,9,-0.30,6
+04005,Arizona,Coconino,-0.47,5,-0.46,4
+04007,Arizona,Gila,1.27,15,0.33,11
+04009,Arizona,Graham,0.23,10,0.09,9
+04011,Arizona,Greenlee,-0.45,6,-0.34,5
+04012,Arizona,La Paz,0.83,13,0.53,14
+04013,Arizona,Maricopa,-0.82,1,-0.63,1
+04015,Arizona,Mohave,0.29,11,0.33,12
+04017,Arizona,Navajo,0.76,12,0.41,13
+04019,Arizona,Pima,-0.43,7,-0.55,3
+04021,Arizona,Pinal,-0.62,4,-0.08,7
+04023,Arizona,Santa Cruz,-0.80,2,-0.01,8
+04025,Arizona,Yavapai,-0.19,8,-0.58,2
+04027,Arizona,Yuma,-0.80,3,0.24,10
+05001,Arkansas,Arkansas,0.74,64,0.17,47
+05003,Arkansas,Ashley,0.24,50,0.44,65
+05005,Arkansas,Baxter,-0.64,16,-0.47,11
+05007,Arkansas,Benton,-1.80,1,-1.10,1
+05009,Arkansas,Boone,-1.05,5,-0.61,5
+05011,Arkansas,Bradley,-0.29,28,0.18,49
+05013,Arkansas,Calhoun,-0.10,35,0.08,44
+05015,Arkansas,Carroll,-0.55,18,-0.39,15
+05017,Arkansas,Chicot,1.09,68,0.85,73
+05019,Arkansas,Clark,-0.81,11,-0.53,8
+05021,Arkansas,Clay,-0.53,20,0.22,55
+05023,Arkansas,Cleburne,0.10,45,-0.50,10
+05025,Arkansas,Cleveland,-0.28,29,-0.40,13
+05027,Arkansas,Columbia,-0.07,37,-0.23,22
+05029,Arkansas,Conway,0.38,56,-0.10,31
+05031,Arkansas,Craighead,-0.65,13,-0.54,6
+05033,Arkansas,Crawford,-0.43,23,-0.37,16
+05035,Arkansas,Crittenden,1.23,70,0.84,72
+05037,Arkansas,Cross,0.51,58,0.21,54
+05039,Arkansas,Dallas,0.67,61,0.25,57
+05041,Arkansas,Desha,1.19,69,0.68,69
+05043,Arkansas,Drew,-0.11,34,0.18,48
+05045,Arkansas,Faulkner,-1.20,3,-0.92,2
+05047,Arkansas,Franklin,-0.65,14,-0.35,19
+05049,Arkansas,Fulton,0.24,49,-0.40,14
+05051,Arkansas,Garland,-0.05,38,-0.29,20
+05053,Arkansas,Grant,-0.01,41,-0.04,37
+05055,Arkansas,Greene,-0.37,24,-0.09,33
+05057,Arkansas,Hempstead,-0.12,33,0.21,52
+05059,Arkansas,Hot Spring,0.11,46,-0.04,38
+05061,Arkansas,Howard,-0.18,31,0.02,42
+05063,Arkansas,Independence,0.28,52,-0.24,21
+05065,Arkansas,Izard,0.76,65,-0.16,27
+05067,Arkansas,Jackson,0.07,44,0.33,60
+05069,Arkansas,Jefferson,0.25,51,0.46,67
+05071,Arkansas,Johnson,-0.64,15,-0.10,30
+05073,Arkansas,Lafayette,1.36,71,-0.11,29
+05075,Arkansas,Lawrence,-0.17,32,0.01,41
+05077,Arkansas,Lee,1.01,67,0.70,70
+05079,Arkansas,Lincoln,-0.29,27,0.16,46
+05081,Arkansas,Little River,0.32,54,-0.15,28
+05083,Arkansas,Logan,-0.02,40,-0.07,34
+05085,Arkansas,Lonoke,-0.73,12,-0.51,9
+05087,Arkansas,Madison,-1.05,6,-0.02,39
+05089,Arkansas,Marion,-0.09,36,-0.18,24
+05091,Arkansas,Miller,-0.02,39,0.39,62
+05093,Arkansas,Mississippi,1.58,73,0.97,74
+05095,Arkansas,Monroe,0.44,57,0.41,63
+05097,Arkansas,Montgomery,-0.26,30,-0.17,26
+05099,Arkansas,Nevada,0.22,48,0.10,45
+05101,Arkansas,Newton,0.34,55,-0.02,40
+05103,Arkansas,Ouachita,1.77,75,0.27,59
+05105,Arkansas,Perry,-0.31,25,-0.09,32
+05107,Arkansas,Phillips,1.72,74,1.23,75
+05109,Arkansas,Pike,-1.03,7,-0.06,36
+05111,Arkansas,Poinsett,1.57,72,0.53,68
+05113,Arkansas,Polk,0.21,47,0.21,53
+05115,Arkansas,Pope,-0.82,10,-0.36,18
+05117,Arkansas,Prairie,0.31,53,-0.18,25
+05119,Arkansas,Pulaski,-0.51,22,-0.46,12
+05121,Arkansas,Randolph,0.05,43,-0.21,23
+05125,Arkansas,Saline,-1.08,4,-0.91,3
+05127,Arkansas,Scott,-0.64,17,0.41,64
+05129,Arkansas,Searcy,-0.52,21,0.26,58
+05131,Arkansas,Sebastian,-0.55,19,-0.37,17
+05133,Arkansas,Sevier,-0.87,8,0.24,56
+05135,Arkansas,Sharp,0.51,59,0.06,43
+05123,Arkansas,St. Francis,0.65,60,0.81,71
+05137,Arkansas,Stone,0.70,63,0.19,50
+05139,Arkansas,Union,0.68,62,-0.07,35
+05141,Arkansas,Van Buren,-0.31,26,0.20,51
+05143,Arkansas,Washington,-1.53,2,-0.79,4
+05145,Arkansas,White,-0.84,9,-0.54,7
+05147,Arkansas,Woodruff,0.91,66,0.46,66
+05149,Arkansas,Yell,-0.01,42,0.35,61
+06001,California,Alameda,-0.44,18,-0.37,18
+06003,California,Alpine,,NR,,NR
+06005,California,Amador,0.26,35,-0.14,22
+06007,California,Butte,0.52,45,0.20,32
+06009,California,Calaveras,0.03,29,-0.13,24
+06011,California,Colusa,-0.78,8,0.37,43
+06013,California,Contra Costa,-0.44,19,-0.51,15
+06015,California,Del Norte,0.90,53,0.25,34
+06017,California,El Dorado,-0.89,6,-0.86,5
+06019,California,Fresno,0.54,46,0.81,54
+06021,California,Glenn,-0.24,25,0.29,38
+06023,California,Humboldt,0.69,48,0.02,27
+06025,California,Imperial,0.15,34,0.90,55
+06027,California,Inyo,0.87,52,-0.26,20
+06029,California,Kern,0.91,54,1.00,56
+06031,California,Kings,0.48,41,0.72,48
+06033,California,Lake,1.25,57,0.73,50
+06035,California,Lassen,0.10,31,0.33,40
+06037,California,Los Angeles,0.02,28,0.24,33
+06039,California,Madera,0.37,37,0.75,52
+06041,California,Marin,-1.28,1,-1.44,1
+06043,California,Mariposa,-0.05,26,-0.12,25
+06045,California,Mendocino,0.50,43,0.19,31
+06047,California,Merced,0.41,39,0.81,53
+06049,California,Modoc,0.83,51,0.28,37
+06051,California,Mono,-0.47,16,-0.49,17
+06053,California,Monterey,-0.38,21,0.10,29
+06055,California,Napa,-0.28,24,-0.55,12
+06057,California,Nevada,-0.74,9,-0.78,7
+06059,California,Orange,-0.87,7,-0.70,9
+06061,California,Placer,-1.05,2,-1.18,2
+06063,California,Plumas,-0.41,20,0.26,35
+06065,California,Riverside,0.02,27,0.26,36
+06067,California,Sacramento,0.07,30,0.12,30
+06069,California,San Benito,-0.72,10,-0.14,23
+06071,California,San Bernardino,0.52,44,0.59,46
+06073,California,San Diego,-0.45,17,-0.31,19
+06075,California,San Francisco,-0.35,23,-0.77,8
+06077,California,San Joaquin,0.49,42,0.72,47
+06079,California,San Luis Obispo,-0.65,11,-0.80,6
+06081,California,San Mateo,-0.96,4,-1.09,3
+06083,California,Santa Barbara,-0.51,14,-0.52,14
+06085,California,Santa Clara,-1.05,3,-0.95,4
+06087,California,Santa Cruz,-0.59,13,-0.63,10
+06089,California,Shasta,0.68,47,0.34,41
+06091,California,Sierra,0.41,38,0.00,26
+06093,California,Siskiyou,1.24,56,0.32,39
+06095,California,Solano,0.14,32,0.05,28
+06097,California,Sonoma,-0.61,12,-0.51,16
+06099,California,Stanislaus,0.36,36,0.72,49
+06101,California,Sutter,0.15,33,0.39,44
+06103,California,Tehama,1.01,55,0.58,45
+06105,California,Trinity,0.47,40,0.36,42
+06107,California,Tulare,0.80,49,1.02,57
+06109,California,Tuolumne,-0.37,22,-0.17,21
+06111,California,Ventura,-0.51,15,-0.52,13
+06113,California,Yolo,-0.93,5,-0.57,11
+06115,California,Yuba,0.83,50,0.74,51
+08001,Colorado,Adams,0.00,35,0.57,51
+08003,Colorado,Alamosa,0.52,43,0.26,40
+08005,Colorado,Arapahoe,-0.34,24,-0.14,26
+08007,Colorado,Archuleta,-0.07,32,0.00,30
+08009,Colorado,Baca,1.54,58,0.30,42
+08011,Colorado,Bent,1.12,55,0.77,56
+08013,Colorado,Boulder,-0.92,5,-0.92,2
+08014,Colorado,Broomfield,-0.77,8,-0.65,6
+08015,Colorado,Chaffee,-0.28,26,-0.45,12
+08017,Colorado,Cheyenne,-0.32,25,-0.25,20
+08019,Colorado,Clear Creek,0.41,41,-0.26,18
+08021,Colorado,Conejos,1.37,56,0.41,45
+08023,Colorado,Costilla,0.88,52,1.07,59
+08025,Colorado,Crowley,-0.37,23,0.49,50
+08027,Colorado,Custer,-0.39,22,-0.01,29
+08029,Colorado,Delta,0.44,42,0.26,39
+08031,Colorado,Denver,0.37,40,0.47,48
+08033,Colorado,Dolores,-0.20,28,0.12,35
+08035,Colorado,Douglas,-1.20,2,-1.16,1
+08037,Colorado,Eagle,-1.11,3,-0.49,10
+08041,Colorado,El Paso,-0.03,34,0.04,31
+08039,Colorado,Elbert,-0.58,13,-0.40,14
+08043,Colorado,Fremont,0.56,45,0.41,46
+08045,Colorado,Garfield,-0.52,16,-0.04,28
+08047,Colorado,Gilpin,-0.08,31,-0.24,21
+08049,Colorado,Grand,-0.45,20,-0.24,22
+08051,Colorado,Gunnison,-0.66,11,-0.46,11
+08053,Colorado,Hinsdale,,NR,,NR
+08055,Colorado,Huerfano,1.75,59,0.68,55
+08057,Colorado,Jackson,,NR,,NR
+08059,Colorado,Jefferson,-0.53,15,-0.44,13
+08061,Colorado,Kiowa,,NR,,NR
+08063,Colorado,Kit Carson,-0.13,30,0.20,38
+08067,Colorado,La Plata,-0.84,6,-0.36,15
+08065,Colorado,Lake,0.94,54,0.49,49
+08069,Colorado,Larimer,-0.73,9,-0.55,8
+08071,Colorado,Las Animas,1.45,57,0.65,54
+08073,Colorado,Lincoln,-0.57,14,0.08,34
+08075,Colorado,Logan,-0.45,19,0.38,43
+08077,Colorado,Mesa,-0.05,33,0.06,33
+08079,Colorado,Mineral,,NR,,NR
+08081,Colorado,Moffat,0.56,44,0.44,47
+08083,Colorado,Montezuma,0.56,46,0.27,41
+08085,Colorado,Montrose,0.02,36,0.05,32
+08087,Colorado,Morgan,0.14,38,0.19,37
+08089,Colorado,Otero,0.80,49,0.79,57
+08091,Colorado,Ouray,-0.50,18,-0.61,7
+08093,Colorado,Park,-0.13,29,-0.32,17
+08095,Colorado,Phillips,0.08,37,-0.35,16
+08097,Colorado,Pitkin,-1.28,1,-0.85,4
+08099,Colorado,Prowers,0.93,53,0.64,53
+08101,Colorado,Pueblo,0.75,48,0.63,52
+08103,Colorado,Rio Blanco,-0.25,27,-0.26,19
+08105,Colorado,Rio Grande,0.83,50,0.41,44
+08107,Colorado,Routt,-0.70,10,-0.88,3
+08109,Colorado,Saguache,0.85,51,0.82,58
+08111,Colorado,San Juan,,NR,,NR
+08113,Colorado,San Miguel,-0.52,17,-0.49,9
+08115,Colorado,Sedgwick,0.58,47,-0.04,27
+08117,Colorado,Summit,-0.94,4,-0.84,5
+08119,Colorado,Teller,0.34,39,-0.21,23
+08121,Colorado,Washington,-0.62,12,-0.20,24
+08123,Colorado,Weld,-0.43,21,0.18,36
+08125,Colorado,Yuma,-0.82,7,-0.15,25
+09001,Connecticut,Fairfield,-0.85,2,-0.36,4
+09003,Connecticut,Hartford,0.66,6,0.22,6
+09005,Connecticut,Litchfield,-0.29,4,-0.42,3
+09007,Connecticut,Middlesex,-0.56,3,-0.75,1
+09009,Connecticut,New Haven,1.15,8,0.76,7
+09011,Connecticut,New London,-0.05,5,0.19,5
+09013,Connecticut,Tolland,-1.04,1,-0.52,2
+09015,Connecticut,Windham,0.99,7,0.88,8
+10001,Delaware,Kent,0.83,3,0.40,3
+10003,Delaware,New Castle,-0.57,1,-0.40,1
+10005,Delaware,Sussex,-0.27,2,0.00,2
+11001,District of Columbia,District of Columbia,0.00,1,0.00,1
+12001,Florida,Alachua,-0.56,18,-0.82,4
+12003,Florida,Baker,1.05,62,0.30,47
+12005,Florida,Bay,-0.02,35,-0.09,32
+12007,Florida,Bradford,0.78,60,0.20,44
+12009,Florida,Brevard,-0.27,26,-0.33,20
+12011,Florida,Broward,-0.77,9,-0.63,8
+12013,Florida,Calhoun,0.34,46,0.34,49
+12015,Florida,Charlotte,-0.25,28,-0.39,18
+12017,Florida,Citrus,0.44,50,-0.02,34
+12019,Florida,Clay,-0.88,7,-0.51,16
+12021,Florida,Collier,-1.34,3,-0.57,10
+12023,Florida,Columbia,0.76,58,0.35,50
+12027,Florida,DeSoto,-0.67,13,0.77,60
+12029,Florida,Dixie,0.78,59,0.88,64
+12031,Florida,Duval,0.34,47,-0.10,31
+12033,Florida,Escambia,0.66,55,0.12,41
+12035,Florida,Flagler,-0.37,23,-0.23,27
+12037,Florida,Franklin,-0.14,33,0.41,52
+12039,Florida,Gadsden,1.09,63,0.83,62
+12041,Florida,Gilchrist,0.33,43,0.12,42
+12043,Florida,Glades,-0.02,36,0.73,59
+12045,Florida,Gulf,-0.13,34,0.30,46
+12047,Florida,Hamilton,1.24,64,0.95,67
+12049,Florida,Hardee,-0.33,25,0.70,57
+12051,Florida,Hendry,-0.16,32,0.87,63
+12053,Florida,Hernando,0.41,48,-0.03,33
+12055,Florida,Highlands,0.04,37,0.09,38
+12057,Florida,Hillsborough,-0.16,31,-0.28,22
+12059,Florida,Holmes,0.48,52,0.28,45
+12061,Florida,Indian River,-0.65,15,-0.37,19
+12063,Florida,Jackson,0.42,49,0.01,35
+12065,Florida,Jefferson,0.69,56,0.46,53
+12067,Florida,Lafayette,0.19,40,0.08,37
+12069,Florida,Lake,-0.53,19,-0.53,14
+12071,Florida,Lee,-0.74,11,-0.24,24
+12073,Florida,Leon,-0.88,8,-0.55,11
+12075,Florida,Levy,0.75,57,0.50,54
+12077,Florida,Liberty,0.13,39,0.32,48
+12079,Florida,Madison,0.46,51,0.82,61
+12081,Florida,Manatee,-0.48,21,-0.28,23
+12083,Florida,Marion,0.33,44,0.10,39
+12085,Florida,Martin,-1.36,2,-0.87,2
+12086,Florida,Miami-Dade,-0.92,6,-0.15,29
+12087,Florida,Monroe,-0.50,20,-0.57,9
+12089,Florida,Nassau,-0.19,29,-0.52,15
+12091,Florida,Okaloosa,-0.57,16,-0.64,7
+12093,Florida,Okeechobee,0.63,53,0.88,65
+12095,Florida,Orange,-0.70,12,-0.31,21
+12097,Florida,Osceola,-0.57,17,0.10,40
+12099,Florida,Palm Beach,-0.65,14,-0.70,6
+12101,Florida,Pasco,0.34,45,-0.21,28
+12103,Florida,Pinellas,0.06,38,-0.41,17
+12105,Florida,Polk,-0.18,30,0.18,43
+12107,Florida,Putnam,1.34,66,0.94,66
+12113,Florida,Santa Rosa,-0.75,10,-0.55,12
+12115,Florida,Sarasota,-1.02,5,-0.84,3
+12117,Florida,Seminole,-1.28,4,-0.79,5
+12109,Florida,St. Johns,-1.41,1,-1.32,1
+12111,Florida,St. Lucie,-0.41,22,0.04,36
+12119,Florida,Sumter,-0.35,24,-0.54,13
+12121,Florida,Suwannee,0.65,54,0.53,55
+12123,Florida,Taylor,0.95,61,0.71,58
+12125,Florida,Union,1.91,67,0.41,51
+12127,Florida,Volusia,0.32,42,-0.10,30
+12129,Florida,Wakulla,-0.27,27,-0.23,26
+12131,Florida,Walton,0.31,41,-0.24,25
+12133,Florida,Washington,1.30,65,0.54,56
+13001,Georgia,Appling,0.92,149,0.48,141
+13003,Georgia,Atkinson,-0.01,69,0.62,151
+13005,Georgia,Bacon,0.38,107,0.20,104
+13007,Georgia,Baker,-0.11,65,0.31,116
+13009,Georgia,Baldwin,0.16,90,0.12,87
+13011,Georgia,Banks,-0.41,41,-0.28,41
+13013,Georgia,Barrow,-0.39,44,0.04,75
+13015,Georgia,Bartow,-0.23,61,-0.14,50
+13017,Georgia,Ben Hill,0.82,147,0.64,153
+13019,Georgia,Berrien,0.08,76,0.54,144
+13021,Georgia,Bibb,0.67,139,0.06,77
+13023,Georgia,Bleckley,0.62,137,-0.06,55
+13025,Georgia,Brantley,0.50,122,0.10,82
+13027,Georgia,Brooks,0.11,82,0.35,120
+13029,Georgia,Bryan,-0.79,21,-0.70,10
+13031,Georgia,Bulloch,-0.46,40,-0.08,51
+13033,Georgia,Burke,0.75,144,0.42,133
+13035,Georgia,Butts,0.58,133,0.11,85
+13037,Georgia,Calhoun,-0.48,39,0.39,129
+13039,Georgia,Camden,-0.95,13,-0.48,30
+13043,Georgia,Candler,0.09,77,0.26,109
+13045,Georgia,Carroll,-0.25,58,-0.05,56
+13047,Georgia,Catoosa,-0.31,51,-0.36,37
+13049,Georgia,Charlton,0.01,70,0.12,88
+13051,Georgia,Chatham,-0.30,52,-0.28,42
+13053,Georgia,Chattahoochee,-0.29,56,-0.27,43
+13055,Georgia,Chattooga,0.43,111,-0.03,60
+13057,Georgia,Cherokee,-1.47,5,-1.01,5
+13059,Georgia,Clarke,-0.93,14,-0.59,20
+13061,Georgia,Clay,1.71,159,0.37,122
+13063,Georgia,Clayton,-0.40,42,0.55,147
+13065,Georgia,Clinch,0.99,151,0.39,128
+13067,Georgia,Cobb,-1.43,6,-1.00,7
+13069,Georgia,Coffee,0.22,98,0.71,157
+13071,Georgia,Colquitt,0.15,88,0.30,115
+13073,Georgia,Columbia,-1.33,7,-1.21,4
+13075,Georgia,Cook,0.39,108,0.37,121
+13077,Georgia,Coweta,-1.13,9,-0.68,11
+13079,Georgia,Crawford,-0.33,50,0.00,67
+13081,Georgia,Crisp,0.94,150,0.54,145
+13083,Georgia,Dade,0.44,114,-0.46,31
+13085,Georgia,Dawson,-0.85,18,-0.61,17
+13087,Georgia,Decatur,0.68,140,0.63,152
+13089,Georgia,DeKalb,-0.87,17,-0.48,29
+13091,Georgia,Dodge,0.47,119,0.43,134
+13093,Georgia,Dooly,-0.72,26,0.62,150
+13095,Georgia,Dougherty,0.40,109,0.42,132
+13097,Georgia,Douglas,-0.69,27,-0.49,28
+13099,Georgia,Early,1.15,154,0.15,94
+13101,Georgia,Echols,-0.25,60,-0.06,54
+13103,Georgia,Effingham,-0.56,34,-0.61,18
+13105,Georgia,Elbert,0.43,112,0.55,146
+13107,Georgia,Emanuel,0.65,138,0.38,127
+13109,Georgia,Evans,0.28,103,0.33,117
+13111,Georgia,Fannin,0.37,106,0.14,92
+13113,Georgia,Fayette,-1.83,2,-1.53,1
+13115,Georgia,Floyd,0.17,91,-0.33,38
+13117,Georgia,Forsyth,-2.05,1,-1.43,3
+13119,Georgia,Franklin,0.20,95,-0.08,52
+13121,Georgia,Fulton,-0.62,29,-0.61,19
+13123,Georgia,Gilmer,-0.55,36,0.15,97
+13125,Georgia,Glascock,0.45,116,-0.21,46
+13127,Georgia,Glynn,-0.34,49,-0.32,39
+13129,Georgia,Gordon,-0.28,57,0.12,91
+13131,Georgia,Grady,0.23,99,0.03,74
+13133,Georgia,Greene,0.06,74,-0.01,66
+13135,Georgia,Gwinnett,-1.56,4,-0.78,8
+13137,Georgia,Habersham,-0.89,16,-0.26,44
+13139,Georgia,Hall,-1.03,11,-0.46,32
+13141,Georgia,Hancock,0.18,92,0.68,156
+13143,Georgia,Haralson,0.45,115,-0.02,62
+13145,Georgia,Harris,-0.61,31,-1.00,6
+13147,Georgia,Hart,-0.36,45,-0.05,57
+13149,Georgia,Heard,0.15,87,0.01,69
+13151,Georgia,Henry,-0.92,15,-0.62,14
+13153,Georgia,Houston,-0.75,23,-0.50,27
+13155,Georgia,Irwin,0.58,132,0.20,103
+13157,Georgia,Jackson,-0.35,48,-0.53,24
+13159,Georgia,Jasper,-0.29,55,-0.19,48
+13161,Georgia,Jeff Davis,0.62,136,0.37,123
+13163,Georgia,Jefferson,0.42,110,0.46,137
+13165,Georgia,Jenkins,0.73,143,0.77,158
+13167,Georgia,Johnson,0.56,131,0.30,114
+13169,Georgia,Jones,-0.30,54,-0.50,26
+13171,Georgia,Lamar,0.48,120,0.01,70
+13173,Georgia,Lanier,0.23,100,0.18,102
+13175,Georgia,Laurens,0.12,84,0.15,95
+13177,Georgia,Lee,-0.84,19,-0.62,15
+13179,Georgia,Liberty,-0.39,43,-0.02,64
+13181,Georgia,Lincoln,-0.08,67,0.16,100
+13183,Georgia,Long,-0.55,35,-0.15,49
+13185,Georgia,Lowndes,0.02,72,-0.02,63
+13187,Georgia,Lumpkin,-1.00,12,-0.63,13
+13193,Georgia,Macon,0.31,104,0.48,140
+13195,Georgia,Madison,0.50,123,-0.03,61
+13197,Georgia,Marion,0.21,97,0.33,118
+13189,Georgia,McDuffie,1.39,156,0.12,90
+13191,Georgia,McIntosh,-0.21,63,0.02,71
+13199,Georgia,Meriwether,0.12,85,0.27,111
+13201,Georgia,Miller,0.25,102,0.00,68
+13205,Georgia,Mitchell,0.35,105,0.29,112
+13207,Georgia,Monroe,-0.52,37,-0.51,25
+13209,Georgia,Montgomery,0.01,71,0.15,99
+13211,Georgia,Morgan,-1.13,8,-0.66,12
+13213,Georgia,Murray,0.48,121,0.51,142
+13215,Georgia,Muscogee,0.44,113,0.05,76
+13217,Georgia,Newton,-0.58,33,-0.04,59
+13219,Georgia,Oconee,-1.71,3,-1.46,2
+13221,Georgia,Oglethorpe,-0.74,24,-0.40,34
+13223,Georgia,Paulding,-0.74,25,-0.62,16
+13225,Georgia,Peach,0.21,96,0.21,105
+13227,Georgia,Pickens,-0.58,32,-0.29,40
+13229,Georgia,Pierce,0.56,130,-0.01,65
+13231,Georgia,Pike,-0.35,46,-0.53,23
+13233,Georgia,Polk,0.51,125,0.15,98
+13235,Georgia,Pulaski,-0.35,47,-0.25,45
+13237,Georgia,Putnam,-0.30,53,0.07,81
+13239,Georgia,Quitman,0.10,80,0.46,138
+13241,Georgia,Rabun,0.12,83,-0.37,36
+13243,Georgia,Randolph,0.81,146,0.30,113
+13245,Georgia,Richmond,0.59,135,0.26,107
+13247,Georgia,Rockdale,-1.06,10,-0.40,35
+13249,Georgia,Schley,-0.25,59,-0.04,58
+13251,Georgia,Screven,0.56,128,0.17,101
+13253,Georgia,Seminole,0.24,101,0.07,79
+13255,Georgia,Spalding,0.69,141,0.14,93
+13257,Georgia,Stephens,0.50,124,-0.06,53
+13259,Georgia,Stewart,1.45,158,0.64,154
+13261,Georgia,Sumter,-0.22,62,0.55,148
+13263,Georgia,Talbot,0.84,148,0.33,119
+13265,Georgia,Taliaferro,1.06,152,1.00,159
+13267,Georgia,Tattnall,0.76,145,0.45,136
+13269,Georgia,Taylor,0.10,78,0.38,125
+13271,Georgia,Telfair,0.04,73,0.67,155
+13273,Georgia,Terrell,1.42,157,0.58,149
+13275,Georgia,Thomas,0.10,81,-0.20,47
+13277,Georgia,Tift,0.15,89,0.15,96
+13279,Georgia,Toombs,0.07,75,0.40,130
+13281,Georgia,Towns,-0.77,22,-0.58,21
+13283,Georgia,Treutlen,0.18,93,0.52,143
+13285,Georgia,Troup,0.10,79,0.02,73
+13287,Georgia,Turner,1.10,153,0.38,126
+13289,Georgia,Twiggs,0.19,94,0.26,108
+13291,Georgia,Union,-0.79,20,-0.77,9
+13293,Georgia,Upson,0.58,134,0.10,83
+13295,Georgia,Walker,0.47,118,0.07,80
+13297,Georgia,Walton,-0.62,30,-0.41,33
+13299,Georgia,Ware,0.46,117,0.22,106
+13301,Georgia,Warren,0.56,129,0.40,131
+13303,Georgia,Washington,0.54,127,0.27,110
+13305,Georgia,Wayne,0.54,126,0.37,124
+13307,Georgia,Webster,-0.15,64,0.10,84
+13309,Georgia,Wheeler,-0.06,68,0.12,89
+13311,Georgia,White,-0.49,38,-0.55,22
+13313,Georgia,Whitfield,-0.63,28,0.12,86
+13315,Georgia,Wilcox,1.18,155,0.47,139
+13317,Georgia,Wilkes,0.13,86,0.44,135
+13319,Georgia,Wilkinson,0.70,142,0.06,78
+13321,Georgia,Worth,-0.10,66,0.02,72
+15001,Hawaii,Hawaii,1.03,4,0.67,4
+15003,Hawaii,Honolulu,-0.63,1,-0.60,1
+15005,Hawaii,Kalawao,,NR,,NR
+15007,Hawaii,Kauai,0.15,3,-0.13,2
+15009,Hawaii,Maui,-0.55,2,0.06,3
+16001,Idaho,Ada,-0.77,7,-0.78,2
+16003,Idaho,Adams,-0.54,10,0.51,36
+16005,Idaho,Bannock,0.39,30,-0.25,12
+16007,Idaho,Bear Lake,1.75,42,-0.40,11
+16009,Idaho,Benewah,0.92,39,0.81,42
+16011,Idaho,Bingham,0.62,34,-0.03,18
+16013,Idaho,Blaine,-1.03,5,-0.78,3
+16015,Idaho,Boise,0.93,40,0.00,20
+16017,Idaho,Bonner,0.09,20,-0.10,16
+16019,Idaho,Bonneville,-0.07,19,-0.56,7
+16021,Idaho,Boundary,-0.42,15,0.29,28
+16023,Idaho,Butte,0.53,32,0.10,26
+16025,Idaho,Camas,,NR,,NR
+16027,Idaho,Canyon,-0.14,17,0.37,33
+16029,Idaho,Caribou,0.78,36,-0.53,9
+16031,Idaho,Cassia,-0.10,18,-0.07,17
+16033,Idaho,Clark,,NR,,NR
+16035,Idaho,Clearwater,0.10,21,0.60,39
+16037,Idaho,Custer,-0.46,12,-0.13,15
+16039,Idaho,Elmore,0.20,27,0.09,24
+16041,Idaho,Franklin,-1.21,3,-0.72,4
+16043,Idaho,Fremont,-0.44,13,-0.01,19
+16045,Idaho,Gem,0.17,24,0.43,35
+16047,Idaho,Gooding,0.12,22,0.56,38
+16049,Idaho,Idaho,0.13,23,0.35,31
+16051,Idaho,Jefferson,-0.90,6,-0.55,8
+16053,Idaho,Jerome,0.64,35,0.67,40
+16055,Idaho,Kootenai,-0.63,8,-0.13,14
+16057,Idaho,Latah,-1.16,4,-0.71,5
+16059,Idaho,Lemhi,0.88,38,0.12,27
+16061,Idaho,Lewis,-0.30,16,0.32,30
+16063,Idaho,Lincoln,0.83,37,0.38,34
+16065,Idaho,Madison,-1.49,1,-0.93,1
+16067,Idaho,Minidoka,0.61,33,0.30,29
+16069,Idaho,Nez Perce,0.20,26,-0.21,13
+16071,Idaho,Oneida,-0.60,9,-0.44,10
+16073,Idaho,Owyhee,0.23,28,0.51,37
+16075,Idaho,Payette,0.41,31,0.36,32
+16077,Idaho,Power,-0.43,14,0.09,23
+16079,Idaho,Shoshone,1.41,41,0.75,41
+16081,Idaho,Teton,-0.46,11,-0.57,6
+16083,Idaho,Twin Falls,0.24,29,0.03,21
+16085,Idaho,Valley,-1.23,2,0.05,22
+16087,Idaho,Washington,0.19,25,0.09,25
+17001,Illinois,Adams,-0.17,44,-0.15,39
+17003,Illinois,Alexander,1.84,102,1.47,102
+17005,Illinois,Bond,0.16,62,-0.19,31
+17007,Illinois,Boone,-0.50,28,0.16,70
+17009,Illinois,Brown,-0.90,9,-0.60,9
+17011,Illinois,Bureau,-0.36,35,-0.02,48
+17013,Illinois,Calhoun,-0.81,13,-0.22,27
+17015,Illinois,Carroll,0.02,53,0.06,59
+17017,Illinois,Cass,0.12,57,0.23,75
+17019,Illinois,Champaign,-0.60,23,-0.40,15
+17021,Illinois,Christian,0.51,81,0.11,63
+17023,Illinois,Clark,0.31,71,0.16,71
+17025,Illinois,Clay,-0.08,49,0.23,77
+17027,Illinois,Clinton,-0.76,15,-0.51,11
+17029,Illinois,Coles,0.08,55,-0.16,34
+17031,Illinois,Cook,0.43,78,0.36,84
+17033,Illinois,Crawford,0.65,85,0.00,51
+17035,Illinois,Cumberland,-0.35,36,0.01,54
+17039,Illinois,De Witt,0.13,59,-0.15,40
+17037,Illinois,DeKalb,-0.78,14,-0.15,36
+17041,Illinois,Douglas,-1.34,1,-0.27,22
+17043,Illinois,DuPage,-1.09,6,-1.22,1
+17045,Illinois,Edgar,0.37,76,0.32,82
+17047,Illinois,Edwards,1.45,100,-0.16,35
+17049,Illinois,Effingham,-0.57,24,-0.50,12
+17051,Illinois,Fayette,-0.21,42,0.53,94
+17053,Illinois,Ford,-0.39,34,-0.02,49
+17055,Illinois,Franklin,1.44,99,0.51,93
+17057,Illinois,Fulton,0.25,69,0.14,66
+17059,Illinois,Gallatin,1.70,101,0.51,91
+17061,Illinois,Greene,0.15,61,0.28,79
+17063,Illinois,Grundy,-0.22,41,-0.05,46
+17065,Illinois,Hamilton,0.99,93,0.37,85
+17067,Illinois,Hancock,-0.50,27,0.03,57
+17069,Illinois,Hardin,1.15,94,0.64,96
+17071,Illinois,Henderson,-0.29,38,0.00,53
+17073,Illinois,Henry,-1.11,5,-0.38,16
+17075,Illinois,Iroquois,0.24,68,0.15,68
+17077,Illinois,Jackson,0.35,73,0.13,64
+17079,Illinois,Jasper,0.17,63,-0.08,44
+17081,Illinois,Jefferson,0.87,90,0.34,83
+17083,Illinois,Jersey,-0.33,37,-0.30,19
+17085,Illinois,Jo Daviess,-1.31,2,-0.58,10
+17087,Illinois,Johnson,0.22,65,0.17,72
+17089,Illinois,Kane,-0.86,12,-0.15,38
+17091,Illinois,Kankakee,0.35,72,0.67,97
+17093,Illinois,Kendall,-1.02,7,-0.85,4
+17095,Illinois,Knox,0.36,74,0.31,80
+17097,Illinois,Lake,-0.76,16,-0.80,5
+17099,Illinois,LaSalle,0.38,77,0.31,81
+17101,Illinois,Lawrence,0.86,89,0.40,87
+17103,Illinois,Lee,-0.23,40,-0.26,25
+17105,Illinois,Livingston,0.59,84,0.06,58
+17107,Illinois,Logan,0.37,75,0.16,69
+17115,Illinois,Macon,0.69,86,0.51,92
+17117,Illinois,Macoupin,-0.15,45,-0.10,43
+17119,Illinois,Madison,0.53,83,-0.05,47
+17121,Illinois,Marion,0.88,91,0.79,98
+17123,Illinois,Marshall,0.18,64,-0.34,17
+17125,Illinois,Mason,0.97,92,0.24,78
+17127,Illinois,Massac,1.19,95,0.50,90
+17109,Illinois,McDonough,-0.88,10,-0.21,28
+17111,Illinois,McHenry,-0.75,17,-0.74,6
+17113,Illinois,McLean,-0.40,33,-0.73,7
+17129,Illinois,Menard,-0.52,26,-0.46,14
+17131,Illinois,Mercer,-1.24,4,-0.27,24
+17133,Illinois,Monroe,-0.65,21,-1.14,2
+17135,Illinois,Montgomery,0.46,79,0.09,62
+17137,Illinois,Morgan,-0.27,39,0.00,52
+17139,Illinois,Moultrie,-0.46,31,-0.27,21
+17141,Illinois,Ogle,-0.60,22,-0.21,30
+17143,Illinois,Peoria,0.23,66,0.18,73
+17145,Illinois,Perry,0.01,52,0.22,74
+17147,Illinois,Piatt,-0.69,20,-0.60,8
+17149,Illinois,Pike,-0.86,11,-0.15,37
+17151,Illinois,Pope,0.13,60,0.42,89
+17153,Illinois,Pulaski,1.43,98,0.82,100
+17155,Illinois,Putnam,0.12,58,-0.30,18
+17157,Illinois,Randolph,-0.17,43,0.01,55
+17159,Illinois,Richland,-0.06,51,0.07,60
+17161,Illinois,Rock Island,0.05,54,-0.14,41
+17165,Illinois,Saline,1.34,97,0.40,88
+17167,Illinois,Sangamon,0.49,80,-0.12,42
+17169,Illinois,Schuyler,-1.01,8,-0.29,20
+17171,Illinois,Scott,-0.12,47,-0.06,45
+17173,Illinois,Shelby,-0.46,30,-0.17,33
+17163,Illinois,St. Clair,0.82,88,0.57,95
+17175,Illinois,Stark,-0.12,48,-0.17,32
+17177,Illinois,Stephenson,-0.07,50,0.07,61
+17179,Illinois,Tazewell,-0.49,29,-0.48,13
+17181,Illinois,Union,0.24,67,0.39,86
+17183,Illinois,Vermilion,1.19,96,0.80,99
+17185,Illinois,Wabash,0.10,56,-0.02,50
+17187,Illinois,Warren,-0.42,32,-0.22,26
+17189,Illinois,Washington,-0.74,19,-0.27,23
+17191,Illinois,Wayne,-0.14,46,0.02,56
+17193,Illinois,White,0.28,70,0.13,65
+17195,Illinois,Whiteside,-0.75,18,0.15,67
+17197,Illinois,Will,-0.57,25,-0.21,29
+17199,Illinois,Williamson,0.74,87,0.23,76
+17201,Illinois,Winnebago,0.53,82,0.85,101
+17203,Illinois,Woodford,-1.29,3,-0.90,3
+18001,Indiana,Adams,-0.70,21,0.04,46
+18003,Indiana,Allen,-0.21,40,-0.06,39
+18005,Indiana,Bartholomew,-0.33,33,-0.35,19
+18007,Indiana,Benton,0.10,52,-0.13,32
+18009,Indiana,Blackford,1.64,89,0.57,83
+18011,Indiana,Boone,-1.31,3,-1.19,2
+18013,Indiana,Brown,-1.10,7,-0.46,13
+18015,Indiana,Carroll,-0.24,37,-0.36,18
+18017,Indiana,Cass,0.15,55,0.26,67
+18019,Indiana,Clark,0.16,56,0.18,56
+18021,Indiana,Clay,-0.41,29,0.46,80
+18023,Indiana,Clinton,-0.30,34,-0.07,38
+18025,Indiana,Crawford,1.73,91,0.76,88
+18027,Indiana,Daviess,0.19,58,0.03,45
+18029,Indiana,Dearborn,-0.40,30,-0.10,34
+18031,Indiana,Decatur,-0.23,38,-0.03,42
+18033,Indiana,DeKalb,-0.76,17,-0.25,22
+18035,Indiana,Delaware,0.83,82,0.18,55
+18037,Indiana,Dubois,-1.27,4,-0.96,4
+18039,Indiana,Elkhart,-0.79,14,0.24,65
+18041,Indiana,Fayette,1.72,90,0.86,91
+18043,Indiana,Floyd,0.31,60,-0.17,29
+18045,Indiana,Fountain,-0.28,35,0.15,54
+18047,Indiana,Franklin,-0.34,32,-0.15,31
+18049,Indiana,Fulton,0.17,57,0.02,44
+18051,Indiana,Gibson,-0.18,41,-0.35,20
+18053,Indiana,Grant,0.80,76,0.27,69
+18055,Indiana,Greene,0.58,70,0.15,53
+18057,Indiana,Hamilton,-2.04,1,-1.97,1
+18059,Indiana,Hancock,-0.73,19,-0.91,5
+18061,Indiana,Harrison,-0.54,25,-0.43,14
+18063,Indiana,Hendricks,-1.38,2,-0.99,3
+18065,Indiana,Henry,0.67,73,0.20,58
+18067,Indiana,Howard,0.52,68,0.22,62
+18069,Indiana,Huntington,-0.48,26,0.09,51
+18071,Indiana,Jackson,0.35,63,0.00,43
+18073,Indiana,Jasper,-0.17,42,-0.16,30
+18075,Indiana,Jay,-0.01,47,0.19,57
+18077,Indiana,Jefferson,0.11,53,0.29,71
+18079,Indiana,Jennings,1.27,87,0.83,89
+18081,Indiana,Johnson,-0.78,15,-0.52,10
+18083,Indiana,Knox,0.81,78,0.34,76
+18085,Indiana,Kosciusko,-0.48,27,-0.18,27
+18087,Indiana,LaGrange,-1.25,5,0.11,52
+18089,Indiana,Lake,0.83,81,0.63,85
+18091,Indiana,LaPorte,0.55,69,0.26,66
+18093,Indiana,Lawrence,0.88,83,0.21,59
+18095,Indiana,Madison,0.83,80,0.70,86
+18097,Indiana,Marion,0.82,79,0.74,87
+18099,Indiana,Marshall,-0.68,22,-0.19,26
+18101,Indiana,Martin,0.59,71,-0.21,24
+18103,Indiana,Miami,0.04,49,0.43,79
+18105,Indiana,Monroe,-0.91,11,-0.83,7
+18107,Indiana,Montgomery,-0.07,45,0.05,48
+18109,Indiana,Morgan,-0.22,39,-0.08,37
+18111,Indiana,Newton,0.07,50,0.27,68
+18113,Indiana,Noble,-0.44,28,0.28,70
+18115,Indiana,Ohio,-0.63,23,-0.20,25
+18117,Indiana,Orange,1.14,86,0.34,75
+18119,Indiana,Owen,0.00,48,0.63,84
+18121,Indiana,Parke,-0.08,44,0.24,64
+18123,Indiana,Perry,0.35,62,0.22,61
+18125,Indiana,Pike,0.39,64,-0.31,21
+18127,Indiana,Porter,-0.72,20,-0.50,12
+18129,Indiana,Posey,-0.80,13,-0.23,23
+18131,Indiana,Pulaski,0.44,67,-0.10,36
+18133,Indiana,Putnam,-0.93,10,-0.05,40
+18135,Indiana,Randolph,0.13,54,0.34,74
+18137,Indiana,Ripley,-0.58,24,0.08,50
+18139,Indiana,Rush,0.70,74,-0.13,33
+18143,Indiana,Scott,2.06,92,0.93,92
+18145,Indiana,Shelby,0.34,61,0.23,63
+18147,Indiana,Spencer,-0.78,16,-0.52,9
+18141,Indiana,St. Joseph,-0.14,43,0.06,49
+18149,Indiana,Starke,1.34,88,0.85,90
+18151,Indiana,Steuben,-0.37,31,0.05,47
+18153,Indiana,Sullivan,1.10,85,0.36,78
+18155,Indiana,Switzerland,0.72,75,0.47,81
+18157,Indiana,Tippecanoe,-0.97,8,-0.53,8
+18159,Indiana,Tipton,-0.01,46,-0.39,16
+18161,Indiana,Union,0.07,51,0.22,60
+18163,Indiana,Vanderburgh,0.64,72,-0.18,28
+18165,Indiana,Vermillion,1.01,84,0.35,77
+18167,Indiana,Vigo,0.42,65,0.29,72
+18169,Indiana,Wabash,0.43,66,-0.10,35
+18171,Indiana,Warren,-0.82,12,-0.38,17
+18173,Indiana,Warrick,-0.75,18,-0.86,6
+18175,Indiana,Washington,0.80,77,0.31,73
+18177,Indiana,Wayne,0.29,59,0.52,82
+18179,Indiana,Wells,-1.21,6,-0.50,11
+18181,Indiana,White,-0.27,36,-0.04,41
+18183,Indiana,Whitley,-0.95,9,-0.42,15
+19001,Iowa,Adair,-0.02,49,-0.42,15
+19003,Iowa,Adams,1.61,97,0.10,56
+19005,Iowa,Allamakee,-0.14,45,0.43,83
+19007,Iowa,Appanoose,2.33,99,0.84,98
+19009,Iowa,Audubon,0.27,72,0.18,62
+19011,Iowa,Benton,-0.66,14,-0.07,45
+19013,Iowa,Black Hawk,0.44,77,0.21,63
+19015,Iowa,Boone,0.19,63,-0.09,42
+19017,Iowa,Bremer,-0.90,9,-0.82,5
+19019,Iowa,Buchanan,-0.19,42,0.00,52
+19021,Iowa,Buena Vista,-0.44,31,0.14,59
+19023,Iowa,Butler,-0.11,47,-0.37,20
+19025,Iowa,Calhoun,0.37,75,0.00,53
+19027,Iowa,Carroll,-0.19,43,-0.36,21
+19029,Iowa,Cass,1.16,92,0.18,61
+19031,Iowa,Cedar,-0.51,28,-0.39,18
+19033,Iowa,Cerro Gordo,0.08,55,-0.28,30
+19035,Iowa,Cherokee,-0.30,38,-0.28,31
+19037,Iowa,Chickasaw,-1.37,4,0.29,75
+19039,Iowa,Clarke,0.13,58,0.65,91
+19041,Iowa,Clay,-0.86,10,-0.14,39
+19043,Iowa,Clayton,0.19,62,0.24,68
+19045,Iowa,Clinton,0.76,86,0.66,92
+19047,Iowa,Crawford,-0.32,36,0.28,74
+19049,Iowa,Dallas,-0.85,11,-0.88,4
+19051,Iowa,Davis,-0.93,8,0.61,90
+19053,Iowa,Decatur,0.69,84,0.40,82
+19055,Iowa,Delaware,-0.33,35,-0.05,49
+19057,Iowa,Des Moines,0.57,80,0.79,96
+19059,Iowa,Dickinson,-0.80,12,-0.35,23
+19061,Iowa,Dubuque,-0.53,26,-0.64,8
+19063,Iowa,Emmet,-0.32,37,0.23,65
+19065,Iowa,Fayette,0.08,54,0.31,77
+19067,Iowa,Floyd,0.27,71,0.05,54
+19069,Iowa,Franklin,-0.50,29,0.23,66
+19071,Iowa,Fremont,1.20,93,0.52,87
+19073,Iowa,Greene,0.25,68,-0.05,48
+19075,Iowa,Grundy,-0.56,22,-0.73,7
+19077,Iowa,Guthrie,-0.41,34,-0.29,28
+19079,Iowa,Hamilton,0.21,64,0.44,84
+19081,Iowa,Hancock,-0.60,18,-0.07,44
+19083,Iowa,Hardin,0.12,56,0.14,60
+19085,Iowa,Harrison,0.57,81,0.14,58
+19087,Iowa,Henry,-0.62,17,0.30,76
+19089,Iowa,Howard,-0.60,19,-0.16,37
+19091,Iowa,Humboldt,0.25,70,-0.17,35
+19093,Iowa,Ida,0.32,74,-0.18,34
+19095,Iowa,Iowa,-0.58,20,-0.59,11
+19097,Iowa,Jackson,-0.03,48,-0.14,40
+19099,Iowa,Jasper,0.62,83,0.26,71
+19101,Iowa,Jefferson,-0.56,21,0.27,73
+19103,Iowa,Johnson,-0.75,13,-1.07,1
+19105,Iowa,Jones,0.24,67,0.09,55
+19107,Iowa,Keokuk,0.22,65,0.40,81
+19109,Iowa,Kossuth,-0.54,24,-0.40,17
+19111,Iowa,Lee,0.97,90,1.06,99
+19113,Iowa,Linn,-0.47,30,-0.31,26
+19115,Iowa,Louisa,1.40,95,0.69,93
+19117,Iowa,Lucas,0.49,78,0.13,57
+19119,Iowa,Lyon,-1.51,2,-0.63,9
+19121,Iowa,Madison,0.00,51,-0.44,14
+19123,Iowa,Mahaska,-0.62,15,-0.05,50
+19125,Iowa,Marion,0.03,52,-0.41,16
+19127,Iowa,Marshall,0.25,69,0.48,85
+19129,Iowa,Mills,1.99,98,-0.07,43
+19131,Iowa,Mitchell,-1.22,5,-0.50,12
+19133,Iowa,Monona,0.53,79,0.26,70
+19135,Iowa,Monroe,0.96,89,0.25,69
+19137,Iowa,Montgomery,1.36,94,0.38,80
+19139,Iowa,Muscatine,0.23,66,0.50,86
+19141,Iowa,O'Brien,-0.44,33,-0.35,22
+19143,Iowa,Osceola,-0.12,46,-0.20,33
+19145,Iowa,Page,0.59,82,0.23,67
+19147,Iowa,Palo Alto,-0.22,39,-0.31,25
+19149,Iowa,Plymouth,-1.05,6,-0.47,13
+19151,Iowa,Pocahontas,-0.21,40,-0.05,47
+19153,Iowa,Polk,0.18,59,-0.12,41
+19155,Iowa,Pottawattamie,0.95,88,0.59,89
+19157,Iowa,Poweshiek,-0.54,25,-0.24,32
+19159,Iowa,Ringgold,-0.53,27,-0.30,27
+19161,Iowa,Sac,-0.62,16,-0.06,46
+19163,Iowa,Scott,0.18,60,0.27,72
+19165,Iowa,Shelby,-0.55,23,-0.35,24
+19167,Iowa,Sioux,-1.58,1,-0.82,6
+19169,Iowa,Story,-1.02,7,-1.00,2
+19171,Iowa,Tama,0.06,53,0.22,64
+19173,Iowa,Taylor,-0.20,41,-0.16,36
+19175,Iowa,Union,0.72,85,-0.15,38
+19177,Iowa,Van Buren,0.28,73,0.58,88
+19179,Iowa,Wapello,0.99,91,0.77,95
+19181,Iowa,Warren,0.12,57,-0.38,19
+19183,Iowa,Washington,-0.16,44,-0.02,51
+19185,Iowa,Wayne,1.41,96,0.37,79
+19187,Iowa,Webster,0.90,87,0.76,94
+19189,Iowa,Winnebago,-0.01,50,-0.63,10
+19191,Iowa,Winneshiek,-1.51,3,-0.98,3
+19193,Iowa,Woodbury,0.43,76,0.80,97
+19195,Iowa,Worth,-0.44,32,-0.29,29
+19197,Iowa,Wright,0.18,61,0.35,78
+20001,Kansas,Allen,0.56,86,0.44,86
+20003,Kansas,Anderson,0.18,67,0.23,73
+20005,Kansas,Atchison,-0.01,55,0.49,89
+20007,Kansas,Barber,-0.80,11,0.00,53
+20009,Kansas,Barton,0.34,76,0.14,65
+20011,Kansas,Bourbon,0.74,89,0.46,87
+20013,Kansas,Brown,0.65,88,0.59,96
+20015,Kansas,Butler,-0.09,52,-0.19,36
+20017,Kansas,Chase,-0.26,40,-0.07,49
+20019,Kansas,Chautauqua,1.41,100,0.61,98
+20021,Kansas,Cherokee,1.14,98,0.58,94
+20023,Kansas,Cheyenne,-0.35,33,-0.33,23
+20025,Kansas,Clark,0.04,59,-0.21,33
+20027,Kansas,Clay,0.00,56,-0.46,14
+20029,Kansas,Cloud,0.57,87,-0.13,42
+20031,Kansas,Coffey,-0.43,24,-0.04,51
+20033,Kansas,Comanche,-0.33,38,-0.46,12
+20035,Kansas,Cowley,0.46,80,0.28,79
+20037,Kansas,Crawford,0.52,81,0.47,88
+20039,Kansas,Decatur,1.08,95,0.18,68
+20041,Kansas,Dickinson,-0.40,29,-0.06,50
+20043,Kansas,Doniphan,-0.46,22,0.33,83
+20045,Kansas,Douglas,-0.84,9,-0.59,7
+20047,Kansas,Edwards,0.90,92,0.01,54
+20049,Kansas,Elk,1.44,101,0.20,70
+20051,Kansas,Ellis,-0.91,5,-0.39,19
+20053,Kansas,Ellsworth,-0.45,23,-0.16,39
+20055,Kansas,Finney,-0.19,47,0.58,93
+20057,Kansas,Ford,-0.42,26,0.24,75
+20059,Kansas,Franklin,0.02,57,0.27,78
+20061,Kansas,Geary,0.85,90,0.53,91
+20063,Kansas,Gove,-0.26,41,-0.35,21
+20065,Kansas,Graham,-0.14,50,-0.28,29
+20067,Kansas,Grant,-0.02,54,0.14,64
+20069,Kansas,Gray,-0.19,45,-0.44,16
+20071,Kansas,Greeley,,NR,,NR
+20073,Kansas,Greenwood,0.89,91,0.30,82
+20075,Kansas,Hamilton,0.23,71,0.13,63
+20077,Kansas,Harper,-0.38,31,0.25,76
+20079,Kansas,Harvey,-0.37,32,-0.42,17
+20081,Kansas,Haskell,-0.34,34,0.12,60
+20083,Kansas,Hodgeman,-0.11,51,-0.67,4
+20085,Kansas,Jackson,0.13,66,0.12,62
+20087,Kansas,Jefferson,-0.26,42,-0.08,47
+20089,Kansas,Jewell,-0.19,46,-0.16,38
+20091,Kansas,Johnson,-1.15,1,-1.18,1
+20093,Kansas,Kearny,-0.56,20,0.21,72
+20095,Kansas,Kingman,-0.56,21,-0.30,28
+20097,Kansas,Kiowa,-0.60,19,-0.37,20
+20099,Kansas,Labette,1.02,93,0.58,95
+20101,Kansas,Lane,-0.42,27,-0.04,52
+20103,Kansas,Leavenworth,-0.24,43,0.06,57
+20105,Kansas,Lincoln,-0.64,17,-0.09,46
+20107,Kansas,Linn,0.55,84,0.71,100
+20109,Kansas,Logan,1.12,97,-0.35,22
+20111,Kansas,Lyon,-0.34,36,0.10,58
+20115,Kansas,Marion,-0.41,28,-0.24,31
+20117,Kansas,Marshall,-0.34,35,-0.21,35
+20113,Kansas,McPherson,-0.75,12,-0.68,3
+20119,Kansas,Meade,-0.86,6,-0.14,41
+20121,Kansas,Miami,-0.39,30,-0.46,10
+20123,Kansas,Mitchell,-0.63,18,-0.62,5
+20125,Kansas,Montgomery,1.08,96,0.65,99
+20127,Kansas,Morris,0.03,58,-0.11,44
+20129,Kansas,Morton,0.21,69,0.43,85
+20131,Kansas,Nemaha,-0.72,15,-0.93,2
+20133,Kansas,Neosho,1.02,94,0.54,92
+20135,Kansas,Ness,0.05,60,-0.31,27
+20137,Kansas,Norton,0.28,74,-0.07,48
+20139,Kansas,Osage,0.45,79,0.23,74
+20141,Kansas,Osborne,-0.83,10,-0.22,32
+20143,Kansas,Ottawa,-0.65,16,-0.46,11
+20145,Kansas,Pawnee,0.54,83,0.15,66
+20147,Kansas,Phillips,-0.42,25,-0.16,40
+20149,Kansas,Pottawatomie,-1.01,4,-0.54,8
+20151,Kansas,Pratt,0.05,61,-0.18,37
+20153,Kansas,Rawlins,0.19,68,-0.31,25
+20155,Kansas,Reno,-0.06,53,0.04,56
+20157,Kansas,Republic,-0.26,39,-0.21,34
+20159,Kansas,Rice,0.07,63,0.04,55
+20161,Kansas,Riley,-1.12,2,-0.60,6
+20163,Kansas,Rooks,-0.33,37,-0.31,26
+20165,Kansas,Rush,-0.17,49,-0.09,45
+20167,Kansas,Russell,0.28,73,0.30,81
+20169,Kansas,Saline,0.11,65,0.11,59
+20171,Kansas,Scott,-0.17,48,-0.46,13
+20173,Kansas,Sedgwick,0.26,72,0.29,80
+20175,Kansas,Seward,0.06,62,0.60,97
+20177,Kansas,Shawnee,0.22,70,0.12,61
+20179,Kansas,Sheridan,-0.74,13,-0.32,24
+20181,Kansas,Sherman,0.09,64,0.20,69
+20183,Kansas,Smith,-0.73,14,-0.49,9
+20185,Kansas,Stafford,0.52,82,0.34,84
+20187,Kansas,Stanton,,NR,,NR
+20189,Kansas,Stevens,-1.11,3,0.20,71
+20191,Kansas,Sumner,0.43,78,0.17,67
+20193,Kansas,Thomas,0.33,75,-0.40,18
+20195,Kansas,Trego,-0.23,44,-0.12,43
+20197,Kansas,Wabaunsee,-0.86,7,-0.44,15
+20199,Kansas,Wallace,,NR,,NR
+20201,Kansas,Washington,-0.84,8,-0.27,30
+20203,Kansas,Wichita,0.41,77,0.27,77
+20205,Kansas,Wilson,0.55,85,0.72,101
+20207,Kansas,Woodson,1.89,102,0.49,90
+20209,Kansas,Wyandotte,1.32,99,1.73,102
+21001,Kentucky,Adair,-0.17,59,0.43,95
+21003,Kentucky,Allen,-0.11,63,0.07,69
+21005,Kentucky,Anderson,-0.85,17,-0.61,13
+21007,Kentucky,Ballard,0.46,92,-0.39,24
+21009,Kentucky,Barren,-0.39,43,-0.30,35
+21011,Kentucky,Bath,0.83,97,0.38,92
+21013,Kentucky,Bell,1.30,109,0.84,118
+21015,Kentucky,Boone,-1.42,2,-1.08,3
+21017,Kentucky,Bourbon,-0.05,68,-0.08,52
+21019,Kentucky,Boyd,0.36,88,-0.28,38
+21021,Kentucky,Boyle,-0.71,24,-0.44,23
+21023,Kentucky,Bracken,-0.40,41,0.09,70
+21025,Kentucky,Breathitt,1.79,118,0.76,113
+21027,Kentucky,Breckinridge,-0.18,58,0.03,64
+21029,Kentucky,Bullitt,-0.71,25,-0.45,22
+21031,Kentucky,Butler,0.12,79,0.02,63
+21033,Kentucky,Caldwell,0.18,81,0.00,60
+21035,Kentucky,Calloway,-1.14,9,-0.67,10
+21037,Kentucky,Campbell,-0.85,16,-0.68,9
+21039,Kentucky,Carlisle,-0.34,44,-0.62,12
+21041,Kentucky,Carroll,-0.06,67,0.27,84
+21043,Kentucky,Carter,0.44,91,0.29,87
+21045,Kentucky,Casey,0.20,82,0.50,98
+21047,Kentucky,Christian,-0.33,45,0.11,72
+21049,Kentucky,Clark,0.09,78,-0.36,29
+21051,Kentucky,Clay,1.43,112,0.81,117
+21053,Kentucky,Clinton,0.26,84,0.27,83
+21055,Kentucky,Crittenden,-0.03,70,0.27,85
+21057,Kentucky,Cumberland,1.12,105,0.55,103
+21059,Kentucky,Daviess,-0.75,22,-0.71,7
+21061,Kentucky,Edmonson,-0.28,50,0.24,82
+21063,Kentucky,Elliott,0.05,73,0.65,108
+21065,Kentucky,Estill,0.69,95,0.31,89
+21067,Kentucky,Fayette,-1.17,8,-0.89,4
+21069,Kentucky,Fleming,0.25,83,0.17,78
+21071,Kentucky,Floyd,1.86,120,0.44,97
+21073,Kentucky,Franklin,-0.60,29,-0.36,27
+21075,Kentucky,Fulton,0.09,77,0.61,105
+21077,Kentucky,Gallatin,0.68,94,0.15,75
+21079,Kentucky,Garrard,-0.44,36,0.03,65
+21081,Kentucky,Grant,-0.15,60,0.06,67
+21083,Kentucky,Graves,-0.47,33,-0.15,45
+21085,Kentucky,Grayson,-0.19,53,0.17,77
+21087,Kentucky,Green,-0.30,47,-0.05,55
+21089,Kentucky,Greenup,-0.19,54,-0.35,31
+21091,Kentucky,Hancock,-1.13,10,-0.69,8
+21093,Kentucky,Hardin,-0.91,13,-0.48,18
+21095,Kentucky,Harlan,1.34,110,0.59,104
+21097,Kentucky,Harrison,-0.18,55,-0.30,36
+21099,Kentucky,Hart,-0.61,28,0.28,86
+21101,Kentucky,Henderson,-0.14,62,-0.35,33
+21103,Kentucky,Henry,-0.63,26,-0.12,49
+21105,Kentucky,Hickman,-0.15,61,-0.04,57
+21107,Kentucky,Hopkins,-0.18,56,-0.25,39
+21109,Kentucky,Jackson,1.21,107,0.68,110
+21111,Kentucky,Jefferson,-0.59,30,-0.23,41
+21113,Kentucky,Jessamine,-0.93,12,-0.48,19
+21115,Kentucky,Johnson,1.29,108,0.05,66
+21117,Kentucky,Kenton,-0.75,21,-0.47,20
+21119,Kentucky,Knott,1.03,103,0.42,94
+21121,Kentucky,Knox,0.84,98,0.62,106
+21123,Kentucky,Larue,-0.89,14,-0.35,30
+21125,Kentucky,Laurel,-0.11,64,0.19,79
+21127,Kentucky,Lawrence,0.96,100,0.51,99
+21129,Kentucky,Lee,1.67,116,0.77,115
+21131,Kentucky,Leslie,1.52,113,0.76,114
+21133,Kentucky,Letcher,1.00,101,0.37,90
+21135,Kentucky,Lewis,0.32,86,0.69,112
+21137,Kentucky,Lincoln,0.34,87,0.37,91
+21139,Kentucky,Livingston,-0.01,71,-0.13,47
+21141,Kentucky,Logan,-0.45,35,0.15,76
+21143,Kentucky,Lyon,-1.31,4,-0.62,11
+21151,Kentucky,Madison,-0.83,19,-0.75,6
+21153,Kentucky,Magoffin,1.05,104,0.69,111
+21155,Kentucky,Marion,-0.41,39,-0.18,42
+21157,Kentucky,Marshall,-0.45,34,-0.34,34
+21159,Kentucky,Martin,1.56,114,0.78,116
+21161,Kentucky,Mason,-0.40,42,-0.28,37
+21145,Kentucky,McCracken,-0.43,37,-0.60,14
+21147,Kentucky,McCreary,0.43,89,0.88,120
+21149,Kentucky,McLean,-0.18,57,-0.35,32
+21163,Kentucky,Meade,-0.85,18,-0.05,54
+21165,Kentucky,Menifee,1.42,111,0.66,109
+21167,Kentucky,Mercer,-0.40,40,-0.24,40
+21169,Kentucky,Metcalfe,0.12,80,0.53,101
+21171,Kentucky,Monroe,-0.06,66,0.31,88
+21173,Kentucky,Montgomery,0.08,76,-0.08,51
+21175,Kentucky,Morgan,-0.05,69,0.54,102
+21177,Kentucky,Muhlenberg,0.08,75,-0.12,48
+21179,Kentucky,Nelson,-0.74,23,-0.39,25
+21181,Kentucky,Nicholas,0.88,99,0.02,62
+21183,Kentucky,Ohio,-0.51,32,-0.16,44
+21185,Kentucky,Oldham,-1.64,1,-1.51,1
+21187,Kentucky,Owen,-0.80,20,-0.06,53
+21189,Kentucky,Owsley,1.02,102,0.63,107
+21191,Kentucky,Pendleton,0.43,90,0.14,74
+21193,Kentucky,Perry,1.85,119,0.38,93
+21195,Kentucky,Pike,1.61,115,-0.01,59
+21197,Kentucky,Powell,1.16,106,0.43,96
+21199,Kentucky,Pulaski,-0.29,49,-0.12,50
+21201,Kentucky,Robertson,0.47,93,0.23,81
+21203,Kentucky,Rockcastle,0.27,85,0.22,80
+21205,Kentucky,Rowan,-0.41,38,-0.18,43
+21207,Kentucky,Russell,-0.29,48,0.07,68
+21209,Kentucky,Scott,-1.20,7,-0.85,5
+21211,Kentucky,Shelby,-1.38,3,-0.49,17
+21213,Kentucky,Simpson,-0.63,27,-0.03,58
+21215,Kentucky,Spencer,-1.25,5,-0.52,16
+21217,Kentucky,Taylor,-0.54,31,-0.36,28
+21219,Kentucky,Todd,-0.11,65,0.13,73
+21221,Kentucky,Trigg,0.04,72,0.01,61
+21223,Kentucky,Trimble,-0.23,52,-0.45,21
+21225,Kentucky,Union,0.07,74,-0.14,46
+21227,Kentucky,Warren,-0.86,15,-0.58,15
+21229,Kentucky,Washington,-1.25,6,-0.37,26
+21231,Kentucky,Wayne,-0.31,46,0.52,100
+21233,Kentucky,Webster,-0.25,51,-0.05,56
+21235,Kentucky,Whitley,0.69,96,0.10,71
+21237,Kentucky,Wolfe,1.74,117,0.86,119
+21239,Kentucky,Woodford,-1.05,11,-1.16,2
+22001,Louisiana,Acadia,0.36,45,-0.24,19
+22003,Louisiana,Allen,-0.50,16,0.20,45
+22005,Louisiana,Ascension,-0.94,7,-0.92,2
+22007,Louisiana,Assumption,0.23,39,-0.07,29
+22009,Louisiana,Avoyelles,0.34,44,0.40,51
+22011,Louisiana,Beauregard,-0.32,21,-0.22,21
+22013,Louisiana,Bienville,1.07,62,0.40,50
+22015,Louisiana,Bossier,-0.86,9,-0.49,12
+22017,Louisiana,Caddo,0.41,47,-0.05,31
+22019,Louisiana,Calcasieu,-0.18,24,-0.45,14
+22021,Louisiana,Caldwell,0.13,37,0.23,47
+22023,Louisiana,Cameron,-1.41,2,-0.75,6
+22025,Louisiana,Catahoula,1.02,61,0.84,60
+22027,Louisiana,Claiborne,0.06,34,0.14,41
+22029,Louisiana,Concordia,0.87,59,0.44,54
+22031,Louisiana,De Soto,0.66,54,0.41,52
+22033,Louisiana,East Baton Rouge,-0.44,18,-0.75,7
+22035,Louisiana,East Carroll,1.83,64,1.15,64
+22037,Louisiana,East Feliciana,-0.22,22,-0.06,30
+22039,Louisiana,Evangeline,0.64,52,0.18,44
+22041,Louisiana,Franklin,0.33,43,0.88,61
+22043,Louisiana,Grant,0.15,38,0.09,35
+22045,Louisiana,Iberia,-0.02,29,-0.15,23
+22047,Louisiana,Iberville,-0.12,25,0.09,34
+22049,Louisiana,Jackson,-0.08,28,-0.13,25
+22051,Louisiana,Jefferson,-0.57,15,-0.57,9
+22053,Louisiana,Jefferson Davis,0.48,49,-0.10,28
+22059,Louisiana,La Salle,-0.88,8,-0.17,22
+22055,Louisiana,Lafayette,-1.04,5,-0.83,4
+22057,Louisiana,Lafourche,-0.76,11,-0.45,15
+22061,Louisiana,Lincoln,-0.71,13,-0.53,10
+22063,Louisiana,Livingston,-0.45,17,-0.58,8
+22065,Louisiana,Madison,0.93,60,1.00,63
+22067,Louisiana,Morehouse,0.78,56,0.69,58
+22069,Louisiana,Natchitoches,0.10,36,0.34,49
+22071,Louisiana,Orleans,0.42,48,-0.33,16
+22073,Louisiana,Ouachita,-0.01,30,-0.10,27
+22075,Louisiana,Plaquemines,-1.08,4,-0.50,11
+22077,Louisiana,Pointe Coupee,-0.34,20,-0.26,18
+22079,Louisiana,Rapides,-0.01,31,-0.27,17
+22081,Louisiana,Red River,0.65,53,0.45,55
+22083,Louisiana,Richland,0.52,50,0.18,43
+22085,Louisiana,Sabine,0.28,41,0.18,42
+22087,Louisiana,St. Bernard,0.68,55,0.11,37
+22089,Louisiana,St. Charles,-1.02,6,-0.85,3
+22091,Louisiana,St. Helena,0.55,51,0.69,57
+22093,Louisiana,St. James,-0.71,12,0.12,38
+22095,Louisiana,St. John the Baptist,0.08,35,-0.11,26
+22097,Louisiana,St. Landry,0.82,57,0.24,48
+22099,Louisiana,St. Martin,-0.12,26,0.12,40
+22101,Louisiana,St. Mary,0.00,32,0.12,39
+22103,Louisiana,St. Tammany,-1.34,3,-1.22,1
+22105,Louisiana,Tangipahoa,0.38,46,0.09,33
+22107,Louisiana,Tensas,1.51,63,0.90,62
+22109,Louisiana,Terrebonne,-0.11,27,-0.04,32
+22111,Louisiana,Union,0.23,40,0.43,53
+22113,Louisiana,Vermilion,-0.76,10,-0.23,20
+22115,Louisiana,Vernon,-0.68,14,-0.13,24
+22117,Louisiana,Washington,0.84,58,0.54,56
+22119,Louisiana,Webster,0.30,42,0.11,36
+22121,Louisiana,West Baton Rouge,-0.35,19,-0.46,13
+22123,Louisiana,West Carroll,0.03,33,0.76,59
+22125,Louisiana,West Feliciana,-1.43,1,-0.82,5
+22127,Louisiana,Winn,-0.21,23,0.21,46
+23001,Maine,Androscoggin,-0.25,6,0.28,11
+23003,Maine,Aroostook,0.36,13,0.36,12
+23005,Maine,Cumberland,-0.96,2,-1.07,1
+23007,Maine,Franklin,-0.13,8,0.05,10
+23009,Maine,Hancock,-1.12,1,-0.31,6
+23011,Maine,Kennebec,-0.18,7,-0.23,7
+23013,Maine,Knox,-0.28,5,-0.35,5
+23015,Maine,Lincoln,0.11,11,-0.41,4
+23017,Maine,Oxford,0.22,12,0.40,13
+23019,Maine,Penobscot,0.04,9,-0.12,8
+23021,Maine,Piscataquis,1.89,16,0.46,14
+23023,Maine,Sagadahoc,-0.95,3,-0.61,2
+23025,Maine,Somerset,1.03,15,0.89,15
+23027,Maine,Waldo,0.07,10,0.01,9
+23029,Maine,Washington,0.70,14,1.22,16
+23031,Maine,York,-0.56,4,-0.57,3
+24001,Maryland,Allegany,0.80,22,0.48,19
+24003,Maryland,Anne Arundel,-0.33,9,-0.39,7
+24005,Maryland,Baltimore,0.10,14,-0.19,12
+24510,Maryland,Baltimore City,2.68,24,1.39,24
+24009,Maryland,Calvert,-0.39,8,-0.41,6
+24011,Maryland,Caroline,0.88,23,0.76,21
+24013,Maryland,Carroll,-0.62,5,-0.53,5
+24015,Maryland,Cecil,0.48,19,0.46,18
+24017,Maryland,Charles,-0.17,12,-0.21,11
+24019,Maryland,Dorchester,0.69,21,0.79,22
+24021,Maryland,Frederick,-0.85,3,-0.59,3
+24023,Maryland,Garrett,0.22,15,0.17,15
+24025,Maryland,Harford,-0.27,10,-0.33,9
+24027,Maryland,Howard,-1.42,1,-1.25,1
+24029,Maryland,Kent,0.32,17,-0.05,13
+24031,Maryland,Montgomery,-1.38,2,-1.19,2
+24033,Maryland,Prince George's,0.24,16,0.24,17
+24035,Maryland,Queen Anne's,-0.79,4,-0.36,8
+24039,Maryland,Somerset,0.60,20,1.12,23
+24037,Maryland,St. Mary's,-0.45,7,-0.24,10
+24041,Maryland,Talbot,-0.46,6,-0.55,4
+24043,Maryland,Washington,-0.02,13,0.24,16
+24045,Maryland,Wicomico,0.38,18,0.50,20
+24047,Maryland,Worcester,-0.26,11,0.13,14
+25001,Massachusetts,Barnstable,-0.03,8,-0.32,5
+25003,Massachusetts,Berkshire,0.60,11,0.16,9
+25005,Massachusetts,Bristol,1.00,12,0.87,13
+25007,Massachusetts,Dukes,-1.13,1,-0.32,4
+25009,Massachusetts,Essex,-0.21,6,0.01,7
+25011,Massachusetts,Franklin,-0.09,7,0.04,8
+25013,Massachusetts,Hampden,1.51,14,1.04,14
+25015,Massachusetts,Hampshire,-0.68,5,-0.78,2
+25017,Massachusetts,Middlesex,-1.05,2,-0.75,3
+25019,Massachusetts,Nantucket,-0.77,4,-0.13,6
+25021,Massachusetts,Norfolk,-0.90,3,-0.88,1
+25023,Massachusetts,Plymouth,0.32,10,0.16,10
+25025,Massachusetts,Suffolk,1.22,13,0.60,12
+25027,Massachusetts,Worcester,0.20,9,0.31,11
+26001,Michigan,Alcona,1.72,81,0.14,46
+26003,Michigan,Alger,-0.97,6,0.01,38
+26005,Michigan,Allegan,-0.83,11,-0.23,21
+26007,Michigan,Alpena,1.01,77,-0.12,27
+26009,Michigan,Antrim,0.05,45,-0.05,32
+26011,Michigan,Arenac,1.22,79,0.43,71
+26013,Michigan,Baraga,-0.29,30,0.61,76
+26015,Michigan,Barry,-0.59,20,-0.24,20
+26017,Michigan,Bay,0.28,53,0.20,52
+26019,Michigan,Benzie,-0.89,9,-0.46,14
+26021,Michigan,Berrien,0.38,60,0.16,48
+26023,Michigan,Branch,0.18,47,0.09,42
+26025,Michigan,Calhoun,1.17,78,0.51,74
+26027,Michigan,Cass,0.05,44,0.18,51
+26029,Michigan,Charlevoix,-0.90,8,-0.59,11
+26031,Michigan,Cheboygan,-0.63,18,0.20,53
+26033,Michigan,Chippewa,-0.43,25,0.26,57
+26035,Michigan,Clare,0.95,75,0.73,79
+26037,Michigan,Clinton,-1.23,3,-0.92,4
+26039,Michigan,Crawford,0.39,62,0.09,44
+26041,Michigan,Delta,-0.47,24,-0.38,18
+26043,Michigan,Dickinson,-0.29,29,-0.57,12
+26045,Michigan,Eaton,-0.75,13,-0.52,13
+26047,Michigan,Emmet,-0.66,15,-0.39,17
+26049,Michigan,Genesee,1.52,80,0.53,75
+26051,Michigan,Gladwin,0.91,73,0.69,78
+26053,Michigan,Gogebic,-0.22,35,-0.12,28
+26055,Michigan,Grand Traverse,-0.94,7,-0.85,7
+26057,Michigan,Gratiot,0.21,49,0.25,56
+26059,Michigan,Hillsdale,-0.16,38,0.16,49
+26061,Michigan,Houghton,-0.89,10,-0.67,10
+26063,Michigan,Huron,0.04,42,-0.26,19
+26065,Michigan,Ingham,-0.18,36,-0.13,26
+26067,Michigan,Ionia,-0.42,26,-0.04,33
+26069,Michigan,Iosco,0.39,61,0.32,62
+26071,Michigan,Iron,0.21,50,-0.18,23
+26073,Michigan,Isabella,-0.70,14,-0.21,22
+26075,Michigan,Jackson,0.20,48,0.31,61
+26077,Michigan,Kalamazoo,0.18,46,-0.44,16
+26079,Michigan,Kalkaska,1.01,76,0.30,60
+26081,Michigan,Kent,-0.65,16,-0.44,15
+26083,Michigan,Keweenaw,,NR,,NR
+26085,Michigan,Lake,0.37,59,0.88,81
+26087,Michigan,Lapeer,-0.27,31,-0.01,36
+26089,Michigan,Leelanau,-1.71,1,-0.92,5
+26091,Michigan,Lenawee,-0.62,19,-0.10,30
+26093,Michigan,Livingston,-1.16,4,-1.05,3
+26095,Michigan,Luce,0.58,66,0.33,64
+26097,Michigan,Mackinac,-0.01,40,0.04,39
+26099,Michigan,Macomb,0.05,43,-0.16,24
+26101,Michigan,Manistee,0.34,58,0.14,45
+26103,Michigan,Marquette,-0.64,17,-0.82,8
+26105,Michigan,Mason,0.30,55,-0.10,31
+26107,Michigan,Mecosta,-0.56,21,0.32,63
+26109,Michigan,Menominee,-0.48,23,0.07,41
+26111,Michigan,Midland,-0.77,12,-0.78,9
+26113,Michigan,Missaukee,-0.26,33,0.05,40
+26115,Michigan,Monroe,-0.16,37,0.09,43
+26117,Michigan,Montcalm,-0.36,27,0.16,50
+26119,Michigan,Montmorency,0.67,68,0.36,66
+26121,Michigan,Muskegon,0.73,69,0.38,68
+26123,Michigan,Newaygo,0.29,54,0.29,59
+26125,Michigan,Oakland,-0.54,22,-0.88,6
+26127,Michigan,Oceana,0.53,64,0.37,67
+26129,Michigan,Ogemaw,0.22,51,0.49,72
+26131,Michigan,Ontonagon,0.55,65,0.33,65
+26133,Michigan,Osceola,-0.25,34,0.23,55
+26135,Michigan,Oscoda,0.82,72,0.49,73
+26137,Michigan,Otsego,-0.33,28,-0.12,29
+26139,Michigan,Ottawa,-1.48,2,-1.09,2
+26141,Michigan,Presque Isle,0.73,70,-0.01,37
+26143,Michigan,Roscommon,0.76,71,0.74,80
+26145,Michigan,Saginaw,0.94,74,0.65,77
+26151,Michigan,Sanilac,-0.27,32,0.41,70
+26153,Michigan,Schoolcraft,0.34,57,-0.02,35
+26155,Michigan,Shiawassee,0.02,41,-0.14,25
+26147,Michigan,St. Clair,0.60,67,0.23,54
+26149,Michigan,St. Joseph,0.46,63,0.39,69
+26157,Michigan,Tuscola,-0.11,39,-0.03,34
+26159,Michigan,Van Buren,0.23,52,0.27,58
+26161,Michigan,Washtenaw,-0.98,5,-1.35,1
+26163,Michigan,Wayne,2.01,82,1.14,82
+26165,Michigan,Wexford,0.32,56,0.14,47
+27001,Minnesota,Aitkin,0.61,77,0.37,78
+27003,Minnesota,Anoka,-0.05,47,0.01,51
+27005,Minnesota,Becker,0.59,76,0.17,66
+27007,Minnesota,Beltrami,0.66,80,1.21,86
+27009,Minnesota,Benton,0.31,64,-0.03,45
+27011,Minnesota,Big Stone,0.28,63,-0.44,8
+27013,Minnesota,Blue Earth,-0.34,25,0.05,53
+27015,Minnesota,Brown,-0.47,21,-0.15,31
+27017,Minnesota,Carlton,0.67,81,-0.08,36
+27019,Minnesota,Carver,-0.96,1,-0.80,2
+27021,Minnesota,Cass,1.60,87,0.88,84
+27023,Minnesota,Chippewa,-0.20,37,0.07,55
+27025,Minnesota,Chisago,-0.22,35,-0.03,46
+27027,Minnesota,Clay,-0.10,43,-0.14,32
+27029,Minnesota,Clearwater,0.38,68,1.18,85
+27031,Minnesota,Cook,-0.30,29,-0.24,23
+27033,Minnesota,Cottonwood,0.62,78,-0.08,38
+27035,Minnesota,Crow Wing,0.01,50,-0.04,44
+27037,Minnesota,Dakota,-0.58,15,-0.59,6
+27039,Minnesota,Dodge,-0.75,4,-0.07,40
+27041,Minnesota,Douglas,-0.33,27,-0.34,12
+27043,Minnesota,Faribault,-0.14,39,0.24,71
+27045,Minnesota,Fillmore,-0.47,20,-0.10,34
+27047,Minnesota,Freeborn,0.37,67,0.35,77
+27049,Minnesota,Goodhue,0.14,56,-0.20,27
+27051,Minnesota,Grant,0.34,66,0.07,56
+27053,Minnesota,Hennepin,0.12,55,-0.21,25
+27055,Minnesota,Houston,-0.30,28,-0.33,14
+27057,Minnesota,Hubbard,0.09,53,0.16,64
+27059,Minnesota,Isanti,-0.09,45,0.13,62
+27061,Minnesota,Itasca,0.39,69,0.13,63
+27063,Minnesota,Jackson,0.03,51,-0.34,13
+27065,Minnesota,Kanabec,-0.05,48,0.47,80
+27067,Minnesota,Kandiyohi,-0.60,12,0.07,57
+27069,Minnesota,Kittson,-0.25,32,-0.16,30
+27071,Minnesota,Koochiching,-0.11,42,0.22,70
+27073,Minnesota,Lac qui Parle,-0.26,31,-0.29,15
+27075,Minnesota,Lake,0.98,83,-0.20,28
+27077,Minnesota,Lake of the Woods,-0.48,19,0.17,65
+27079,Minnesota,Le Sueur,-0.60,11,-0.07,39
+27081,Minnesota,Lincoln,-0.34,26,-0.24,21
+27083,Minnesota,Lyon,-0.22,34,-0.07,41
+27087,Minnesota,Mahnomen,1.21,86,1.29,87
+27089,Minnesota,Marshall,-0.21,36,0.03,52
+27091,Minnesota,Martin,0.16,58,-0.02,47
+27085,Minnesota,McLeod,-0.72,7,-0.24,22
+27093,Minnesota,Meeker,-0.28,30,0.06,54
+27095,Minnesota,Mille Lacs,1.18,85,0.47,81
+27097,Minnesota,Morrison,0.88,82,0.32,75
+27099,Minnesota,Mower,-0.07,46,0.27,73
+27101,Minnesota,Murray,0.07,52,-0.23,24
+27103,Minnesota,Nicollet,-0.57,16,-0.60,5
+27105,Minnesota,Nobles,-0.64,9,0.19,67
+27107,Minnesota,Norman,0.27,62,0.20,68
+27109,Minnesota,Olmsted,-0.48,17,-0.74,3
+27111,Minnesota,Otter Tail,-0.19,38,-0.10,33
+27113,Minnesota,Pennington,0.56,73,-0.09,35
+27115,Minnesota,Pine,0.46,71,0.55,83
+27117,Minnesota,Pipestone,0.58,75,-0.06,43
+27119,Minnesota,Polk,0.21,60,0.46,79
+27121,Minnesota,Pope,0.12,54,-0.27,19
+27123,Minnesota,Ramsey,0.34,65,0.21,69
+27125,Minnesota,Red Lake,-0.59,14,0.00,49
+27127,Minnesota,Redwood,-0.48,18,0.10,58
+27129,Minnesota,Renville,0.56,74,0.27,72
+27131,Minnesota,Rice,-0.44,22,-0.40,10
+27133,Minnesota,Rock,0.46,70,-0.29,16
+27135,Minnesota,Roseau,-0.04,49,-0.21,26
+27139,Minnesota,Scott,-0.74,5,-0.67,4
+27141,Minnesota,Sherburne,-0.11,41,-0.01,48
+27143,Minnesota,Sibley,-0.10,44,0.13,61
+27137,Minnesota,St. Louis,0.51,72,0.10,59
+27145,Minnesota,Stearns,-0.41,24,-0.28,17
+27147,Minnesota,Steele,-0.80,2,-0.17,29
+27149,Minnesota,Stevens,0.26,61,-0.37,11
+27151,Minnesota,Swift,-0.44,23,0.11,60
+27153,Minnesota,Todd,0.16,57,0.53,82
+27155,Minnesota,Traverse,1.12,84,-0.06,42
+27157,Minnesota,Wabasha,-0.13,40,-0.44,9
+27159,Minnesota,Wadena,0.63,79,0.32,76
+27161,Minnesota,Waseca,-0.76,3,0.00,50
+27163,Minnesota,Washington,-0.62,10,-0.83,1
+27165,Minnesota,Watonwan,0.17,59,0.31,74
+27167,Minnesota,Wilkin,-0.24,33,-0.28,18
+27169,Minnesota,Winona,-0.72,6,-0.08,37
+27171,Minnesota,Wright,-0.59,13,-0.46,7
+27173,Minnesota,Yellow Medicine,-0.71,8,-0.26,20
+28001,Mississippi,Adams,0.64,66,0.16,49
+28003,Mississippi,Alcorn,-0.18,36,-0.33,18
+28005,Mississippi,Amite,-0.52,17,0.16,50
+28007,Mississippi,Attala,0.53,61,-0.04,35
+28009,Mississippi,Benton,-0.19,35,0.21,57
+28011,Mississippi,Bolivar,0.63,65,0.14,48
+28013,Mississippi,Calhoun,0.06,44,0.01,42
+28015,Mississippi,Carroll,-0.87,8,-0.19,27
+28017,Mississippi,Chickasaw,-0.53,16,0.18,52
+28019,Mississippi,Choctaw,0.25,49,-0.47,10
+28021,Mississippi,Claiborne,1.00,77,0.69,73
+28023,Mississippi,Clarke,-0.02,43,-0.14,29
+28025,Mississippi,Clay,-0.41,23,0.57,71
+28027,Mississippi,Coahoma,1.30,80,0.84,78
+28029,Mississippi,Copiah,0.41,55,0.08,47
+28031,Mississippi,Covington,-0.03,42,0.01,41
+28033,Mississippi,DeSoto,-1.64,1,-0.97,6
+28035,Mississippi,Forrest,-0.29,27,-0.45,11
+28037,Mississippi,Franklin,0.46,60,0.19,55
+28039,Mississippi,George,-0.34,25,-0.07,32
+28041,Mississippi,Greene,-0.89,7,0.24,60
+28043,Mississippi,Grenada,0.37,54,0.04,45
+28045,Mississippi,Hancock,-0.78,10,-0.39,17
+28047,Mississippi,Harrison,-0.67,14,-0.29,22
+28049,Mississippi,Hinds,-0.15,37,-0.31,21
+28051,Mississippi,Holmes,1.01,78,0.88,80
+28053,Mississippi,Humphreys,0.75,71,0.69,74
+28055,Mississippi,Issaquena,,NR,,NR
+28057,Mississippi,Itawamba,-0.08,41,-0.16,28
+28059,Mississippi,Jackson,-0.71,13,-0.51,8
+28061,Mississippi,Jasper,-0.19,34,0.05,46
+28063,Mississippi,Jefferson,0.87,74,0.81,77
+28065,Mississippi,Jefferson Davis,0.70,68,0.22,58
+28067,Mississippi,Jones,-0.42,22,-0.40,15
+28069,Mississippi,Kemper,-0.22,33,0.54,68
+28071,Mississippi,Lafayette,-1.45,3,-1.00,5
+28073,Mississippi,Lamar,-1.57,2,-1.22,2
+28075,Mississippi,Lauderdale,-0.45,20,-0.41,14
+28077,Mississippi,Lawrence,0.66,67,0.01,40
+28079,Mississippi,Leake,0.14,46,0.38,63
+28081,Mississippi,Lee,-0.71,12,-0.72,7
+28083,Mississippi,Leflore,0.41,56,0.70,75
+28085,Mississippi,Lincoln,-0.14,38,-0.44,12
+28087,Mississippi,Lowndes,-0.64,15,-0.22,25
+28089,Mississippi,Madison,-1.26,5,-1.67,1
+28091,Mississippi,Marion,0.89,75,0.24,61
+28093,Mississippi,Marshall,-0.27,30,0.53,67
+28095,Mississippi,Monroe,-0.26,31,-0.24,24
+28097,Mississippi,Montgomery,0.73,69,0.18,54
+28099,Mississippi,Neshoba,0.28,51,0.03,43
+28101,Mississippi,Newton,-0.29,26,-0.26,23
+28103,Mississippi,Noxubee,-0.28,28,0.50,66
+28105,Mississippi,Oktibbeha,-1.16,6,-1.04,4
+28107,Mississippi,Panola,0.27,50,0.22,59
+28109,Mississippi,Pearl River,-0.10,40,-0.05,34
+28111,Mississippi,Perry,0.62,63,0.03,44
+28113,Mississippi,Pike,0.77,73,0.17,51
+28115,Mississippi,Pontotoc,-0.74,11,-0.50,9
+28117,Mississippi,Prentiss,-0.44,21,-0.20,26
+28119,Mississippi,Quitman,2.00,81,0.74,76
+28121,Mississippi,Rankin,-1.37,4,-1.20,3
+28123,Mississippi,Scott,0.60,62,0.45,65
+28125,Mississippi,Sharkey,0.14,47,0.58,72
+28127,Mississippi,Simpson,0.42,58,-0.06,33
+28129,Mississippi,Smith,-0.46,18,-0.43,13
+28131,Mississippi,Stone,-0.46,19,-0.39,16
+28133,Mississippi,Sunflower,0.93,76,0.84,79
+28135,Mississippi,Tallahatchie,0.75,72,0.56,69
+28137,Mississippi,Tate,-0.26,32,-0.03,37
+28139,Mississippi,Tippah,0.41,57,-0.03,36
+28141,Mississippi,Tishomingo,-0.27,29,-0.32,19
+28143,Mississippi,Tunica,0.75,70,0.95,81
+28145,Mississippi,Union,-0.80,9,-0.31,20
+28147,Mississippi,Walthall,0.45,59,-0.02,38
+28149,Mississippi,Warren,-0.12,39,0.00,39
+28151,Mississippi,Washington,0.63,64,0.56,70
+28153,Mississippi,Wayne,0.23,48,0.18,53
+28155,Mississippi,Webster,0.32,52,-0.13,30
+28157,Mississippi,Wilkinson,1.17,79,0.32,62
+28159,Mississippi,Winston,0.33,53,-0.08,31
+28161,Mississippi,Yalobusha,0.08,45,0.21,56
+28163,Mississippi,Yazoo,-0.36,24,0.42,64
+29001,Missouri,Adair,-0.33,40,-0.45,18
+29003,Missouri,Andrew,-1.27,2,-0.46,16
+29005,Missouri,Atchison,-0.95,10,-0.54,12
+29007,Missouri,Audrain,0.00,74,-0.14,43
+29009,Missouri,Barry,0.30,83,0.04,59
+29011,Missouri,Barton,-0.36,35,0.11,67
+29013,Missouri,Bates,-0.45,27,0.23,83
+29015,Missouri,Benton,0.15,79,0.13,69
+29017,Missouri,Bollinger,-0.07,66,0.13,70
+29019,Missouri,Boone,-1.04,6,-1.00,2
+29021,Missouri,Buchanan,-0.04,70,0.15,73
+29023,Missouri,Butler,1.37,109,0.41,102
+29025,Missouri,Caldwell,0.36,86,0.07,62
+29027,Missouri,Callaway,0.17,80,-0.04,53
+29029,Missouri,Camden,-0.27,46,-0.12,45
+29031,Missouri,Cape Girardeau,-0.50,24,-0.61,10
+29033,Missouri,Carroll,0.00,73,0.02,56
+29035,Missouri,Carter,1.81,111,0.62,107
+29037,Missouri,Cass,-0.73,17,-0.45,17
+29039,Missouri,Cedar,-0.07,67,0.20,76
+29041,Missouri,Chariton,-0.40,33,-0.47,15
+29043,Missouri,Christian,-1.10,5,-0.85,4
+29045,Missouri,Clark,0.40,88,0.21,78
+29047,Missouri,Clay,-0.86,13,-0.73,7
+29049,Missouri,Clinton,-0.44,28,-0.30,25
+29051,Missouri,Cole,-0.77,16,-0.69,8
+29053,Missouri,Cooper,-0.35,37,-0.29,27
+29055,Missouri,Crawford,0.39,87,0.27,87
+29057,Missouri,Dade,-0.06,68,-0.07,51
+29059,Missouri,Dallas,-0.40,32,0.31,96
+29061,Missouri,Daviess,-0.34,38,0.21,79
+29063,Missouri,DeKalb,-1.03,8,-0.16,40
+29065,Missouri,Dent,1.36,108,0.14,72
+29067,Missouri,Douglas,-0.04,71,0.14,71
+29069,Missouri,Dunklin,2.43,115,1.12,113
+29071,Missouri,Franklin,-0.10,60,-0.27,33
+29073,Missouri,Gasconade,-0.11,59,-0.17,39
+29075,Missouri,Gentry,-0.34,39,-0.30,26
+29077,Missouri,Greene,-0.29,45,-0.55,11
+29079,Missouri,Grundy,-0.25,50,-0.11,47
+29081,Missouri,Harrison,-0.45,26,0.12,68
+29083,Missouri,Henry,0.55,96,0.04,58
+29085,Missouri,Hickory,-0.12,58,0.32,97
+29087,Missouri,Holt,-0.27,47,-0.45,19
+29089,Missouri,Howard,-0.88,12,-0.32,24
+29091,Missouri,Howell,0.47,91,0.11,66
+29093,Missouri,Iron,0.83,100,0.33,98
+29095,Missouri,Jackson,0.11,78,0.21,81
+29097,Missouri,Jasper,-0.31,43,-0.06,52
+29099,Missouri,Jefferson,-0.30,44,0.06,61
+29101,Missouri,Johnson,-1.03,7,-0.36,22
+29103,Missouri,Knox,-0.15,55,-0.18,37
+29105,Missouri,Laclede,-0.08,63,0.30,93
+29107,Missouri,Lafayette,-0.88,11,-0.28,30
+29109,Missouri,Lawrence,-0.08,65,-0.21,36
+29111,Missouri,Lewis,-0.32,42,0.02,57
+29113,Missouri,Lincoln,-0.25,49,0.22,82
+29115,Missouri,Linn,-0.24,51,0.46,104
+29117,Missouri,Livingston,-0.10,61,-0.33,23
+29121,Missouri,Macon,-0.52,23,-0.29,28
+29123,Missouri,Madison,0.83,99,0.29,92
+29125,Missouri,Maries,-0.98,9,0.06,60
+29127,Missouri,Marion,-0.19,53,-0.29,29
+29119,Missouri,McDonald,0.56,97,0.30,94
+29129,Missouri,Mercer,-0.83,15,-0.26,34
+29131,Missouri,Miller,-0.08,62,0.39,101
+29133,Missouri,Mississippi,1.31,107,0.76,109
+29135,Missouri,Moniteau,-0.85,14,-0.37,21
+29137,Missouri,Monroe,-0.60,21,0.02,55
+29139,Missouri,Montgomery,0.21,81,0.08,64
+29141,Missouri,Morgan,0.33,84,0.28,89
+29143,Missouri,New Madrid,1.99,113,0.51,105
+29145,Missouri,Newton,-0.08,64,-0.15,41
+29147,Missouri,Nodaway,-1.27,3,-0.81,5
+29149,Missouri,Oregon,0.53,93,0.33,99
+29151,Missouri,Osage,-0.73,18,-0.68,9
+29153,Missouri,Ozark,1.11,104,0.34,100
+29155,Missouri,Pemiscot,2.04,114,1.24,114
+29157,Missouri,Perry,-0.54,22,-0.48,14
+29159,Missouri,Pettis,-0.17,54,0.09,65
+29161,Missouri,Phelps,-0.06,69,-0.13,44
+29163,Missouri,Pike,-0.32,41,0.30,95
+29165,Missouri,Platte,-1.15,4,-0.99,3
+29167,Missouri,Polk,0.03,75,-0.08,50
+29169,Missouri,Pulaski,-0.37,34,-0.11,46
+29171,Missouri,Putnam,-0.48,25,-0.17,38
+29173,Missouri,Ralls,-0.44,29,-0.53,13
+29175,Missouri,Randolph,0.05,76,0.21,77
+29177,Missouri,Ray,0.44,90,0.08,63
+29179,Missouri,Reynolds,0.95,102,0.78,110
+29181,Missouri,Ripley,1.98,112,0.69,108
+29195,Missouri,Saline,-0.36,36,-0.09,49
+29197,Missouri,Schuyler,0.05,77,-0.10,48
+29199,Missouri,Scotland,-0.43,31,-0.28,31
+29201,Missouri,Scott,0.54,94,0.28,90
+29203,Missouri,Shannon,0.55,95,0.96,112
+29205,Missouri,Shelby,-0.14,56,-0.41,20
+29183,Missouri,St. Charles,-1.28,1,-1.08,1
+29185,Missouri,St. Clair,1.18,105,0.26,86
+29187,Missouri,St. Francois,0.66,98,0.28,91
+29189,Missouri,St. Louis,-0.63,20,-0.80,6
+29510,Missouri,St. Louis City,1.50,110,1.42,115
+29186,Missouri,Ste. Genevieve,-0.68,19,-0.03,54
+29207,Missouri,Stoddard,0.51,92,0.17,75
+29209,Missouri,Stone,-0.24,52,0.21,80
+29211,Missouri,Sullivan,0.43,89,0.17,74
+29213,Missouri,Taney,-0.03,72,0.44,103
+29215,Missouri,Texas,0.88,101,0.54,106
+29217,Missouri,Vernon,0.28,82,0.24,85
+29219,Missouri,Warren,-0.43,30,-0.27,32
+29221,Missouri,Washington,1.25,106,0.79,111
+29223,Missouri,Wayne,1.06,103,0.27,88
+29225,Missouri,Webster,-0.26,48,-0.14,42
+29227,Missouri,Worth,-0.14,57,-0.25,35
+29229,Missouri,Wright,0.35,85,0.23,84
+30001,Montana,Beaverhead,-0.36,13,-0.45,9
+30003,Montana,Big Horn,1.06,43,1.47,45
+30005,Montana,Blaine,1.18,44,1.03,43
+30007,Montana,Broadwater,-0.35,14,-0.27,21
+30009,Montana,Carbon,-0.41,11,-0.33,18
+30011,Montana,Carter,,NR,,NR
+30013,Montana,Cascade,-0.10,24,-0.25,22
+30015,Montana,Chouteau,-0.28,18,-0.08,26
+30017,Montana,Custer,0.16,34,-0.44,11
+30019,Montana,Daniels,-0.59,5,-0.49,6
+30021,Montana,Dawson,0.07,29,-0.32,19
+30023,Montana,Deer Lodge,1.02,42,0.26,35
+30025,Montana,Fallon,0.14,33,-0.41,13
+30027,Montana,Fergus,-0.45,10,-0.45,10
+30029,Montana,Flathead,-0.53,7,-0.13,24
+30031,Montana,Gallatin,-1.16,1,-0.94,1
+30033,Montana,Garfield,,NR,,NR
+30035,Montana,Glacier,1.55,45,1.54,46
+30037,Montana,Golden Valley,,NR,,NR
+30039,Montana,Granite,-1.10,2,0.22,33
+30041,Montana,Hill,0.14,32,0.69,42
+30043,Montana,Jefferson,-0.23,21,-0.66,2
+30045,Montana,Judith Basin,-0.08,26,-0.46,8
+30047,Montana,Lake,0.31,37,0.53,40
+30049,Montana,Lewis and Clark,-0.10,23,-0.64,3
+30051,Montana,Liberty,,NR,,NR
+30053,Montana,Lincoln,0.20,35,0.48,38
+30057,Montana,Madison,-0.89,3,-0.38,15
+30055,Montana,McCone,,NR,,NR
+30059,Montana,Meagher,0.35,38,0.34,36
+30061,Montana,Mineral,0.84,41,0.45,37
+30063,Montana,Missoula,-0.58,6,-0.53,5
+30065,Montana,Musselshell,-0.25,20,-0.04,27
+30067,Montana,Park,-0.52,9,-0.42,12
+30069,Montana,Petroleum,,NR,,NR
+30071,Montana,Phillips,-0.32,16,0.10,28
+30073,Montana,Pondera,-0.53,8,0.24,34
+30075,Montana,Powder River,,NR,,NR
+30077,Montana,Powell,0.28,36,0.11,30
+30079,Montana,Prairie,,NR,,NR
+30081,Montana,Ravalli,-0.31,17,-0.16,23
+30083,Montana,Richland,-0.06,27,-0.35,17
+30085,Montana,Roosevelt,1.76,46,1.27,44
+30087,Montana,Rosebud,0.79,40,0.51,39
+30089,Montana,Sanders,0.09,30,0.59,41
+30091,Montana,Sheridan,0.07,28,-0.29,20
+30093,Montana,Silver Bow,0.56,39,0.10,29
+30095,Montana,Stillwater,-0.34,15,-0.56,4
+30097,Montana,Sweet Grass,-0.18,22,-0.48,7
+30099,Montana,Teton,-0.09,25,-0.38,14
+30101,Montana,Toole,-0.72,4,0.12,31
+30103,Montana,Treasure,,NR,,NR
+30105,Montana,Valley,-0.37,12,-0.11,25
+30107,Montana,Wheatland,0.11,31,0.22,32
+30109,Montana,Wibaux,,NR,,NR
+30111,Montana,Yellowstone,-0.26,19,-0.38,16
+31001,Nebraska,Adams,0.08,48,-0.03,39
+31003,Nebraska,Antelope,-0.53,17,-0.05,37
+31005,Nebraska,Arthur,,NR,,NR
+31007,Nebraska,Banner,,NR,,NR
+31009,Nebraska,Blaine,,NR,,NR
+31011,Nebraska,Boone,-0.87,6,-0.52,5
+31013,Nebraska,Box Butte,0.44,64,0.60,75
+31015,Nebraska,Boyd,-0.20,32,0.12,59
+31017,Nebraska,Brown,0.47,65,0.04,45
+31019,Nebraska,Buffalo,-0.63,13,-0.37,14
+31021,Nebraska,Burt,0.11,51,0.03,43
+31023,Nebraska,Butler,-0.45,21,-0.39,13
+31025,Nebraska,Cass,0.05,47,-0.27,21
+31027,Nebraska,Cedar,-1.19,3,-0.33,18
+31029,Nebraska,Chase,0.69,69,-0.36,16
+31031,Nebraska,Cherry,-0.76,8,-0.15,26
+31033,Nebraska,Cheyenne,0.10,50,-0.23,23
+31035,Nebraska,Clay,-0.06,41,0.05,50
+31037,Nebraska,Colfax,-0.42,22,0.30,67
+31039,Nebraska,Cuming,-0.63,12,-0.42,10
+31041,Nebraska,Custer,-0.36,24,-0.05,38
+31043,Nebraska,Dakota,0.02,46,0.94,78
+31045,Nebraska,Dawes,-0.18,33,0.10,56
+31047,Nebraska,Dawson,0.22,57,0.56,74
+31049,Nebraska,Deuel,-0.10,38,0.05,48
+31051,Nebraska,Dixon,-0.32,26,0.31,68
+31053,Nebraska,Dodge,-0.02,45,0.14,60
+31055,Nebraska,Douglas,0.10,49,0.11,57
+31057,Nebraska,Dundy,0.44,63,-0.15,27
+31059,Nebraska,Fillmore,-0.99,5,-0.36,15
+31061,Nebraska,Franklin,0.19,54,0.04,47
+31063,Nebraska,Frontier,-0.09,39,-0.10,33
+31065,Nebraska,Furnas,-0.28,28,0.25,66
+31067,Nebraska,Gage,0.84,72,0.05,49
+31069,Nebraska,Garden,1.30,76,0.36,71
+31071,Nebraska,Garfield,-0.17,35,-0.12,31
+31073,Nebraska,Gosper,-0.32,27,-0.42,11
+31075,Nebraska,Grant,,NR,,NR
+31077,Nebraska,Greeley,-0.12,36,0.19,63
+31079,Nebraska,Hall,-0.05,42,0.35,70
+31081,Nebraska,Hamilton,-0.04,43,-0.55,3
+31083,Nebraska,Harlan,0.41,62,-0.21,24
+31085,Nebraska,Hayes,,NR,,NR
+31087,Nebraska,Hitchcock,1.19,75,0.61,76
+31089,Nebraska,Holt,-0.08,40,-0.15,28
+31091,Nebraska,Hooker,,NR,,NR
+31093,Nebraska,Howard,-0.50,18,-0.31,19
+31095,Nebraska,Jefferson,0.21,56,0.03,44
+31097,Nebraska,Johnson,-0.22,29,0.23,65
+31099,Nebraska,Kearney,-0.41,23,-0.62,2
+31101,Nebraska,Keith,1.73,78,0.08,54
+31103,Nebraska,Keya Paha,,NR,,NR
+31105,Nebraska,Kimball,2.45,79,0.41,72
+31107,Nebraska,Knox,0.23,59,0.08,53
+31109,Nebraska,Lancaster,-0.49,19,-0.26,22
+31111,Nebraska,Lincoln,0.55,66,0.16,62
+31113,Nebraska,Logan,,NR,,NR
+31115,Nebraska,Loup,,NR,,NR
+31119,Nebraska,Madison,-0.35,25,0.04,46
+31117,Nebraska,McPherson,,NR,,NR
+31121,Nebraska,Merrick,0.11,52,0.16,61
+31123,Nebraska,Morrill,0.71,70,0.33,69
+31125,Nebraska,Nance,0.21,55,-0.01,40
+31127,Nebraska,Nemaha,0.31,60,-0.14,29
+31129,Nebraska,Nuckolls,-0.22,30,-0.34,17
+31131,Nebraska,Otoe,-0.02,44,0.00,41
+31133,Nebraska,Pawnee,0.78,71,-0.07,34
+31135,Nebraska,Perkins,-0.11,37,-0.54,4
+31137,Nebraska,Phelps,-0.45,20,-0.52,6
+31139,Nebraska,Pierce,-1.07,4,-0.28,20
+31141,Nebraska,Platte,-0.67,9,-0.14,30
+31143,Nebraska,Polk,-1.32,1,-0.05,36
+31145,Nebraska,Red Willow,0.23,58,-0.10,32
+31147,Nebraska,Richardson,0.61,67,0.76,77
+31149,Nebraska,Rock,,NR,,NR
+31151,Nebraska,Saline,-0.60,15,0.03,42
+31153,Nebraska,Sarpy,-0.65,10,-0.52,7
+31155,Nebraska,Saunders,-0.18,34,-0.20,25
+31157,Nebraska,Scotts Bluff,0.69,68,0.46,73
+31159,Nebraska,Seward,-0.61,14,-0.74,1
+31161,Nebraska,Sheridan,-0.64,11,-0.06,35
+31163,Nebraska,Sherman,0.93,74,0.20,64
+31165,Nebraska,Sioux,,NR,,NR
+31167,Nebraska,Stanton,-0.58,16,0.12,58
+31169,Nebraska,Thayer,0.93,73,-0.50,8
+31171,Nebraska,Thomas,,NR,,NR
+31173,Nebraska,Thurston,1.72,77,2.10,79
+31175,Nebraska,Valley,0.32,61,0.08,52
+31177,Nebraska,Washington,-0.81,7,-0.48,9
+31179,Nebraska,Wayne,-1.22,2,-0.41,12
+31181,Nebraska,Webster,0.19,53,0.09,55
+31183,Nebraska,Wheeler,,NR,,NR
+31185,Nebraska,York,-0.21,31,0.07,51
+32510,Nevada,Carson City,-0.12,8,-0.13,7
+32001,Nevada,Churchill,0.10,12,0.00,10
+32003,Nevada,Clark,-0.09,9,0.35,12
+32005,Nevada,Douglas,-0.39,3,-0.78,1
+32007,Nevada,Elko,-0.35,4,-0.12,8
+32009,Nevada,Esmeralda,,NR,,NR
+32011,Nevada,Eureka,-0.28,5,-0.62,2
+32013,Nevada,Humboldt,0.00,11,0.05,11
+32015,Nevada,Lander,0.79,14,-0.30,4
+32017,Nevada,Lincoln,-1.09,2,-0.25,6
+32019,Nevada,Lyon,-0.16,7,0.37,13
+32021,Nevada,Mineral,0.91,15,0.84,16
+32023,Nevada,Nye,1.73,16,0.82,15
+32027,Nevada,Pershing,-0.02,10,0.49,14
+32029,Nevada,Storey,-1.18,1,-0.39,3
+32031,Nevada,Washoe,-0.21,6,-0.29,5
+32033,Nevada,White Pine,0.38,13,-0.06,9
+33001,New Hampshire,Belknap,-0.01,7,0.10,7
+33003,New Hampshire,Carroll,-0.04,6,-0.09,5
+33005,New Hampshire,Cheshire,-0.25,5,0.03,6
+33007,New Hampshire,Coos,2.15,10,1.06,10
+33009,New Hampshire,Grafton,-0.76,2,-0.63,2
+33011,New Hampshire,Hillsborough,-0.56,4,-0.10,4
+33013,New Hampshire,Merrimack,-0.61,3,-0.50,3
+33015,New Hampshire,Rockingham,-0.80,1,-0.65,1
+33017,New Hampshire,Strafford,0.16,8,0.36,8
+33019,New Hampshire,Sullivan,0.71,9,0.42,9
+34001,New Jersey,Atlantic,1.02,17,0.68,18
+34003,New Jersey,Bergen,-1.08,4,-0.82,4
+34005,New Jersey,Burlington,0.01,11,-0.36,7
+34007,New Jersey,Camden,1.09,18,0.55,16
+34009,New Jersey,Cape May,0.32,16,0.35,14
+34011,New Jersey,Cumberland,1.54,21,1.54,21
+34013,New Jersey,Essex,1.13,19,0.61,17
+34015,New Jersey,Gloucester,0.24,13,0.10,13
+34017,New Jersey,Hudson,0.31,15,0.69,19
+34019,New Jersey,Hunterdon,-1.45,1,-1.12,2
+34021,New Jersey,Mercer,0.06,12,-0.21,8
+34023,New Jersey,Middlesex,-0.58,5,-0.39,6
+34025,New Jersey,Monmouth,-0.48,6,-0.60,5
+34027,New Jersey,Morris,-1.25,2,-1.09,3
+34029,New Jersey,Ocean,-0.29,8,0.04,12
+34031,New Jersey,Passaic,0.25,14,0.52,15
+34033,New Jersey,Salem,1.16,20,0.89,20
+34035,New Jersey,Somerset,-1.22,3,-1.15,1
+34037,New Jersey,Sussex,-0.42,7,-0.11,9
+34039,New Jersey,Union,-0.07,10,-0.03,11
+34041,New Jersey,Warren,-0.29,9,-0.07,10
+35001,New Mexico,Bernalillo,-0.55,9,-0.40,5
+35003,New Mexico,Catron,-0.37,12,0.04,18
+35005,New Mexico,Chaves,0.20,20,0.15,20
+35006,New Mexico,Cibola,0.53,26,0.59,30
+35007,New Mexico,Colfax,0.73,28,-0.11,10
+35009,New Mexico,Curry,-0.57,8,0.02,17
+35011,New Mexico,De Baca,0.16,19,-0.37,6
+35013,New Mexico,Dona Ana,-0.70,7,-0.01,16
+35015,New Mexico,Eddy,0.30,23,-0.11,11
+35017,New Mexico,Grant,0.38,24,-0.17,8
+35019,New Mexico,Guadalupe,-0.73,5,0.34,26
+35021,New Mexico,Harding,,NR,,NR
+35023,New Mexico,Hidalgo,-0.44,10,-0.13,9
+35025,New Mexico,Lea,-0.18,16,0.22,22
+35027,New Mexico,Lincoln,-0.97,3,-0.28,7
+35028,New Mexico,Los Alamos,-1.32,1,-1.87,1
+35029,New Mexico,Luna,-0.03,17,0.94,32
+35031,New Mexico,McKinley,0.44,25,0.91,31
+35033,New Mexico,Mora,0.27,21,-0.04,13
+35035,New Mexico,Otero,-0.35,13,-0.06,12
+35037,New Mexico,Quay,1.74,32,0.40,28
+35039,New Mexico,Rio Arriba,1.50,31,0.30,24
+35041,New Mexico,Roosevelt,-0.77,4,0.20,21
+35045,New Mexico,San Juan,-0.22,15,0.36,27
+35047,New Mexico,San Miguel,0.96,29,-0.03,14
+35043,New Mexico,Sandoval,-0.99,2,-0.56,4
+35049,New Mexico,Santa Fe,-0.72,6,-0.77,2
+35051,New Mexico,Sierra,1.33,30,0.29,23
+35053,New Mexico,Socorro,0.67,27,0.34,25
+35055,New Mexico,Taos,0.00,18,-0.01,15
+35057,New Mexico,Torrance,0.28,22,0.47,29
+35059,New Mexico,Union,-0.37,11,-0.64,3
+35061,New Mexico,Valencia,-0.23,14,0.13,19
+36001,New York,Albany,-0.02,27,-0.49,11
+36003,New York,Allegany,-0.35,20,0.19,41
+36005,New York,Bronx,1.95,62,1.69,62
+36007,New York,Broome,0.58,48,0.04,33
+36009,New York,Cattaraugus,0.70,51,0.48,53
+36011,New York,Cayuga,0.08,35,0.20,42
+36013,New York,Chautauqua,0.79,54,0.28,49
+36015,New York,Chemung,1.31,60,0.18,39
+36017,New York,Chenango,0.05,32,0.13,36
+36019,New York,Clinton,-0.03,26,0.21,44
+36021,New York,Columbia,0.45,45,-0.36,13
+36023,New York,Cortland,0.24,43,0.02,31
+36025,New York,Delaware,-0.04,25,0.22,46
+36027,New York,Dutchess,-0.73,9,-0.56,9
+36029,New York,Erie,0.85,56,-0.08,24
+36031,New York,Essex,-0.54,16,-0.20,19
+36033,New York,Franklin,0.10,36,0.43,51
+36035,New York,Fulton,0.72,53,0.62,56
+36037,New York,Genesee,0.10,37,-0.06,25
+36039,New York,Greene,0.82,55,0.24,48
+36041,New York,Hamilton,1.03,58,-0.27,14
+36043,New York,Herkimer,0.15,39,0.38,50
+36045,New York,Jefferson,0.00,30,0.58,54
+36047,New York,Kings,0.66,49,0.71,59
+36049,New York,Lewis,-0.52,17,0.21,45
+36051,New York,Livingston,-1.61,1,-0.44,12
+36053,New York,Madison,-0.71,10,-0.27,15
+36055,New York,Monroe,0.06,33,-0.10,23
+36057,New York,Montgomery,0.57,47,0.90,61
+36059,New York,Nassau,-0.96,8,-1.15,1
+36061,New York,New York,-0.29,21,-0.54,10
+36063,New York,Niagara,1.04,59,0.14,37
+36065,New York,Oneida,0.70,50,0.07,34
+36067,New York,Onondaga,0.06,34,-0.23,18
+36069,New York,Ontario,-0.69,11,-0.63,7
+36071,New York,Orange,-0.23,22,-0.05,26
+36073,New York,Orleans,0.72,52,0.69,57
+36075,New York,Oswego,0.16,40,0.77,60
+36077,New York,Otsego,-0.01,28,-0.11,22
+36079,New York,Putnam,-1.39,4,-1.02,4
+36081,New York,Queens,-0.47,19,0.24,47
+36083,New York,Rensselaer,0.20,41,-0.03,28
+36085,New York,Richmond,-0.06,24,-0.04,27
+36087,New York,Rockland,-1.44,2,-0.84,6
+36091,New York,Saratoga,-1.08,5,-0.99,5
+36093,New York,Schenectady,0.12,38,-0.12,21
+36095,New York,Schoharie,-0.62,13,-0.01,29
+36097,New York,Schuyler,-0.01,29,0.10,35
+36099,New York,Seneca,-0.16,23,0.20,43
+36089,New York,St. Lawrence,0.90,57,0.69,58
+36101,New York,Steuben,0.34,44,0.48,52
+36103,New York,Suffolk,-0.51,18,-0.62,8
+36105,New York,Sullivan,1.59,61,0.61,55
+36107,New York,Tioga,-0.57,15,-0.18,20
+36109,New York,Tompkins,-1.43,3,-1.09,2
+36111,New York,Ulster,0.03,31,-0.01,30
+36113,New York,Warren,-0.67,12,-0.24,17
+36115,New York,Washington,0.21,42,0.19,40
+36117,New York,Wayne,0.52,46,0.15,38
+36119,New York,Westchester,-0.99,7,-1.05,3
+36121,New York,Wyoming,-0.61,14,0.02,32
+36123,New York,Yates,-1.05,6,-0.27,16
+37001,North Carolina,Alamance,-0.43,31,-0.01,45
+37003,North Carolina,Alexander,0.07,58,-0.04,44
+37005,North Carolina,Alleghany,0.50,79,0.06,54
+37007,North Carolina,Anson,0.80,86,0.56,89
+37009,North Carolina,Ashe,-0.22,42,0.00,47
+37011,North Carolina,Avery,-0.63,22,0.03,52
+37013,North Carolina,Beaufort,0.35,73,0.20,69
+37015,North Carolina,Bertie,1.23,92,0.65,90
+37017,North Carolina,Bladen,1.61,98,0.69,93
+37019,North Carolina,Brunswick,-0.26,37,-0.20,32
+37021,North Carolina,Buncombe,-0.72,19,-0.72,8
+37023,North Carolina,Burke,0.46,76,0.00,48
+37025,North Carolina,Cabarrus,-0.86,10,-0.57,13
+37027,North Carolina,Caldwell,0.31,70,0.11,59
+37029,North Carolina,Camden,-1.34,4,-0.79,5
+37031,North Carolina,Carteret,-0.19,43,-0.40,22
+37033,North Carolina,Caswell,0.03,57,0.14,64
+37035,North Carolina,Catawba,-0.15,47,-0.27,28
+37037,North Carolina,Chatham,-0.78,15,-0.70,10
+37039,North Carolina,Cherokee,0.34,72,-0.05,43
+37041,North Carolina,Chowan,-0.22,41,0.13,62
+37043,North Carolina,Clay,0.27,67,-0.23,30
+37045,North Carolina,Cleveland,0.68,83,0.17,66
+37047,North Carolina,Columbus,1.94,100,0.67,92
+37049,North Carolina,Craven,-0.54,24,-0.25,29
+37051,North Carolina,Cumberland,0.37,74,0.02,50
+37053,North Carolina,Currituck,-0.49,29,-0.56,14
+37055,North Carolina,Dare,-0.96,7,-0.49,17
+37057,North Carolina,Davidson,0.03,56,0.00,49
+37059,North Carolina,Davie,-0.91,8,-0.39,23
+37061,North Carolina,Duplin,-0.18,44,0.32,76
+37063,North Carolina,Durham,-0.73,17,-0.55,15
+37065,North Carolina,Edgecombe,0.89,88,1.04,98
+37067,North Carolina,Forsyth,-0.52,28,-0.38,24
+37069,North Carolina,Franklin,-0.27,35,0.11,58
+37071,North Carolina,Gaston,0.54,81,0.13,61
+37073,North Carolina,Gates,0.69,84,-0.47,21
+37075,North Carolina,Graham,0.21,63,0.40,84
+37077,North Carolina,Granville,-0.15,46,-0.13,34
+37079,North Carolina,Greene,-0.26,38,0.00,46
+37081,North Carolina,Guilford,-0.78,13,-0.48,18
+37083,North Carolina,Halifax,1.66,99,0.86,95
+37085,North Carolina,Harnett,-0.02,53,0.28,75
+37087,North Carolina,Haywood,0.00,55,-0.13,35
+37089,North Carolina,Henderson,-0.81,12,-0.75,7
+37091,North Carolina,Hertford,0.46,77,0.35,79
+37093,North Carolina,Hoke,-0.25,39,0.28,74
+37095,North Carolina,Hyde,-0.72,18,0.39,82
+37097,North Carolina,Iredell,-0.67,21,-0.48,19
+37099,North Carolina,Jackson,-0.60,23,-0.06,42
+37101,North Carolina,Johnston,-0.49,30,-0.10,38
+37103,North Carolina,Jones,0.15,62,0.16,65
+37105,North Carolina,Lee,-0.03,51,0.19,67
+37107,North Carolina,Lenoir,1.35,94,0.32,77
+37109,North Carolina,Lincoln,-0.32,32,-0.38,25
+37113,North Carolina,Macon,-0.74,16,-0.37,26
+37115,North Carolina,Madison,-0.16,45,-0.31,27
+37117,North Carolina,Martin,1.21,91,0.36,80
+37111,North Carolina,McDowell,0.26,66,0.21,70
+37119,North Carolina,Mecklenburg,-1.06,6,-0.57,12
+37121,North Carolina,Mitchell,0.08,59,0.04,53
+37123,North Carolina,Montgomery,-0.25,40,0.39,81
+37125,North Carolina,Moore,-0.84,11,-0.78,6
+37127,North Carolina,Nash,0.11,60,0.24,72
+37129,North Carolina,New Hanover,-0.90,9,-0.72,9
+37131,North Carolina,Northampton,1.20,90,0.70,94
+37133,North Carolina,Onslow,-0.53,25,-0.21,31
+37135,North Carolina,Orange,-1.68,2,-1.76,1
+37137,North Carolina,Pamlico,-0.28,34,-0.48,20
+37139,North Carolina,Pasquotank,-0.03,52,0.11,57
+37141,North Carolina,Pender,-0.70,20,0.09,56
+37143,North Carolina,Perquimans,0.33,71,-0.16,33
+37145,North Carolina,Person,-0.29,33,0.12,60
+37147,North Carolina,Pitt,-0.13,48,-0.08,40
+37149,North Carolina,Polk,-0.52,26,-0.58,11
+37151,North Carolina,Randolph,-0.27,36,-0.09,39
+37153,North Carolina,Richmond,1.06,89,0.89,97
+37155,North Carolina,Robeson,1.58,97,1.45,100
+37157,North Carolina,Rockingham,0.49,78,0.47,85
+37159,North Carolina,Rowan,0.28,68,0.13,63
+37161,North Carolina,Rutherford,0.30,69,0.40,83
+37163,North Carolina,Sampson,0.53,80,0.24,71
+37165,North Carolina,Scotland,1.29,93,1.07,99
+37167,North Carolina,Stanly,0.56,82,-0.12,37
+37169,North Carolina,Stokes,0.21,65,0.19,68
+37171,North Carolina,Surry,0.11,61,0.02,51
+37173,North Carolina,Swain,1.52,96,0.66,91
+37175,North Carolina,Transylvania,-0.78,14,-0.54,16
+37177,North Carolina,Tyrrell,0.85,87,0.48,86
+37179,North Carolina,Union,-1.31,5,-0.82,4
+37181,North Carolina,Vance,1.48,95,0.86,96
+37183,North Carolina,Wake,-1.72,1,-1.17,2
+37185,North Carolina,Warren,0.73,85,0.49,88
+37187,North Carolina,Washington,-0.01,54,0.49,87
+37189,North Carolina,Watauga,-1.53,3,-0.87,3
+37191,North Carolina,Wayne,0.21,64,0.08,55
+37193,North Carolina,Wilkes,0.46,75,0.28,73
+37195,North Carolina,Wilson,-0.11,49,0.34,78
+37197,North Carolina,Yadkin,-0.10,50,-0.06,41
+37199,North Carolina,Yancey,-0.52,27,-0.12,36
+38001,North Dakota,Adams,0.30,40,-0.35,8
+38003,North Dakota,Barnes,-0.66,2,-0.38,6
+38005,North Dakota,Benson,1.88,45,1.40,45
+38007,North Dakota,Billings,,NR,,NR
+38009,North Dakota,Bottineau,-0.18,23,-0.05,25
+38011,North Dakota,Bowman,-0.44,8,-0.41,4
+38013,North Dakota,Burke,-0.25,17,-0.24,15
+38015,North Dakota,Burleigh,-0.21,21,-0.56,1
+38017,North Dakota,Cass,-0.40,10,-0.39,5
+38019,North Dakota,Cavalier,-0.41,9,-0.20,18
+38021,North Dakota,Dickey,-0.86,1,-0.34,10
+38023,North Dakota,Divide,-0.09,28,-0.19,19
+38025,North Dakota,Dunn,0.04,35,-0.01,30
+38027,North Dakota,Eddy,0.26,38,-0.11,23
+38029,North Dakota,Emmons,-0.01,32,0.06,36
+38031,North Dakota,Foster,-0.58,3,-0.45,2
+38033,North Dakota,Golden Valley,,NR,,NR
+38035,North Dakota,Grand Forks,-0.38,11,-0.22,16
+38037,North Dakota,Grant,-0.14,25,0.35,42
+38039,North Dakota,Griggs,-0.45,7,-0.44,3
+38041,North Dakota,Hettinger,-0.18,24,-0.34,11
+38043,North Dakota,Kidder,-0.21,22,0.14,39
+38045,North Dakota,LaMoure,-0.28,16,-0.35,7
+38047,North Dakota,Logan,,NR,,NR
+38049,North Dakota,McHenry,0.27,39,0.23,40
+38051,North Dakota,McIntosh,-0.07,29,0.05,34
+38053,North Dakota,McKenzie,0.37,42,0.13,38
+38055,North Dakota,McLean,-0.04,30,-0.02,29
+38057,North Dakota,Mercer,0.05,36,-0.33,13
+38059,North Dakota,Morton,-0.03,31,-0.06,24
+38061,North Dakota,Mountrail,0.93,43,0.48,43
+38063,North Dakota,Nelson,-0.47,4,-0.04,26
+38065,North Dakota,Oliver,,NR,,NR
+38067,North Dakota,Pembina,-0.46,6,0.26,41
+38069,North Dakota,Pierce,0.02,34,0.06,35
+38071,North Dakota,Ramsey,0.32,41,0.13,37
+38073,North Dakota,Ransom,-0.34,14,-0.11,22
+38075,North Dakota,Renville,-0.12,26,-0.35,9
+38077,North Dakota,Richland,-0.01,33,-0.04,27
+38079,North Dakota,Rolette,1.76,44,1.96,46
+38081,North Dakota,Sargent,-0.22,20,-0.15,21
+38083,North Dakota,Sheridan,,NR,,NR
+38085,North Dakota,Sioux,2.60,46,1.22,44
+38087,North Dakota,Slope,,NR,,NR
+38089,North Dakota,Stark,-0.23,19,-0.33,12
+38091,North Dakota,Steele,,NR,,NR
+38093,North Dakota,Stutsman,0.13,37,-0.01,31
+38095,North Dakota,Towner,-0.37,12,-0.20,17
+38097,North Dakota,Traill,-0.46,5,-0.25,14
+38099,North Dakota,Walsh,-0.23,18,0.03,32
+38101,North Dakota,Ward,-0.37,13,-0.15,20
+38103,North Dakota,Wells,-0.11,27,-0.03,28
+38105,North Dakota,Williams,-0.32,15,0.05,33
+39001,Ohio,Adams,1.57,85,0.77,84
+39003,Ohio,Allen,-0.19,35,0.50,74
+39005,Ohio,Ashland,-0.60,23,-0.39,15
+39007,Ohio,Ashtabula,0.38,60,0.55,77
+39009,Ohio,Athens,0.38,61,0.10,51
+39011,Ohio,Auglaize,-0.83,15,-0.59,11
+39013,Ohio,Belmont,0.23,56,0.14,54
+39015,Ohio,Brown,0.57,70,0.33,66
+39017,Ohio,Butler,-0.17,36,-0.14,33
+39019,Ohio,Carroll,0.23,53,0.03,47
+39021,Ohio,Champaign,0.07,47,0.07,49
+39023,Ohio,Clark,0.61,72,0.39,70
+39025,Ohio,Clermont,-0.29,33,-0.30,19
+39027,Ohio,Clinton,0.80,76,0.14,55
+39029,Ohio,Columbiana,0.16,50,0.33,65
+39031,Ohio,Coshocton,0.48,64,0.44,71
+39033,Ohio,Crawford,0.27,57,0.31,64
+39035,Ohio,Cuyahoga,0.54,67,0.00,45
+39037,Ohio,Darke,-0.61,22,-0.20,27
+39039,Ohio,Defiance,-0.51,28,-0.44,14
+39041,Ohio,Delaware,-1.68,3,-1.72,1
+39043,Ohio,Erie,0.23,54,-0.11,35
+39045,Ohio,Fairfield,-0.84,13,-0.48,13
+39047,Ohio,Fayette,1.09,79,0.11,52
+39049,Ohio,Franklin,0.36,58,-0.05,41
+39051,Ohio,Fulton,-0.98,10,-0.37,16
+39053,Ohio,Gallia,1.17,81,0.39,69
+39055,Ohio,Geauga,-1.83,1,-1.17,3
+39057,Ohio,Greene,-0.83,14,-0.72,8
+39059,Ohio,Guernsey,0.14,48,0.50,73
+39061,Ohio,Hamilton,0.50,65,-0.08,36
+39063,Ohio,Hancock,-0.90,12,-0.62,9
+39065,Ohio,Hardin,0.38,59,0.00,44
+39067,Ohio,Harrison,0.42,63,0.38,67
+39069,Ohio,Henry,-0.54,27,-0.23,23
+39071,Ohio,Highland,0.89,78,0.53,75
+39073,Ohio,Hocking,0.00,42,0.25,61
+39075,Ohio,Holmes,-1.36,5,-0.29,21
+39077,Ohio,Huron,-0.45,31,0.25,60
+39079,Ohio,Jackson,1.81,86,0.72,82
+39081,Ohio,Jefferson,1.14,80,0.79,85
+39083,Ohio,Knox,-0.46,30,-0.05,40
+39085,Ohio,Lake,-0.82,17,-0.52,12
+39087,Ohio,Lawrence,2.03,87,0.68,81
+39089,Ohio,Licking,-0.38,32,-0.23,24
+39091,Ohio,Logan,0.02,45,-0.13,34
+39093,Ohio,Lorain,-0.50,29,-0.02,42
+39095,Ohio,Lucas,0.56,68,0.59,78
+39097,Ohio,Madison,0.02,44,0.01,46
+39099,Ohio,Mahoning,0.76,75,0.17,57
+39101,Ohio,Marion,0.50,66,0.65,80
+39103,Ohio,Medina,-1.51,4,-1.14,4
+39105,Ohio,Meigs,1.46,84,0.75,83
+39107,Ohio,Mercer,-1.32,6,-0.93,5
+39109,Ohio,Miami,-0.25,34,-0.29,20
+39111,Ohio,Monroe,0.02,43,0.29,63
+39113,Ohio,Montgomery,0.68,74,0.08,50
+39115,Ohio,Morgan,0.39,62,0.53,76
+39117,Ohio,Morrow,0.15,49,0.15,56
+39119,Ohio,Muskingum,0.65,73,0.25,59
+39121,Ohio,Noble,-0.64,21,0.46,72
+39123,Ohio,Ottawa,-0.94,11,-0.24,22
+39125,Ohio,Paulding,0.23,55,-0.07,39
+39127,Ohio,Perry,0.57,69,0.38,68
+39129,Ohio,Pickaway,0.16,51,0.06,48
+39131,Ohio,Pike,1.28,82,0.91,87
+39133,Ohio,Portage,-0.66,20,-0.21,26
+39135,Ohio,Preble,-0.03,40,-0.01,43
+39137,Ohio,Putnam,-1.80,2,-0.88,6
+39139,Ohio,Richland,0.18,52,0.18,58
+39141,Ohio,Ross,1.39,83,0.60,79
+39143,Ohio,Sandusky,-0.10,38,-0.07,38
+39145,Ohio,Scioto,2.51,88,1.06,88
+39147,Ohio,Seneca,-0.81,18,-0.15,32
+39149,Ohio,Shelby,-0.55,25,-0.19,30
+39151,Ohio,Stark,-0.10,39,-0.08,37
+39153,Ohio,Summit,-0.02,41,-0.20,29
+39155,Ohio,Trumbull,0.59,71,0.27,62
+39157,Ohio,Tuscarawas,-0.58,24,0.13,53
+39159,Ohio,Union,-1.00,9,-0.60,10
+39161,Ohio,Van Wert,-0.54,26,-0.33,17
+39163,Ohio,Vinton,0.86,77,0.87,86
+39165,Ohio,Warren,-1.09,8,-1.20,2
+39167,Ohio,Washington,0.03,46,-0.20,28
+39169,Ohio,Wayne,-0.82,16,-0.31,18
+39171,Ohio,Williams,-0.70,19,-0.15,31
+39173,Ohio,Wood,-1.09,7,-0.79,7
+39175,Ohio,Wyandot,-0.13,37,-0.22,25
+40001,Oklahoma,Adair,0.33,52,0.94,76
+40003,Oklahoma,Alfalfa,-0.67,14,-0.51,14
+40005,Oklahoma,Atoka,0.24,50,0.33,59
+40007,Oklahoma,Beaver,-0.50,19,-0.35,23
+40009,Oklahoma,Beckham,0.49,57,0.05,38
+40011,Oklahoma,Blaine,0.14,44,0.08,40
+40013,Oklahoma,Bryan,-0.01,36,0.18,47
+40015,Oklahoma,Caddo,0.07,41,0.37,60
+40017,Oklahoma,Canadian,-1.29,6,-0.74,4
+40019,Oklahoma,Carter,0.59,60,0.13,44
+40021,Oklahoma,Cherokee,-0.05,34,0.39,63
+40023,Oklahoma,Choctaw,0.98,70,0.85,75
+40025,Oklahoma,Cimarron,-1.40,3,0.07,39
+40027,Oklahoma,Cleveland,-1.45,2,-0.90,1
+40029,Oklahoma,Coal,1.23,74,0.47,67
+40031,Oklahoma,Comanche,-0.15,32,0.22,52
+40033,Oklahoma,Cotton,-0.51,18,0.00,35
+40035,Oklahoma,Craig,0.47,56,-0.03,34
+40037,Oklahoma,Creek,0.23,48,0.21,50
+40039,Oklahoma,Custer,-0.57,17,-0.47,15
+40041,Oklahoma,Delaware,0.04,40,0.17,46
+40043,Oklahoma,Dewey,0.07,42,-0.52,13
+40045,Oklahoma,Ellis,-0.63,15,-0.72,6
+40047,Oklahoma,Garfield,-0.39,23,-0.37,21
+40049,Oklahoma,Garvin,1.02,71,-0.09,32
+40051,Oklahoma,Grady,-0.29,28,-0.19,27
+40053,Oklahoma,Grant,-0.93,10,-0.63,9
+40055,Oklahoma,Greer,0.41,55,-0.15,29
+40057,Oklahoma,Harmon,0.22,47,0.32,56
+40059,Oklahoma,Harper,-0.24,29,-0.36,22
+40061,Oklahoma,Haskell,0.75,66,0.19,48
+40063,Oklahoma,Hughes,0.49,58,0.79,73
+40065,Oklahoma,Jackson,-0.41,21,-0.11,31
+40067,Oklahoma,Jefferson,0.74,65,0.64,71
+40069,Oklahoma,Johnston,1.11,72,0.11,43
+40071,Oklahoma,Kay,0.14,43,0.21,49
+40073,Oklahoma,Kingfisher,-1.46,1,-0.56,11
+40075,Oklahoma,Kiowa,1.50,76,0.09,42
+40077,Oklahoma,Latimer,0.02,37,0.25,54
+40079,Oklahoma,Le Flore,0.24,49,0.41,64
+40081,Oklahoma,Lincoln,-0.05,35,0.04,37
+40083,Oklahoma,Logan,-1.01,9,-0.54,12
+40085,Oklahoma,Love,0.87,69,-0.08,33
+40093,Oklahoma,Major,0.15,45,-0.89,2
+40095,Oklahoma,Marshall,-0.29,27,0.33,58
+40097,Oklahoma,Mayes,-0.07,33,0.23,53
+40087,Oklahoma,McClain,-0.48,20,-0.72,5
+40089,Oklahoma,McCurtain,0.79,68,0.79,74
+40091,Oklahoma,McIntosh,1.18,73,0.61,70
+40099,Oklahoma,Murray,0.16,46,-0.14,30
+40101,Oklahoma,Muskogee,0.70,64,0.43,66
+40103,Oklahoma,Noble,-1.16,7,-0.43,18
+40105,Oklahoma,Nowata,-0.74,13,0.02,36
+40107,Oklahoma,Okfuskee,0.69,63,0.42,65
+40109,Oklahoma,Oklahoma,-0.18,30,-0.26,26
+40111,Oklahoma,Okmulgee,0.65,61,0.50,69
+40113,Oklahoma,Osage,-0.31,26,0.38,61
+40115,Oklahoma,Ottawa,0.40,54,0.39,62
+40117,Oklahoma,Pawnee,0.34,53,0.28,55
+40119,Oklahoma,Payne,-1.35,5,-0.67,7
+40121,Oklahoma,Pittsburg,0.69,62,0.09,41
+40123,Oklahoma,Pontotoc,0.76,67,0.14,45
+40125,Oklahoma,Pottawatomie,0.04,39,0.22,51
+40127,Oklahoma,Pushmataha,1.57,77,1.01,77
+40129,Oklahoma,Roger Mills,-0.32,25,-0.35,24
+40131,Oklahoma,Rogers,-1.06,8,-0.59,10
+40133,Oklahoma,Seminole,1.29,75,0.48,68
+40135,Oklahoma,Sequoyah,0.53,59,0.76,72
+40137,Oklahoma,Stephens,-0.18,31,-0.45,16
+40139,Oklahoma,Texas,-1.36,4,-0.18,28
+40141,Oklahoma,Tillman,0.02,38,0.33,57
+40143,Oklahoma,Tulsa,-0.40,22,-0.41,19
+40145,Oklahoma,Wagoner,-0.62,16,-0.35,25
+40147,Oklahoma,Washington,-0.90,12,-0.67,8
+40149,Oklahoma,Washita,0.31,51,-0.39,20
+40151,Oklahoma,Woods,-0.91,11,-0.78,3
+40153,Oklahoma,Woodward,-0.34,24,-0.44,17
+41001,Oregon,Baker,1.44,33,0.14,17
+41003,Oregon,Benton,-1.31,2,-1.21,1
+41005,Oregon,Clackamas,-0.84,5,-0.82,4
+41007,Oregon,Clatsop,-0.18,12,0.03,15
+41009,Oregon,Columbia,0.10,19,-0.15,12
+41011,Oregon,Coos,0.61,28,0.48,30
+41013,Oregon,Crook,-0.43,8,0.40,27
+41015,Oregon,Curry,0.39,26,0.29,24
+41017,Oregon,Deschutes,-0.65,7,-0.64,5
+41019,Oregon,Douglas,0.81,30,0.41,28
+41021,Oregon,Gilliam,,NR,,NR
+41023,Oregon,Grant,-1.52,1,0.16,18
+41025,Oregon,Harney,0.18,20,0.16,19
+41027,Oregon,Hood River,-1.04,3,-0.96,2
+41029,Oregon,Jackson,-0.17,13,-0.08,13
+41031,Oregon,Jefferson,1.36,32,0.85,33
+41033,Oregon,Josephine,0.69,29,0.22,21
+41035,Oregon,Klamath,1.32,31,0.37,26
+41037,Oregon,Lake,0.20,22,0.42,29
+41039,Oregon,Lane,0.00,17,-0.19,10
+41041,Oregon,Lincoln,0.35,24,0.27,23
+41043,Oregon,Linn,0.28,23,0.22,22
+41045,Oregon,Malheur,-0.35,10,0.71,32
+41047,Oregon,Marion,-0.15,14,0.21,20
+41049,Oregon,Morrow,-0.03,16,0.31,25
+41051,Oregon,Multnomah,-0.11,15,-0.19,9
+41053,Oregon,Polk,-0.37,9,-0.31,6
+41055,Oregon,Sherman,,NR,,NR
+41057,Oregon,Tillamook,0.36,25,-0.04,14
+41059,Oregon,Umatilla,0.60,27,0.53,31
+41061,Oregon,Union,0.19,21,-0.30,7
+41063,Oregon,Wallowa,0.08,18,-0.28,8
+41065,Oregon,Wasco,-0.19,11,0.13,16
+41067,Oregon,Washington,-0.98,4,-0.95,3
+41069,Oregon,Wheeler,,NR,,NR
+41071,Oregon,Yamhill,-0.66,6,-0.18,11
+42001,Pennsylvania,Adams,-0.62,12,-0.54,8
+42003,Pennsylvania,Allegheny,0.21,46,-0.29,14
+42005,Pennsylvania,Armstrong,-0.01,33,0.24,46
+42007,Pennsylvania,Beaver,0.20,44,0.11,36
+42009,Pennsylvania,Bedford,-0.25,24,0.05,31
+42011,Pennsylvania,Berks,-0.43,17,-0.15,21
+42013,Pennsylvania,Blair,0.56,56,0.11,37
+42015,Pennsylvania,Bradford,-0.18,27,-0.03,28
+42017,Pennsylvania,Bucks,-0.93,9,-1.05,4
+42019,Pennsylvania,Butler,-0.90,10,-0.83,6
+42021,Pennsylvania,Cambria,1.02,62,0.39,60
+42023,Pennsylvania,Cameron,-0.08,29,0.61,65
+42025,Pennsylvania,Carbon,0.17,42,0.58,64
+42027,Pennsylvania,Centre,-1.36,3,-1.06,3
+42029,Pennsylvania,Chester,-1.55,1,-1.36,1
+42031,Pennsylvania,Clarion,-0.21,26,0.12,39
+42033,Pennsylvania,Clearfield,0.01,34,0.12,38
+42035,Pennsylvania,Clinton,-0.33,20,0.29,49
+42037,Pennsylvania,Columbia,0.20,45,0.16,40
+42039,Pennsylvania,Crawford,-0.03,32,-0.04,27
+42041,Pennsylvania,Cumberland,-1.26,4,-1.00,5
+42043,Pennsylvania,Dauphin,0.27,47,0.17,41
+42045,Pennsylvania,Delaware,0.16,41,-0.37,12
+42047,Pennsylvania,Elk,0.88,61,0.09,33
+42049,Pennsylvania,Erie,0.37,49,0.23,45
+42051,Pennsylvania,Fayette,1.81,66,1.09,66
+42053,Pennsylvania,Forest,1.20,63,0.37,58
+42055,Pennsylvania,Franklin,-0.55,14,-0.16,20
+42057,Pennsylvania,Fulton,-0.16,28,0.34,56
+42059,Pennsylvania,Greene,1.81,65,0.30,51
+42061,Pennsylvania,Huntingdon,-0.32,21,0.10,35
+42063,Pennsylvania,Indiana,0.03,36,0.01,29
+42065,Pennsylvania,Jefferson,0.81,60,0.26,48
+42067,Pennsylvania,Juniata,-1.15,7,-0.09,24
+42069,Pennsylvania,Lackawanna,0.59,58,-0.06,26
+42071,Pennsylvania,Lancaster,-0.96,8,-0.54,9
+42073,Pennsylvania,Lawrence,0.70,59,0.30,50
+42075,Pennsylvania,Lebanon,-0.57,13,-0.30,13
+42077,Pennsylvania,Lehigh,-0.40,18,-0.09,23
+42079,Pennsylvania,Luzerne,0.59,57,0.39,59
+42081,Pennsylvania,Lycoming,-0.45,16,0.06,32
+42083,Pennsylvania,McKean,0.27,48,0.57,63
+42085,Pennsylvania,Mercer,0.41,51,0.10,34
+42087,Pennsylvania,Mifflin,0.12,39,0.31,52
+42089,Pennsylvania,Monroe,-0.04,31,0.24,47
+42091,Pennsylvania,Montgomery,-1.17,6,-1.28,2
+42093,Pennsylvania,Montour,-0.30,22,-0.78,7
+42095,Pennsylvania,Northampton,-0.23,25,-0.39,11
+42097,Pennsylvania,Northumberland,0.18,43,0.40,61
+42099,Pennsylvania,Perry,0.37,50,0.04,30
+42101,Pennsylvania,Philadelphia,2.62,67,1.78,67
+42103,Pennsylvania,Pike,-0.80,11,-0.12,22
+42105,Pennsylvania,Potter,0.51,55,0.32,54
+42107,Pennsylvania,Schuylkill,0.44,53,0.44,62
+42109,Pennsylvania,Snyder,-1.22,5,-0.28,15
+42111,Pennsylvania,Somerset,0.03,35,0.33,55
+42113,Pennsylvania,Sullivan,1.36,64,0.35,57
+42115,Pennsylvania,Susquehanna,0.41,52,0.21,43
+42117,Pennsylvania,Tioga,-0.54,15,-0.07,25
+42119,Pennsylvania,Union,-1.44,2,-0.23,17
+42121,Pennsylvania,Venango,0.07,37,0.21,44
+42123,Pennsylvania,Warren,0.13,40,0.32,53
+42125,Pennsylvania,Washington,0.07,38,-0.18,19
+42127,Pennsylvania,Wayne,-0.07,30,-0.18,18
+42129,Pennsylvania,Westmoreland,-0.27,23,-0.41,10
+42131,Pennsylvania,Wyoming,0.51,54,0.17,42
+42133,Pennsylvania,York,-0.38,19,-0.28,16
+44001,Rhode Island,Bristol,-0.94,1,-0.67,1
+44003,Rhode Island,Kent,0.85,4,0.31,4
+44005,Rhode Island,Newport,-0.72,2,-0.32,3
+44007,Rhode Island,Providence,1.19,5,1.08,5
+44009,Rhode Island,Washington,-0.38,3,-0.39,2
+45001,South Carolina,Abbeville,-0.33,16,-0.11,22
+45003,South Carolina,Aiken,-0.67,12,-0.49,11
+45005,South Carolina,Allendale,0.19,27,1.12,45
+45007,South Carolina,Anderson,-0.46,15,-0.53,9
+45009,South Carolina,Bamberg,1.27,43,0.29,30
+45011,South Carolina,Barnwell,0.62,36,0.33,31
+45013,South Carolina,Beaufort,-1.90,1,-1.11,1
+45015,South Carolina,Berkeley,-0.78,9,-0.30,15
+45017,South Carolina,Calhoun,0.10,25,-0.36,14
+45019,South Carolina,Charleston,-1.05,7,-0.96,2
+45021,South Carolina,Cherokee,0.51,33,0.18,27
+45023,South Carolina,Chester,0.89,39,0.89,43
+45025,South Carolina,Chesterfield,0.51,32,0.43,36
+45027,South Carolina,Clarendon,0.23,29,0.35,35
+45029,South Carolina,Colleton,0.81,37,0.52,39
+45031,South Carolina,Darlington,0.88,38,0.28,29
+45033,South Carolina,Dillon,1.07,42,1.00,44
+45035,South Carolina,Dorchester,-1.10,6,-0.81,4
+45037,South Carolina,Edgefield,-1.25,3,-0.52,10
+45039,South Carolina,Fairfield,0.35,30,0.33,33
+45041,South Carolina,Florence,0.43,31,-0.15,19
+45043,South Carolina,Georgetown,-0.04,21,-0.21,17
+45045,South Carolina,Greenville,-1.19,5,-0.81,5
+45047,South Carolina,Greenwood,-0.20,20,-0.14,20
+45049,South Carolina,Hampton,0.21,28,0.35,34
+45051,South Carolina,Horry,-0.46,14,-0.10,23
+45053,South Carolina,Jasper,0.09,24,0.83,42
+45055,South Carolina,Kershaw,-0.76,10,-0.29,16
+45057,South Carolina,Lancaster,-0.04,22,-0.12,21
+45059,South Carolina,Laurens,0.57,35,0.22,28
+45061,South Carolina,Lee,1.41,45,0.48,38
+45063,South Carolina,Lexington,-1.19,4,-0.85,3
+45067,South Carolina,Marion,1.64,46,0.77,41
+45069,South Carolina,Marlboro,1.30,44,1.27,46
+45065,South Carolina,McCormick,0.15,26,0.03,26
+45071,South Carolina,Newberry,-0.01,23,-0.20,18
+45073,South Carolina,Oconee,-0.30,17,-0.46,12
+45075,South Carolina,Orangeburg,0.97,41,0.33,32
+45077,South Carolina,Pickens,-0.68,11,-0.76,6
+45079,South Carolina,Richland,-0.79,8,-0.66,7
+45081,South Carolina,Saluda,-0.61,13,0.02,25
+45083,South Carolina,Spartanburg,-0.28,18,-0.41,13
+45085,South Carolina,Sumter,-0.21,19,-0.03,24
+45087,South Carolina,Union,0.56,34,0.55,40
+45089,South Carolina,Williamsburg,0.92,40,0.46,37
+45091,South Carolina,York,-1.36,2,-0.63,8
+46003,South Dakota,Aurora,,NR,,NR
+46005,South Dakota,Beadle,0.00,38,-0.19,29
+46007,South Dakota,Bennett,0.95,51,0.92,50
+46009,South Dakota,Bon Homme,-0.73,4,-0.12,35
+46011,South Dakota,Brookings,-0.98,1,-0.61,3
+46013,South Dakota,Brown,-0.43,15,-0.38,13
+46015,South Dakota,Brule,-0.19,30,-0.02,41
+46017,South Dakota,Buffalo,2.07,56,1.47,55
+46019,South Dakota,Butte,-0.32,18,-0.22,26
+46021,South Dakota,Campbell,,NR,,NR
+46023,South Dakota,Charles Mix,-0.06,35,0.35,46
+46025,South Dakota,Clark,-0.24,27,-0.14,33
+46027,South Dakota,Clay,-0.64,7,-0.50,6
+46029,South Dakota,Codington,-0.52,10,-0.35,18
+46031,South Dakota,Corson,1.71,54,1.35,53
+46033,South Dakota,Custer,0.23,45,-0.43,11
+46035,South Dakota,Davison,-0.34,17,-0.50,8
+46037,South Dakota,Day,-0.38,16,0.05,44
+46039,South Dakota,Deuel,0.01,39,-0.07,40
+46041,South Dakota,Dewey,1.21,53,1.46,54
+46043,South Dakota,Douglas,0.02,40,-0.20,27
+46045,South Dakota,Edmunds,-0.54,9,-0.36,17
+46047,South Dakota,Fall River,0.30,46,-0.14,34
+46049,South Dakota,Faulk,-0.28,24,-0.16,30
+46051,South Dakota,Grant,0.21,44,-0.26,24
+46053,South Dakota,Gregory,-0.45,13,-0.09,39
+46055,South Dakota,Haakon,,NR,,NR
+46057,South Dakota,Hamlin,-0.69,6,-0.11,37
+46059,South Dakota,Hand,-0.29,22,-0.37,14
+46061,South Dakota,Hanson,0.19,43,-0.34,21
+46063,South Dakota,Harding,,NR,,NR
+46065,South Dakota,Hughes,-0.56,8,-0.50,7
+46067,South Dakota,Hutchinson,-0.98,2,-0.53,5
+46069,South Dakota,Hyde,,NR,,NR
+46071,South Dakota,Jackson,0.99,52,0.61,49
+46073,South Dakota,Jerauld,,NR,,NR
+46075,South Dakota,Jones,,NR,,NR
+46077,South Dakota,Kingsbury,-0.71,5,-0.36,16
+46079,South Dakota,Lake,-0.13,32,-0.26,25
+46081,South Dakota,Lawrence,-0.12,33,-0.49,9
+46083,South Dakota,Lincoln,-0.96,3,-0.85,1
+46085,South Dakota,Lyman,-0.45,14,0.53,48
+46091,South Dakota,Marshall,-0.30,20,0.06,45
+46087,South Dakota,McCook,-0.51,11,-0.47,10
+46089,South Dakota,McPherson,,NR,,NR
+46093,South Dakota,Meade,-0.10,34,-0.41,12
+46095,South Dakota,Mellette,0.89,50,1.01,51
+46097,South Dakota,Miner,-0.47,12,-0.37,15
+46099,South Dakota,Minnehaha,-0.27,25,-0.32,22
+46101,South Dakota,Moody,-0.29,23,-0.10,38
+46103,South Dakota,Pennington,-0.02,37,-0.19,28
+46105,South Dakota,Perkins,-0.15,31,-0.15,32
+46107,South Dakota,Potter,-0.30,21,-0.53,4
+46109,South Dakota,Roberts,-0.02,36,0.39,47
+46111,South Dakota,Sanborn,0.08,41,-0.11,36
+46113,South Dakota,Shannon,2.19,57,1.77,57
+46115,South Dakota,Spink,0.38,48,-0.16,31
+46117,South Dakota,Stanley,-0.19,29,-0.29,23
+46119,South Dakota,Sully,,NR,,NR
+46121,South Dakota,Todd,1.92,55,1.50,56
+46123,South Dakota,Tripp,0.35,47,0.01,43
+46125,South Dakota,Turner,-0.22,28,-0.35,20
+46127,South Dakota,Union,-0.30,19,-0.63,2
+46129,South Dakota,Walworth,0.15,42,-0.01,42
+46135,South Dakota,Yankton,-0.24,26,-0.35,19
+46137,South Dakota,Ziebach,0.47,49,1.04,52
+47001,Tennessee,Anderson,-0.24,34,-0.52,11
+47003,Tennessee,Bedford,-0.41,24,0.32,78
+47005,Tennessee,Benton,0.97,88,0.29,76
+47007,Tennessee,Bledsoe,-0.52,20,0.24,73
+47009,Tennessee,Blount,-1.02,4,-0.72,6
+47011,Tennessee,Bradley,-0.66,17,-0.24,21
+47013,Tennessee,Campbell,1.42,94,0.50,83
+47015,Tennessee,Cannon,-0.23,36,0.04,46
+47017,Tennessee,Carroll,0.30,66,0.11,58
+47019,Tennessee,Carter,0.27,61,-0.01,41
+47021,Tennessee,Cheatham,-0.32,30,-0.47,14
+47023,Tennessee,Chester,-0.74,12,-0.21,23
+47025,Tennessee,Claiborne,0.96,86,0.37,80
+47027,Tennessee,Clay,0.27,62,0.10,54
+47029,Tennessee,Cocke,0.95,85,0.52,86
+47031,Tennessee,Coffee,-0.19,38,-0.12,29
+47033,Tennessee,Crockett,0.01,52,0.14,62
+47035,Tennessee,Cumberland,-0.14,45,-0.44,15
+47037,Tennessee,Davidson,-0.72,13,-0.14,28
+47039,Tennessee,Decatur,0.69,80,0.03,45
+47041,Tennessee,DeKalb,0.85,83,0.05,48
+47043,Tennessee,Dickson,-0.17,42,-0.35,19
+47045,Tennessee,Dyer,-0.24,35,0.55,87
+47047,Tennessee,Fayette,-0.63,18,-0.18,25
+47049,Tennessee,Fentress,1.23,92,0.34,79
+47051,Tennessee,Franklin,-0.24,33,-0.16,27
+47053,Tennessee,Gibson,0.42,74,0.29,77
+47055,Tennessee,Giles,-0.39,26,0.11,56
+47057,Tennessee,Grainger,0.10,54,0.12,59
+47059,Tennessee,Greene,0.29,65,0.18,66
+47061,Tennessee,Grundy,2.14,95,0.59,89
+47063,Tennessee,Hamblen,0.18,58,0.03,43
+47065,Tennessee,Hamilton,-0.35,28,-0.59,8
+47067,Tennessee,Hancock,1.27,93,0.84,94
+47069,Tennessee,Hardeman,0.41,73,0.62,90
+47071,Tennessee,Hardin,0.64,79,0.19,68
+47073,Tennessee,Hawkins,0.16,56,-0.10,31
+47075,Tennessee,Haywood,0.43,75,0.56,88
+47077,Tennessee,Henderson,-0.35,29,0.18,65
+47079,Tennessee,Henry,0.75,82,0.23,71
+47081,Tennessee,Hickman,0.28,64,0.22,70
+47083,Tennessee,Houston,-0.66,16,0.09,52
+47085,Tennessee,Humphreys,-0.21,37,-0.16,26
+47087,Tennessee,Jackson,-0.01,50,0.18,64
+47089,Tennessee,Jefferson,-0.18,41,-0.04,38
+47091,Tennessee,Johnson,0.33,70,0.13,60
+47093,Tennessee,Knox,-0.70,14,-0.94,2
+47095,Tennessee,Lake,0.39,72,0.70,93
+47097,Tennessee,Lauderdale,0.85,84,1.12,95
+47099,Tennessee,Lawrence,-0.01,51,-0.03,39
+47101,Tennessee,Lewis,-0.10,47,0.39,82
+47103,Tennessee,Lincoln,0.28,63,-0.37,18
+47105,Tennessee,Loudon,-0.91,7,-0.54,10
+47111,Tennessee,Macon,0.97,89,0.65,91
+47113,Tennessee,Madison,-0.45,22,-0.24,22
+47115,Tennessee,Marion,0.98,90,0.10,55
+47117,Tennessee,Marshall,-0.30,31,0.03,44
+47119,Tennessee,Maury,-0.28,32,-0.07,34
+47107,Tennessee,McMinn,0.33,69,-0.04,37
+47109,Tennessee,McNairy,0.50,77,0.17,63
+47121,Tennessee,Meigs,0.96,87,0.13,61
+47123,Tennessee,Monroe,-0.42,23,0.50,84
+47125,Tennessee,Montgomery,-0.80,11,-0.08,32
+47127,Tennessee,Moore,-0.94,6,-0.54,9
+47129,Tennessee,Morgan,0.19,60,-0.05,36
+47131,Tennessee,Obion,-0.04,49,0.09,53
+47133,Tennessee,Overton,0.46,76,0.04,47
+47135,Tennessee,Perry,-0.05,48,0.51,85
+47137,Tennessee,Pickett,-0.62,19,0.27,75
+47139,Tennessee,Polk,0.53,78,0.00,42
+47141,Tennessee,Putnam,-0.87,9,-0.49,12
+47143,Tennessee,Rhea,0.30,67,0.07,50
+47145,Tennessee,Roane,0.11,55,-0.39,16
+47147,Tennessee,Robertson,-0.83,10,-0.21,24
+47149,Tennessee,Rutherford,-1.21,2,-0.89,3
+47151,Tennessee,Scott,0.17,57,0.68,92
+47153,Tennessee,Sequatchie,1.04,91,0.05,49
+47155,Tennessee,Sevier,-0.39,25,-0.02,40
+47157,Tennessee,Shelby,0.03,53,0.18,67
+47159,Tennessee,Smith,-0.90,8,-0.38,17
+47161,Tennessee,Stewart,0.73,81,-0.07,33
+47163,Tennessee,Sullivan,-0.16,43,-0.47,13
+47165,Tennessee,Sumner,-1.09,3,-0.79,5
+47167,Tennessee,Tipton,-0.18,39,-0.11,30
+47169,Tennessee,Trousdale,0.34,71,0.11,57
+47171,Tennessee,Unicoi,-0.15,44,-0.33,20
+47173,Tennessee,Union,0.19,59,0.19,69
+47175,Tennessee,Van Buren,-0.39,27,0.37,81
+47177,Tennessee,Warren,0.30,68,0.25,74
+47179,Tennessee,Washington,-0.49,21,-0.82,4
+47181,Tennessee,Wayne,-0.18,40,0.07,51
+47183,Tennessee,Weakley,-0.69,15,-0.05,35
+47185,Tennessee,White,-0.13,46,0.24,72
+47187,Tennessee,Williamson,-2.80,1,-2.20,1
+47189,Tennessee,Wilson,-0.98,5,-0.61,7
+48001,Texas,Anderson,0.69,199,0.37,196
+48003,Texas,Andrews,-0.01,114,-0.05,101
+48005,Texas,Angelina,0.63,189,0.22,172
+48007,Texas,Aransas,0.72,204,-0.14,74
+48009,Texas,Archer,-0.65,29,-0.51,18
+48011,Texas,Armstrong,,NR,,NR
+48013,Texas,Atascosa,0.48,177,0.09,142
+48015,Texas,Austin,-0.36,69,-0.29,44
+48017,Texas,Bailey,-0.19,89,-0.01,107
+48019,Texas,Bandera,-0.36,68,-0.29,45
+48021,Texas,Bastrop,-0.74,24,0.06,131
+48023,Texas,Baylor,0.88,219,-0.14,75
+48025,Texas,Bee,-0.04,109,0.05,129
+48027,Texas,Bell,-0.16,96,-0.09,95
+48029,Texas,Bexar,-0.22,86,-0.21,60
+48031,Texas,Blanco,-0.30,76,-0.47,20
+48033,Texas,Borden,,NR,,NR
+48035,Texas,Bosque,-0.47,55,-0.27,49
+48037,Texas,Bowie,0.66,193,0.13,153
+48039,Texas,Brazoria,-0.64,32,-0.46,23
+48041,Texas,Brazos,-0.94,16,-0.36,30
+48043,Texas,Brewster,-0.60,36,-0.36,32
+48045,Texas,Briscoe,,NR,,NR
+48047,Texas,Brooks,1.31,229,0.79,230
+48049,Texas,Brown,0.71,203,0.20,165
+48051,Texas,Burleson,-0.45,58,0.07,133
+48053,Texas,Burnet,-0.98,15,-0.31,41
+48055,Texas,Caldwell,-0.66,27,0.27,177
+48057,Texas,Calhoun,-0.40,62,-0.17,68
+48059,Texas,Callahan,0.47,174,-0.36,33
+48061,Texas,Cameron,-0.44,59,0.50,213
+48063,Texas,Camp,0.44,172,0.24,173
+48065,Texas,Carson,-0.56,44,-0.65,11
+48067,Texas,Cass,0.88,218,0.18,159
+48069,Texas,Castro,-0.77,22,0.01,115
+48071,Texas,Chambers,-0.34,71,-0.26,51
+48073,Texas,Cherokee,0.54,181,0.45,205
+48075,Texas,Childress,-0.18,92,-0.11,84
+48077,Texas,Clay,0.07,133,-0.35,35
+48079,Texas,Cochran,1.05,223,0.19,163
+48081,Texas,Coke,1.12,226,-0.20,66
+48083,Texas,Coleman,0.87,217,-0.01,106
+48085,Texas,Collin,-1.52,2,-1.30,2
+48087,Texas,Collingsworth,0.06,132,-0.11,85
+48089,Texas,Colorado,-0.50,50,-0.22,59
+48091,Texas,Comal,-1.20,9,-0.91,8
+48093,Texas,Comanche,0.13,142,0.00,111
+48095,Texas,Concho,-0.07,103,0.02,117
+48097,Texas,Cooke,-0.05,106,-0.22,58
+48099,Texas,Coryell,-0.14,98,-0.11,88
+48101,Texas,Cottle,,NR,,NR
+48103,Texas,Crane,0.12,141,0.00,109
+48105,Texas,Crockett,-0.33,72,-0.17,69
+48107,Texas,Crosby,0.19,148,0.33,187
+48109,Texas,Culberson,,NR,,NR
+48111,Texas,Dallam,0.04,129,-0.23,55
+48113,Texas,Dallas,-0.38,67,0.16,158
+48115,Texas,Dawson,0.01,118,0.24,174
+48117,Texas,Deaf Smith,0.01,117,0.21,167
+48119,Texas,Delta,0.22,153,-0.23,56
+48121,Texas,Denton,-1.42,3,-0.87,10
+48123,Texas,DeWitt,-0.23,85,-0.09,94
+48125,Texas,Dickens,,NR,,NR
+48127,Texas,Dimmit,-0.31,75,0.64,225
+48129,Texas,Donley,0.26,158,-0.06,99
+48131,Texas,Duval,0.48,176,0.57,223
+48133,Texas,Eastland,0.80,211,0.08,138
+48135,Texas,Ector,0.70,201,0.51,215
+48137,Texas,Edwards,-0.01,115,0.49,211
+48141,Texas,El Paso,-0.38,66,0.13,152
+48139,Texas,Ellis,-0.74,23,-0.28,48
+48143,Texas,Erath,-1.19,10,-0.13,79
+48145,Texas,Falls,0.68,198,0.46,208
+48147,Texas,Fannin,-0.02,113,0.05,128
+48149,Texas,Fayette,-0.25,82,-0.40,26
+48151,Texas,Fisher,0.71,202,-0.36,31
+48153,Texas,Floyd,0.65,192,0.06,130
+48155,Texas,Foard,,NR,,NR
+48157,Texas,Fort Bend,-1.08,13,-1.00,5
+48159,Texas,Franklin,-0.66,28,-0.17,70
+48161,Texas,Freestone,-0.06,104,-0.11,86
+48163,Texas,Frio,-0.12,99,0.36,192
+48165,Texas,Gaines,-0.18,93,0.13,151
+48167,Texas,Galveston,-0.27,79,-0.25,53
+48169,Texas,Garza,0.34,162,0.35,189
+48171,Texas,Gillespie,-1.27,8,-1.06,4
+48173,Texas,Glasscock,,NR,,NR
+48175,Texas,Goliad,-1.30,7,-0.56,15
+48177,Texas,Gonzales,0.17,146,0.35,190
+48179,Texas,Gray,0.80,209,0.00,110
+48181,Texas,Grayson,0.36,166,-0.21,62
+48183,Texas,Gregg,0.58,185,0.14,154
+48185,Texas,Grimes,-0.03,110,0.31,184
+48187,Texas,Guadalupe,-0.73,25,-0.33,38
+48189,Texas,Hale,0.02,121,0.16,157
+48191,Texas,Hall,0.56,184,0.31,185
+48193,Texas,Hamilton,-0.31,74,-0.10,89
+48195,Texas,Hansford,-0.47,53,-0.55,16
+48197,Texas,Hardeman,-1.10,11,0.08,139
+48199,Texas,Hardin,0.28,160,-0.21,63
+48201,Texas,Harris,-0.34,70,0.06,132
+48203,Texas,Harrison,0.49,179,0.39,200
+48205,Texas,Hartley,-0.30,77,-0.40,25
+48207,Texas,Haskell,0.03,123,-0.13,80
+48209,Texas,Hays,-1.01,14,-0.53,17
+48211,Texas,Hemphill,-0.42,61,-0.87,9
+48213,Texas,Henderson,0.60,186,-0.01,108
+48215,Texas,Hidalgo,-0.58,41,0.72,228
+48217,Texas,Hill,0.23,154,0.08,136
+48219,Texas,Hockley,0.04,124,-0.10,92
+48221,Texas,Hood,-0.52,49,-0.31,42
+48223,Texas,Hopkins,0.02,122,0.12,150
+48225,Texas,Houston,0.65,191,0.38,199
+48227,Texas,Howard,0.81,212,0.44,203
+48229,Texas,Hudspeth,-0.03,111,0.58,224
+48231,Texas,Hunt,0.07,134,0.10,143
+48233,Texas,Hutchinson,1.14,227,0.11,145
+48235,Texas,Irion,,NR,,NR
+48237,Texas,Jack,0.96,222,-0.04,102
+48239,Texas,Jackson,-0.18,95,-0.14,78
+48241,Texas,Jasper,0.83,214,0.32,186
+48243,Texas,Jeff Davis,-0.53,47,-0.38,28
+48245,Texas,Jefferson,0.68,196,0.45,207
+48247,Texas,Jim Hogg,0.10,139,0.27,176
+48249,Texas,Jim Wells,0.68,197,0.50,214
+48251,Texas,Johnson,0.11,140,0.02,118
+48253,Texas,Jones,0.04,127,0.19,162
+48255,Texas,Karnes,-0.49,52,0.16,156
+48257,Texas,Kaufman,-0.10,101,0.09,141
+48259,Texas,Kendall,-1.35,5,-1.36,1
+48261,Texas,Kenedy,,NR,,NR
+48263,Texas,Kent,,NR,,NR
+48265,Texas,Kerr,0.24,156,-0.28,47
+48267,Texas,Kimble,1.22,228,-0.15,73
+48269,Texas,King,,NR,,NR
+48271,Texas,Kinney,-0.58,40,0.00,114
+48273,Texas,Kleberg,-0.58,39,0.14,155
+48275,Texas,Knox,-0.61,35,-0.13,83
+48283,Texas,La Salle,-0.10,100,0.44,202
+48277,Texas,Lamar,0.55,183,0.12,147
+48279,Texas,Lamb,0.21,150,0.22,171
+48281,Texas,Lampasas,-0.93,17,-0.14,76
+48285,Texas,Lavaca,-0.90,18,-0.61,13
+48287,Texas,Lee,-0.65,31,-0.18,67
+48289,Texas,Leon,0.08,136,0.00,112
+48291,Texas,Liberty,0.80,210,0.37,197
+48293,Texas,Limestone,0.84,216,0.19,161
+48295,Texas,Lipscomb,0.04,126,-0.29,46
+48297,Texas,Live Oak,-0.21,87,-0.34,36
+48299,Texas,Llano,-0.39,63,-0.37,29
+48301,Texas,Loving,,NR,,NR
+48303,Texas,Lubbock,0.28,159,-0.13,82
+48305,Texas,Lynn,0.67,195,0.03,121
+48313,Texas,Madison,-0.18,91,0.21,166
+48315,Texas,Marion,0.73,205,0.37,195
+48317,Texas,Martin,0.64,190,-0.06,98
+48319,Texas,Mason,-0.23,84,-0.33,39
+48321,Texas,Matagorda,0.17,145,0.41,201
+48323,Texas,Maverick,-0.46,56,0.77,229
+48307,Texas,McCulloch,0.47,175,0.10,144
+48309,Texas,McLennan,0.17,147,0.12,149
+48311,Texas,McMullen,,NR,,NR
+48325,Texas,Medina,-0.38,65,-0.20,65
+48327,Texas,Menard,0.79,208,0.08,140
+48329,Texas,Midland,-0.59,38,-0.32,40
+48331,Texas,Milam,0.06,131,0.33,188
+48333,Texas,Mills,0.34,164,-0.23,54
+48335,Texas,Mitchell,0.10,138,0.20,164
+48337,Texas,Montague,0.49,178,-0.10,91
+48339,Texas,Montgomery,-0.54,45,-0.61,14
+48341,Texas,Moore,-0.54,46,0.08,137
+48343,Texas,Morris,0.94,220,0.38,198
+48345,Texas,Motley,,NR,,NR
+48347,Texas,Nacogdoches,0.38,167,0.29,179
+48349,Texas,Navarro,0.04,125,0.29,180
+48351,Texas,Newton,0.95,221,0.49,212
+48353,Texas,Nolan,0.81,213,0.22,170
+48355,Texas,Nueces,-0.05,107,0.25,175
+48357,Texas,Ochiltree,-0.43,60,-0.20,64
+48359,Texas,Oldham,,NR,,NR
+48361,Texas,Orange,1.06,224,0.44,204
+48363,Texas,Palo Pinto,0.53,180,0.03,120
+48365,Texas,Panola,0.21,151,-0.09,97
+48367,Texas,Parker,-0.65,30,-0.35,34
+48369,Texas,Parmer,-0.89,19,-0.03,104
+48371,Texas,Pecos,-0.63,33,0.30,182
+48373,Texas,Polk,1.87,232,0.55,219
+48375,Texas,Potter,0.84,215,0.55,220
+48377,Texas,Presidio,-1.35,6,0.36,194
+48379,Texas,Rains,0.02,120,0.04,126
+48381,Texas,Randall,-0.57,43,-0.93,7
+48383,Texas,Reagan,0.41,170,-0.31,43
+48385,Texas,Real,0.09,137,0.07,134
+48387,Texas,Red River,1.11,225,0.53,217
+48389,Texas,Reeves,0.34,163,0.56,221
+48391,Texas,Refugio,0.06,130,-0.10,90
+48393,Texas,Roberts,,NR,,NR
+48395,Texas,Robertson,0.40,169,0.36,191
+48397,Texas,Rockwall,-1.40,4,-0.98,6
+48399,Texas,Runnels,0.23,155,0.22,169
+48401,Texas,Rusk,0.42,171,0.03,123
+48403,Texas,Sabine,0.61,187,0.52,216
+48405,Texas,San Augustine,1.76,231,0.57,222
+48407,Texas,San Jacinto,0.39,168,0.45,206
+48409,Texas,San Patricio,-0.07,102,-0.03,105
+48411,Texas,San Saba,-0.53,48,0.08,135
+48413,Texas,Schleicher,-0.18,90,-0.15,72
+48415,Texas,Scurry,-0.18,94,-0.03,103
+48417,Texas,Shackelford,-0.50,51,-0.40,24
+48419,Texas,Shelby,1.43,230,0.47,210
+48421,Texas,Sherman,,NR,,NR
+48423,Texas,Smith,-0.25,83,-0.26,50
+48425,Texas,Somervell,0.04,128,-0.46,21
+48427,Texas,Starr,-0.04,108,1.10,232
+48429,Texas,Stephens,0.08,135,0.04,124
+48431,Texas,Sterling,,NR,,NR
+48433,Texas,Stonewall,,NR,,NR
+48435,Texas,Sutton,-0.80,20,-0.38,27
+48437,Texas,Swisher,0.15,143,0.00,113
+48439,Texas,Tarrant,-0.59,37,-0.26,52
+48441,Texas,Taylor,0.44,173,-0.22,57
+48443,Texas,Terrell,,NR,,NR
+48445,Texas,Terry,0.77,207,0.31,183
+48447,Texas,Throckmorton,,NR,,NR
+48449,Texas,Titus,-0.26,80,0.18,160
+48451,Texas,Tom Green,-0.27,78,-0.09,96
+48453,Texas,Travis,-1.08,12,-0.64,12
+48455,Texas,Trinity,0.62,188,0.47,209
+48457,Texas,Tyler,0.35,165,0.28,178
+48459,Texas,Upshur,0.25,157,0.03,119
+48461,Texas,Upton,-0.02,112,-0.21,61
+48463,Texas,Uvalde,-0.46,57,0.36,193
+48465,Texas,Val Verde,-0.58,42,0.22,168
+48467,Texas,Van Zandt,0.30,161,0.05,127
+48469,Texas,Victoria,-0.21,88,0.02,116
+48471,Texas,Walker,0.19,149,0.30,181
+48473,Texas,Waller,-0.32,73,0.11,146
+48475,Texas,Ward,0.67,194,0.04,125
+48477,Texas,Washington,-0.79,21,-0.48,19
+48479,Texas,Webb,-0.63,34,0.54,218
+48481,Texas,Wharton,0.01,119,0.03,122
+48483,Texas,Wheeler,-0.15,97,-0.11,87
+48485,Texas,Wichita,0.22,152,-0.05,100
+48487,Texas,Wilbarger,0.16,144,0.12,148
+48489,Texas,Willacy,-0.68,26,0.71,227
+48491,Texas,Williamson,-1.56,1,-1.09,3
+48493,Texas,Wilson,-0.39,64,-0.46,22
+48495,Texas,Winkler,0.73,206,-0.09,93
+48497,Texas,Wise,-0.47,54,-0.17,71
+48499,Texas,Wood,0.69,200,-0.14,77
+48501,Texas,Yoakum,-0.06,105,-0.33,37
+48503,Texas,Young,0.55,182,-0.13,81
+48505,Texas,Zapata,-0.26,81,0.68,226
+48507,Texas,Zavala,0.01,116,0.99,231
+49001,Utah,Beaver,0.07,16,0.33,22
+49003,Utah,Box Elder,-0.33,9,-0.19,7
+49005,Utah,Cache,-1.20,2,-0.83,3
+49007,Utah,Carbon,1.59,27,0.07,11
+49009,Utah,Daggett,,NR,,NR
+49011,Utah,Davis,-0.62,6,-0.72,4
+49013,Utah,Duchesne,0.95,25,0.38,23
+49015,Utah,Emery,0.58,22,0.15,16
+49017,Utah,Garfield,-0.12,12,0.20,20
+49019,Utah,Grand,0.54,21,0.43,25
+49021,Utah,Iron,-0.05,13,0.09,12
+49023,Utah,Juab,0.84,23,0.19,19
+49025,Utah,Kane,0.26,19,0.01,9
+49027,Utah,Millard,-0.24,10,0.19,17
+49029,Utah,Morgan,-1.71,1,-0.97,2
+49031,Utah,Piute,0.43,20,0.45,26
+49033,Utah,Rich,,NR,,NR
+49035,Utah,Salt Lake,-0.14,11,0.04,10
+49037,Utah,San Juan,-0.01,14,0.97,27
+49039,Utah,Sanpete,0.04,15,0.27,21
+49041,Utah,Sevier,1.12,26,0.12,14
+49043,Utah,Summit,-0.63,5,-0.98,1
+49045,Utah,Tooele,0.21,17,0.19,18
+49047,Utah,Uintah,0.94,24,0.39,24
+49049,Utah,Utah,-0.90,3,-0.65,5
+49051,Utah,Wasatch,-0.87,4,-0.39,6
+49053,Utah,Washington,-0.48,8,-0.03,8
+49055,Utah,Wayne,-0.52,7,0.11,13
+49057,Utah,Weber,0.21,18,0.12,15
+50001,Vermont,Addison,-0.84,2,-0.55,3
+50003,Vermont,Bennington,0.35,12,0.25,11
+50005,Vermont,Caledonia,-0.10,8,0.03,9
+50007,Vermont,Chittenden,-1.32,1,-1.12,1
+50009,Vermont,Essex,2.52,14,1.15,14
+50011,Vermont,Franklin,-0.16,5,0.17,10
+50013,Vermont,Grand Isle,-0.15,7,-0.03,6
+50015,Vermont,Lamoille,-0.16,6,-0.01,7
+50017,Vermont,Orange,-0.02,10,0.02,8
+50019,Vermont,Orleans,0.69,13,0.88,13
+50021,Vermont,Rutland,0.09,11,0.33,12
+50023,Vermont,Washington,-0.54,3,-0.72,2
+50025,Vermont,Windham,-0.04,9,-0.09,5
+50027,Vermont,Windsor,-0.31,4,-0.31,4
+51001,Virginia,Accomack,0.56,104,0.58,113
+51003,Virginia,Albemarle,-1.50,4,-0.93,8
+51510,Virginia,Alexandria City,-1.11,8,-0.75,12
+51005,Virginia,Alleghany,0.39,93,-0.02,66
+51007,Virginia,Amelia,-0.23,57,0.11,77
+51009,Virginia,Amherst,-0.22,58,-0.11,58
+51011,Virginia,Appomattox,-0.14,63,0.16,81
+51013,Virginia,Arlington,-1.53,3,-1.14,3
+51015,Virginia,Augusta,-0.84,19,-0.37,32
+51017,Virginia,Bath,-0.44,42,-0.15,54
+51019,Virginia,Bedford,-0.25,56,-0.45,24
+51515,Virginia,Bedford City,-0.13,64,-0.06,61
+51021,Virginia,Bland,0.45,100,-0.08,59
+51023,Virginia,Botetourt,-0.67,30,-0.72,14
+51520,Virginia,Bristol City,0.17,78,0.42,105
+51025,Virginia,Brunswick,0.72,110,0.84,130
+51027,Virginia,Buchanan,2.02,131,0.81,128
+51029,Virginia,Buckingham,0.34,90,0.33,99
+51530,Virginia,Buena Vista City,0.28,87,-0.03,64
+51031,Virginia,Campbell,-0.31,51,0.10,73
+51033,Virginia,Caroline,-0.30,52,0.10,75
+51035,Virginia,Carroll,-0.05,67,0.53,111
+51036,Virginia,Charles City,0.80,111,0.20,85
+51037,Virginia,Charlotte,0.92,114,0.25,89
+51540,Virginia,Charlottesville City,-0.36,49,-0.34,35
+51550,Virginia,Chesapeake City,-0.49,40,-0.41,29
+51041,Virginia,Chesterfield,-0.78,22,-0.62,17
+51043,Virginia,Clarke,-0.72,27,-0.66,16
+51570,Virginia,Colonial Heights City,0.01,71,-0.24,42
+51580,Virginia,Covington City,0.71,109,0.25,90
+51045,Virginia,Craig,0.14,75,0.00,69
+51047,Virginia,Culpeper,-0.46,41,-0.12,57
+51049,Virginia,Cumberland,0.54,103,0.38,101
+51590,Virginia,Danville City,1.26,125,0.89,131
+51051,Virginia,Dickenson,1.67,130,0.54,112
+51053,Virginia,Dinwiddie,0.38,92,0.40,102
+51595,Virginia,Emporia City,1.33,128,0.80,127
+51057,Virginia,Essex,0.14,76,0.11,78
+51059,Virginia,Fairfax,-1.63,1,-1.02,4
+51600,Virginia,Fairfax City,-0.26,55,-0.97,7
+51610,Virginia,Falls Church City,-0.88,16,-1.30,1
+51061,Virginia,Fauquier,-0.65,33,-0.66,15
+51063,Virginia,Floyd,-0.29,53,-0.16,52
+51065,Virginia,Fluvanna,-0.91,14,-0.73,13
+51067,Virginia,Franklin,0.09,73,0.01,71
+51620,Virginia,Franklin City,1.20,123,0.77,124
+51069,Virginia,Frederick,-0.77,26,-0.21,45
+51630,Virginia,Fredericksburg City,0.49,102,0.11,76
+51640,Virginia,Galax City,0.18,79,0.46,108
+51071,Virginia,Giles,0.13,74,-0.08,60
+51073,Virginia,Gloucester,-0.21,61,-0.30,39
+51075,Virginia,Goochland,-0.69,29,-0.62,18
+51077,Virginia,Grayson,0.24,84,0.40,103
+51079,Virginia,Greene,-0.93,12,-0.15,53
+51081,Virginia,Greensville,0.44,98,0.60,115
+51083,Virginia,Halifax,0.90,112,0.51,110
+51650,Virginia,Hampton City,0.14,77,0.26,91
+51085,Virginia,Hanover,-0.92,13,-0.90,9
+51660,Virginia,Harrisonburg City,-0.85,17,-0.30,40
+51087,Virginia,Henrico,-0.55,38,-0.46,23
+51089,Virginia,Henry,1.36,129,0.76,123
+51091,Virginia,Highland,,NR,,NR
+51670,Virginia,Hopewell City,1.13,122,1.18,132
+51093,Virginia,Isle of Wight,-0.61,36,-0.35,34
+51095,Virginia,James City,-1.19,6,-0.99,6
+51097,Virginia,King and Queen,0.36,91,0.30,96
+51099,Virginia,King George,-0.83,20,-0.42,28
+51101,Virginia,King William,-0.40,45,-0.33,36
+51103,Virginia,Lancaster,0.01,69,0.10,74
+51105,Virginia,Lee,0.92,115,0.74,122
+51678,Virginia,Lexington City,-0.35,50,-0.22,43
+51107,Virginia,Loudoun,-1.60,2,-1.19,2
+51109,Virginia,Louisa,0.01,70,0.08,72
+51111,Virginia,Lunenburg,0.44,97,0.62,116
+51680,Virginia,Lynchburg City,-0.22,59,0.22,88
+51113,Virginia,Madison,-0.41,44,-0.21,44
+51683,Virginia,Manassas City,-1.13,7,-0.17,50
+51685,Virginia,Manassas Park City,-1.03,9,-0.02,65
+51690,Virginia,Martinsville City,1.26,126,0.72,121
+51115,Virginia,Mathews,-0.89,15,-0.38,31
+51117,Virginia,Mecklenburg,0.66,108,0.63,118
+51119,Virginia,Middlesex,-0.40,46,-0.21,47
+51121,Virginia,Montgomery,-0.78,23,-0.46,22
+51125,Virginia,Nelson,-0.65,35,-0.31,38
+51127,Virginia,New Kent,-0.38,47,-0.32,37
+51700,Virginia,Newport News City,0.19,80,0.35,100
+51710,Virginia,Norfolk City,0.60,107,0.66,119
+51131,Virginia,Northampton,0.45,99,0.59,114
+51133,Virginia,Northumberland,0.20,82,0.12,79
+51720,Virginia,Norton City,0.40,94,-0.03,63
+51135,Virginia,Nottoway,0.41,95,0.46,106
+51137,Virginia,Orange,-0.36,48,-0.21,46
+51139,Virginia,Page,-0.42,43,0.32,98
+51141,Virginia,Patrick,0.24,83,0.26,92
+51730,Virginia,Petersburg City,2.29,133,1.59,133
+51143,Virginia,Pittsylvania,0.32,89,0.14,80
+51735,Virginia,Poquoson City,-0.81,21,-0.80,10
+51740,Virginia,Portsmouth City,1.01,118,0.69,120
+51145,Virginia,Powhatan,-0.77,24,-0.58,20
+51147,Virginia,Prince Edward,0.25,85,0.41,104
+51149,Virginia,Prince George,-0.77,25,0.17,82
+51153,Virginia,Prince William,-0.96,10,-0.46,21
+51155,Virginia,Pulaski,1.04,119,0.27,93
+51750,Virginia,Radford City,-0.07,65,-0.35,33
+51157,Virginia,Rappahannock,-0.57,37,-0.25,41
+51159,Virginia,Richmond,0.27,86,0.27,94
+51760,Virginia,Richmond City,1.13,121,0.78,125
+51161,Virginia,Roanoke,-0.55,39,-0.80,11
+51770,Virginia,Roanoke City,0.97,116,0.78,126
+51163,Virginia,Rockbridge,-0.67,31,-0.16,51
+51165,Virginia,Rockingham,-0.94,11,-0.43,27
+51167,Virginia,Russell,1.26,127,0.63,117
+51775,Virginia,Salem City,-0.22,60,-0.44,26
+51169,Virginia,Scott,1.09,120,0.29,95
+51171,Virginia,Shenandoah,-0.72,28,0.01,70
+51173,Virginia,Smyth,0.90,113,0.47,109
+51175,Virginia,Southampton,0.59,105,0.21,86
+51177,Virginia,Spotsylvania,-0.66,32,-0.39,30
+51179,Virginia,Stafford,-0.84,18,-0.61,19
+51790,Virginia,Staunton City,-0.29,54,-0.17,49
+51800,Virginia,Suffolk City,-0.06,66,-0.04,62
+51181,Virginia,Surry,0.02,72,0.17,83
+51183,Virginia,Sussex,1.00,117,0.32,97
+51185,Virginia,Tazewell,2.16,132,0.46,107
+51810,Virginia,Virginia Beach City,-0.65,34,-0.45,25
+51187,Virginia,Warren,-0.18,62,-0.13,56
+51191,Virginia,Washington,0.42,96,-0.01,68
+51820,Virginia,Waynesboro City,0.00,68,-0.14,55
+51193,Virginia,Westmoreland,0.49,101,0.19,84
+51830,Virginia,Williamsburg City,0.28,88,-0.20,48
+51840,Virginia,Winchester City,0.19,81,-0.01,67
+51195,Virginia,Wise,1.23,124,0.84,129
+51197,Virginia,Wythe,0.59,106,0.22,87
+51199,Virginia,York,-1.39,5,-1.01,5
+53001,Washington,Adams,0.31,28,0.52,32
+53003,Washington,Asotin,0.35,29,0.12,24
+53005,Washington,Benton,-0.41,12,-0.36,12
+53007,Washington,Chelan,-0.58,8,-0.43,7
+53009,Washington,Clallam,0.27,27,0.00,21
+53011,Washington,Clark,-0.50,11,-0.13,17
+53013,Washington,Columbia,0.09,20,-0.28,15
+53015,Washington,Cowlitz,0.85,34,0.60,35
+53017,Washington,Douglas,-0.37,13,-0.07,19
+53019,Washington,Ferry,1.48,39,0.80,38
+53021,Washington,Franklin,-0.04,18,0.35,27
+53023,Washington,Garfield,-0.10,17,-0.33,13
+53025,Washington,Grant,0.21,25,0.53,33
+53027,Washington,Grays Harbor,1.10,36,0.96,39
+53029,Washington,Island,-1.07,4,-0.63,4
+53031,Washington,Jefferson,-0.71,7,-0.40,9
+53033,Washington,King,-0.88,6,-0.91,2
+53035,Washington,Kitsap,-0.27,15,-0.38,10
+53037,Washington,Kittitas,-1.54,1,-0.32,14
+53039,Washington,Klickitat,0.15,22,-0.03,20
+53041,Washington,Lewis,0.14,21,0.38,28
+53043,Washington,Lincoln,0.39,30,0.04,22
+53045,Washington,Mason,0.72,33,0.51,30
+53047,Washington,Okanogan,1.43,38,0.52,31
+53049,Washington,Pacific,1.36,37,0.65,36
+53051,Washington,Pend Oreille,0.71,32,0.60,34
+53053,Washington,Pierce,0.22,26,0.09,23
+53055,Washington,San Juan,-1.38,2,-1.05,1
+53057,Washington,Skagit,-0.30,14,-0.08,18
+53059,Washington,Skamania,0.02,19,0.27,26
+53061,Washington,Snohomish,-0.55,10,-0.42,8
+53063,Washington,Spokane,0.16,24,-0.25,16
+53065,Washington,Stevens,0.57,31,0.48,29
+53067,Washington,Thurston,-0.57,9,-0.37,11
+53069,Washington,Wahkiakum,0.15,23,0.17,25
+53071,Washington,Walla Walla,-0.21,16,-0.55,6
+53073,Washington,Whatcom,-0.98,5,-0.60,5
+53075,Washington,Whitman,-1.09,3,-0.76,3
+53077,Washington,Yakima,0.89,35,0.69,37
+54001,West Virginia,Barbour,-0.35,25,0.13,33
+54003,West Virginia,Berkeley,-0.63,14,-0.32,13
+54005,West Virginia,Boone,1.34,51,0.20,40
+54007,West Virginia,Braxton,-0.23,31,0.05,31
+54009,West Virginia,Brooke,-0.43,23,0.03,30
+54011,West Virginia,Cabell,0.39,41,-0.21,19
+54013,West Virginia,Calhoun,-0.34,26,0.88,54
+54015,West Virginia,Clay,0.37,39,0.53,49
+54017,West Virginia,Doddridge,-1.03,3,-0.24,17
+54019,West Virginia,Fayette,0.88,47,0.31,44
+54021,West Virginia,Gilmer,-0.39,24,0.23,41
+54023,West Virginia,Grant,-0.47,21,-0.02,28
+54025,West Virginia,Greenbrier,-0.12,35,-0.34,11
+54027,West Virginia,Hampshire,-0.91,5,0.19,39
+54029,West Virginia,Hancock,-0.56,16,-0.08,25
+54031,West Virginia,Hardy,-0.67,10,-0.12,24
+54033,West Virginia,Harrison,-0.16,34,-0.41,7
+54035,West Virginia,Jackson,-0.29,27,-0.01,29
+54037,West Virginia,Jefferson,-0.99,4,-0.71,3
+54039,West Virginia,Kanawha,0.21,37,-0.21,18
+54041,West Virginia,Lewis,0.46,43,-0.05,27
+54043,West Virginia,Lincoln,1.03,48,0.64,50
+54045,West Virginia,Logan,1.60,52,0.70,52
+54049,West Virginia,Marion,-0.48,20,-0.32,12
+54051,West Virginia,Marshall,-0.57,15,-0.20,20
+54053,West Virginia,Mason,0.44,42,0.32,45
+54047,West Virginia,McDowell,2.82,55,1.08,55
+54055,West Virginia,Mercer,1.33,50,0.25,43
+54057,West Virginia,Mineral,-0.49,19,-0.35,10
+54059,West Virginia,Mingo,2.23,53,0.79,53
+54061,West Virginia,Monongalia,-1.20,1,-1.08,1
+54063,West Virginia,Monroe,-0.10,36,-0.46,6
+54065,West Virginia,Morgan,-0.16,33,-0.38,8
+54067,West Virginia,Nicholas,0.53,44,0.24,42
+54069,West Virginia,Ohio,-0.64,12,-0.55,4
+54071,West Virginia,Pendleton,-1.18,2,-0.36,9
+54073,West Virginia,Pleasants,-0.81,7,-0.50,5
+54075,West Virginia,Pocahontas,0.33,38,0.13,36
+54077,West Virginia,Preston,-0.50,18,-0.06,26
+54079,West Virginia,Putnam,-0.67,9,-1.07,2
+54081,West Virginia,Raleigh,0.65,45,-0.15,23
+54083,West Virginia,Randolph,-0.29,28,0.13,35
+54085,West Virginia,Ritchie,-0.67,11,0.12,32
+54087,West Virginia,Roane,-0.64,13,0.68,51
+54089,West Virginia,Summers,0.76,46,0.36,46
+54091,West Virginia,Taylor,-0.24,30,-0.26,16
+54093,West Virginia,Tucker,-0.85,6,-0.15,22
+54095,West Virginia,Tyler,-0.50,17,-0.18,21
+54097,West Virginia,Upshur,-0.70,8,-0.30,15
+54099,West Virginia,Wayne,1.13,49,0.15,37
+54101,West Virginia,Webster,0.39,40,0.43,47
+54103,West Virginia,Wetzel,-0.25,29,0.17,38
+54105,West Virginia,Wirt,-0.46,22,0.13,34
+54107,West Virginia,Wood,-0.21,32,-0.31,14
+54109,West Virginia,Wyoming,2.30,54,0.52,48
+55001,Wisconsin,Adams,1.09,69,0.89,70
+55003,Wisconsin,Ashland,0.17,49,0.08,42
+55005,Wisconsin,Barron,-0.21,29,0.15,48
+55007,Wisconsin,Bayfield,-0.06,38,0.26,56
+55009,Wisconsin,Brown,-0.17,30,-0.29,17
+55011,Wisconsin,Buffalo,0.02,41,-0.14,26
+55013,Wisconsin,Burnett,0.23,51,0.47,62
+55015,Wisconsin,Calumet,-0.63,14,-0.65,8
+55017,Wisconsin,Chippewa,-0.26,26,-0.04,33
+55019,Wisconsin,Clark,-0.27,25,0.63,69
+55021,Wisconsin,Columbia,-0.23,27,-0.03,34
+55023,Wisconsin,Crawford,-0.02,39,0.17,50
+55025,Wisconsin,Dane,-0.62,15,-0.83,3
+55027,Wisconsin,Dodge,0.21,50,0.01,37
+55029,Wisconsin,Door,-0.88,5,-0.28,18
+55031,Wisconsin,Douglas,0.24,53,0.24,55
+55033,Wisconsin,Dunn,-0.66,12,-0.21,20
+55035,Wisconsin,Eau Claire,-0.56,17,-0.48,13
+55037,Wisconsin,Florence,-0.38,23,0.05,40
+55039,Wisconsin,Fond du Lac,-0.09,36,-0.19,22
+55041,Wisconsin,Forest,1.02,68,0.50,63
+55043,Wisconsin,Grant,-0.66,11,-0.11,30
+55045,Wisconsin,Green,-0.56,16,-0.54,11
+55047,Wisconsin,Green Lake,0.83,65,-0.04,32
+55049,Wisconsin,Iowa,-0.73,7,-0.15,23
+55051,Wisconsin,Iron,0.15,48,0.16,49
+55053,Wisconsin,Jackson,0.47,61,0.22,53
+55055,Wisconsin,Jefferson,-0.23,28,-0.13,28
+55057,Wisconsin,Juneau,0.98,67,0.63,68
+55059,Wisconsin,Kenosha,0.84,66,0.37,61
+55061,Wisconsin,Kewaunee,-1.01,2,-0.29,16
+55063,Wisconsin,La Crosse,-0.39,21,-0.80,4
+55065,Wisconsin,Lafayette,-0.30,24,-0.11,29
+55067,Wisconsin,Langlade,0.40,58,0.36,59
+55069,Wisconsin,Lincoln,0.47,60,0.12,44
+55071,Wisconsin,Manitowoc,-0.01,40,-0.15,24
+55073,Wisconsin,Marathon,-0.45,18,-0.13,27
+55075,Wisconsin,Marinette,0.43,59,0.34,58
+55077,Wisconsin,Marquette,1.10,70,0.56,66
+55078,Wisconsin,Menominee,1.88,72,1.44,72
+55079,Wisconsin,Milwaukee,1.70,71,1.11,71
+55081,Wisconsin,Monroe,0.03,43,0.36,60
+55083,Wisconsin,Oconto,0.12,46,0.03,38
+55085,Wisconsin,Oneida,0.35,57,-0.27,19
+55087,Wisconsin,Outagamie,-0.43,20,-0.58,10
+55089,Wisconsin,Ozaukee,-1.02,1,-1.32,1
+55091,Wisconsin,Pepin,-0.14,31,-0.21,21
+55093,Wisconsin,Pierce,-0.94,4,-0.69,7
+55095,Wisconsin,Polk,-0.11,33,0.00,36
+55097,Wisconsin,Portage,-0.72,8,-0.50,12
+55099,Wisconsin,Price,0.24,52,0.04,39
+55101,Wisconsin,Racine,0.68,64,0.56,65
+55103,Wisconsin,Richland,0.28,56,0.21,51
+55105,Wisconsin,Rock,0.62,62,0.56,64
+55107,Wisconsin,Rusk,0.28,55,0.29,57
+55111,Wisconsin,Sauk,0.02,42,0.06,41
+55113,Wisconsin,Sawyer,-0.13,32,0.62,67
+55115,Wisconsin,Shawano,0.66,63,0.22,52
+55117,Wisconsin,Sheboygan,-0.44,19,-0.41,14
+55109,Wisconsin,St. Croix,-0.97,3,-0.71,6
+55119,Wisconsin,Taylor,-0.75,6,-0.01,35
+55121,Wisconsin,Trempealeau,0.04,44,0.12,45
+55123,Wisconsin,Vernon,-0.70,9,0.15,47
+55125,Wisconsin,Vilas,-0.09,35,-0.14,25
+55127,Wisconsin,Walworth,-0.10,34,-0.08,31
+55129,Wisconsin,Washburn,0.13,47,0.24,54
+55131,Wisconsin,Washington,-0.69,10,-0.73,5
+55133,Wisconsin,Waukesha,-0.65,13,-1.02,2
+55135,Wisconsin,Waupaca,0.04,45,0.09,43
+55137,Wisconsin,Waushara,0.26,54,0.12,46
+55139,Wisconsin,Winnebago,-0.08,37,-0.33,15
+55141,Wisconsin,Wood,-0.39,22,-0.60,9
+56001,Wyoming,Albany,-0.46,8,-0.60,3
+56003,Wyoming,Big Horn,0.53,18,0.20,16
+56005,Wyoming,Campbell,0.17,13,0.09,14
+56007,Wyoming,Carbon,0.90,21,0.75,23
+56009,Wyoming,Converse,-0.59,6,-0.05,11
+56011,Wyoming,Crook,-1.14,2,-0.33,5
+56013,Wyoming,Fremont,1.43,23,0.74,22
+56015,Wyoming,Goshen,0.22,14,0.34,19
+56017,Wyoming,Hot Springs,0.90,20,-0.04,12
+56019,Wyoming,Johnson,-0.49,7,-0.31,6
+56021,Wyoming,Laramie,0.22,15,0.10,15
+56023,Wyoming,Lincoln,0.06,10,-0.27,7
+56025,Wyoming,Natrona,0.22,16,0.25,17
+56027,Wyoming,Niobrara,1.08,22,0.45,20
+56029,Wyoming,Park,-0.62,5,-0.36,4
+56031,Wyoming,Platte,0.11,12,0.34,18
+56033,Wyoming,Sheridan,0.08,11,-0.22,8
+56035,Wyoming,Sublette,-0.82,3,-0.63,2
+56037,Wyoming,Sweetwater,0.44,17,0.47,21
+56039,Wyoming,Teton,-1.78,1,-0.74,1
+56041,Wyoming,Uinta,0.61,19,-0.13,10
+56043,Wyoming,Washakie,-0.81,4,-0.15,9
+56045,Wyoming,Weston,-0.26,9,0.05,13
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
